@@ -6,18 +6,18 @@ permalink: /
 notification: Keep a look out for ways you can contribute in! <a href="/register/">Register now</a>
 sections:
     - hero:
-        title: Ministry of ABC
-        subtitle: We provide Singaporeans with XYZ services
+        title: #SGUnited
+        subtitle: Together We Can Overcome!
         background: /images/banner.png
         url: /contact-us/
         button: Contact
         key_highlights:
-            - title: ABC services
-              description: Find out what ABC can do for you
-              url: /services/
-            - title: Our Annual Reports
+            - title: 2019-nCoV Updates
+              description: Keep Updated on the Situation
+              url: "https://gov.sg"
+            - title: Volunteer.Sg
               url: /annual-reports/
-            - title: Join ABC
+            - title: Giving.Sg
               description: Unleash your passion and be rewarded with a fulfilling career!
               url: /careers/
     - infobar:
