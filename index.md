@@ -14,7 +14,7 @@ sections:
         key_highlights:
             - title: Resources
               description: To share with your networks
-              url: "https://gov.sg/features/2019-ncov"
+              url: 
             - title: Donate
               description: To help those in need
               url: "https://giving.sg"            
@@ -25,11 +25,11 @@ sections:
               description: To activate your networks
               url: 
     - infobar:
-        title: For the latest updates
-        subtitle: 
+        title: 
+        subtitle: For updates on the situation
         description: 
-        button: 
-        url: /careers/
+        button: Click Here
+        url: "https://gov.sg/features/2019-ncov"
     - resources:
         title: Latest Requests
         subtitle: Notice Board
