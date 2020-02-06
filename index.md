@@ -25,7 +25,7 @@ sections:
               description: What we can give?
               url: 
     - infobar:
-        title: Where do I go if I want updates one the 2019-nCoV situation?
+        title: Where do I go if I want updates on the 2019-nCoV situation?
         subtitle: 
         description: Start a fulfulling and rewarding career with the Ministry of ABC!
         button: Join Us
