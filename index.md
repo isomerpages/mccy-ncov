@@ -25,8 +25,8 @@ sections:
               description: To activate your networks
               url: 
     - infobar:
-        title: 
-        subtitle: For updates on the situation
+        title: Current Status        
+        subtitle: 
         description: 
         button: Click Here
         url: "https://gov.sg/features/2019-ncov"
