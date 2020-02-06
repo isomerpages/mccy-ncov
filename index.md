@@ -27,7 +27,6 @@ sections:
             - title: Give
               description: How you can give?
               url: "https://giving.sg"
-           
     - infobar:
         title: What are the needs and how can I help?
         subtitle: Here is a list of ways that you can contribute actively:
