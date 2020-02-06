@@ -24,6 +24,8 @@ sections:
             - title: Get Together
               description: To activate your networks
               url: "https://www.sg/oursingaporefund"    
+    - infopic:
+        title: Thank You!
     - infobar:
         title: Current Status        
         subtitle: 
