@@ -12,20 +12,23 @@ sections:
         url: /contact-us/
         button: Contact
         key_highlights:
-            - title: 2019-nCoV Updates
+            - title: Updates
               description: Keep updated on the situation
               url: "https://gov.sg/features/2019-ncov"
-            - title: Volunteer.Sg
-              description: How you can volunteer
-              url: "https://volunteer.sg"
-            - title: Giving.Sg
+            - title: Share Information
+              description: 
+              url: 
+            - title: Donate
               description: How you can give?
               url: "https://giving.sg"
-            - title: Donate
-              description: What we can give?
+            - title: Volunteer
+              description: 
+              url: "https://volunteer.sg"
+            - title: Activate
+              description:
               url: 
     - infobar:
-        title: Where do I go if I want updates on the 2019-nCoV situation?
+        title: Where do I go if I want updates?
         subtitle: 
         description: Start a fulfulling and rewarding career with the Ministry of ABC!
         button: Join Us
