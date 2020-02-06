@@ -8,14 +8,14 @@ logo: /images/MCCY.jpg
 
 links:
   - title: Current Status
-    url: /contact-us/
+    url: "https://gov.sg/features/2019-ncov"
   - title: Resources
-    collection: left-nav-one
+    url: "https://drive.google.com/drive/mobile/folders/19n9Um9d9YEGsDTaW3gRp0cFQgpBMIZ_Y"
   - title: Donate
-    collection: left-nav-two
+    url: "https://giving.sg"
   - title: Volunteer
-    collection: left-nav-one
+    url: "https://volunteer.sg"
   - title: Activate
-    collection: left-nav-one
+    url: "https://www.sg/oursingaporefund"
   - title: Collaborate
     resource_room: true
