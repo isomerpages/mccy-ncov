@@ -1,9 +1,9 @@
 ---
 layout: homepage
-title: Ministry of ABC
+title: 2019-nCoV Community Response
 description: The Ministry of ABC is the ministry in charge of XYZ
 permalink: /
-notification: Initiative A will be launching soon! <a href="/register/">Register now</a>
+notification: Keep a look out for ways you can contribute in! <a href="/register/">Register now</a>
 sections:
     - hero:
         title: Ministry of ABC
