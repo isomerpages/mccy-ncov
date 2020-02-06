@@ -31,13 +31,13 @@ sections:
         button: Click Here
         url: "https://gov.sg/features/2019-ncov"
     - infopic:
-        title: Thank You!
-        subtitle: 
-        description: Your partnership with us is appreciated        
-        button: Click Here
-        url: 
-        image: /images/Giving.jpg
-        alt: Thank you for partnering with us
+        title: Integrity
+        subtitle: Core Values
+        description: Integrity drives everything we do at the Ministry of ABC
+        button: Learn More
+        url: /core-values/
+        image: /images/integrity.png
+        alt: Members of the Ministry of ABC shaking hands
     - resources:
         title: Latest Requests
         subtitle: Notice Board
