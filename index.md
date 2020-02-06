@@ -26,6 +26,8 @@ sections:
               url: "https://www.sg/oursingaporefund"    
     - infopic:
         title: Thank You!
+        subtitle:
+        image: 
     - infobar:
         title: Current Status        
         subtitle: 
