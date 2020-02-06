@@ -31,7 +31,7 @@ sections:
         button: 
         url: /careers/
     - resources:
-        title: Notice Board
-        subtitle: Latest Requests
+        title: Latest Requests
+        subtitle: Notice Board
         button: View More
 ---
