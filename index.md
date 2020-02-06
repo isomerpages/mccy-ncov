@@ -1,31 +1,31 @@
 ---
 layout: homepage
 title: "SGUnited"
-description: A community response effort brought to you by MCCY
+description: Let's come together to support each other
 permalink: /
-notification: Keep a look out for ways you can contribute by clicking <a href="/register/">here!</a>
+notification: 
 sections:
     - hero:
         title: "#SGUnited"
         subtitle: Together We Can Overcome!
         background: /images/Masks.jpg
         url: /contact-us/
-        button: Contact
+        button: Contribute
         key_highlights:
-            - title: Updates
-              description: Keep updated on the situation
+            - title: Resources
+              description: To share with your networks
               url: "https://gov.sg/features/2019-ncov"
-            - title: Share Information
-              description: 
-              url: 
             - title: Donate
-              description: How you can give?
-              url: "https://giving.sg"
+              description: To help those in need
+              url: "https://giving.sg"            
             - title: Volunteer
-              description: 
-              url: "https://volunteer.sg"
+              description: To support those affected
+              url: "https://volunteer.sg"            
+            - title: Get Together
+              description: To activate your networks
+              url: 
     - infobar:
-        title: Where do I go if I want updates?
+        title: For the latest updates
         subtitle: 
         description: 
         button: 
