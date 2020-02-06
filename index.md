@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: "#SGUnited"
+title: Resolute
 description: A community response effort brought to you by MCCY
 permalink: /
 notification: Keep a look out for ways you can contribute by clicking <a href="/register/">here!</a>
@@ -15,22 +15,19 @@ sections:
             - title: 2019-nCoV Updates
               description: Keep updated on the situation
               url: "https://gov.sg/features/2019-ncov"
-            - title: Share
-              description: Keep updated on the situation
-              url: ""
+            - title: Volunteer.Sg
+              description: How you can volunteer
+              url: "https://volunteer.sg"
+            - title: Giving.Sg
+              description: How you can give?
+              url: "https://giving.sg"
             - title: Donate
               description: What we can give?
               url: 
-            - title: Volunteer
-              description: How you can volunteer
-              url: "https://volunteer.sg"
-            - title: Give
-              description: How you can give?
-              url: "https://giving.sg"
     - infobar:
-        title: What are the needs and how can I help?
-        subtitle: Here is a list of ways that you can contribute actively:
-        description: 
+        title: Where do I go if I want updates on the 2019-nCoV situation?
+        subtitle: 
+        description: Start a fulfulling and rewarding career with the Ministry of ABC!
         button: Join Us
         url: /careers/
     - infopic:
