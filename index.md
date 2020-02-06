@@ -1,9 +1,9 @@
 ---
 layout: homepage
 title: 2019-nCoV Community Response
-description: The Ministry of ABC is the ministry in charge of XYZ
+description: A community response effort brough to you by MCCY
 permalink: /
-notification: Keep a look out for ways you can contribute in! <a href="/register/">Register now</a>
+notification: Keep a look out for ways you can contribute in! <a href="/register/">Click Here!</a>
 sections:
     - hero:
         title: "#SGUnited"
@@ -19,11 +19,11 @@ sections:
               description: How you can volunteer
               url: /annual-reports/
             - title: Giving.Sg
-              description: How you can give
-              url: /careers/
+              description: How you can give?
+              url: 
             - title: Donate
-              description: What I can give
-              url: /careers/
+              description: What we can give?
+              url: 
     - infobar:
         title: Where do I go if I want updates one the 2019-nCoV situation?
         subtitle: 
