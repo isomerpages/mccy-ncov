@@ -24,6 +24,12 @@ sections:
             - title: Get Together
               description: To activate your networks
               url: "https://www.sg/oursingaporefund"    
+    - infobar:
+        title: Current Status        
+        subtitle: 
+        description: 
+        button: Click Here
+        url: "https://gov.sg/features/2019-ncov"
     - infopic:
         title: Thank You!
         subtitle: 
@@ -32,12 +38,6 @@ sections:
         url: 
         image: /images/Giving.jpg
         alt: Thank you for partnering with us
-    - infobar:
-        title: Current Status        
-        subtitle: 
-        description: 
-        button: Click Here
-        url: "https://gov.sg/features/2019-ncov"
     - resources:
         title: Latest Requests
         subtitle: Notice Board
