@@ -7,11 +7,15 @@
 logo: /images/MCCY.jpg
 
 links:
-  - title: About
+  - title: Current Status
     url: /contact-us/
-  - title: Volunteer.SG
+  - title: Resources
     collection: left-nav-one
-  - title: Giving.SG
+  - title: Donate
     collection: left-nav-two
-  - title: Resource Room
+  - title: Volunteer
+    collection: left-nav-one
+  - title: Activate
+    collection: left-nav-one
+  - title: Collaborate
     resource_room: true
