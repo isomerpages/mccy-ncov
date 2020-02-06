@@ -24,9 +24,6 @@ sections:
             - title: Volunteer
               description: 
               url: "https://volunteer.sg"
-            - title: Activate
-              description: lol
-              url: 
     - infobar:
         title: Where do I go if I want updates?
         subtitle: 
