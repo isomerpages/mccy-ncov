@@ -23,7 +23,7 @@ sections:
               url: "https://volunteer.sg"            
             - title: Get Together
               description: To activate your networks
-              url:"https://www.sg/oursingaporefund"    
+              url: "https://www.sg/oursingaporefund"    
     - infobar:
         title: Current Status        
         subtitle: 
