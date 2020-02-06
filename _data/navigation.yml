@@ -4,14 +4,14 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/MCCY.jpg
 
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Left Nav One
+  - title: Volunteer.SG
     collection: left-nav-one
-  - title: Left Nav Two
+  - title: Giving.SG
     collection: left-nav-two
   - title: Resource Room
     resource_room: true
