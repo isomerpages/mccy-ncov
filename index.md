@@ -30,14 +30,6 @@ sections:
         description: 
         button: Click Here
         url: "https://gov.sg/features/2019-ncov"
-    - infopic:
-        title: Integrity
-        subtitle: Core Values
-        description: Integrity drives everything we do at the Ministry of ABC
-        button: Learn More
-        url: /core-values/
-        image: /images/integrity.png
-        alt: Members of the Ministry of ABC shaking hands
     - resources:
         title: Latest Requests
         subtitle: Notice Board
