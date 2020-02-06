@@ -13,14 +13,14 @@ sections:
         button: Contact
         key_highlights:
             - title: 2019-nCoV Updates
-              description: Keep Updated on the Situation
+              description: Keep updated on the situation
               url: "https://gov.sg"
             - title: Volunteer.Sg
               description: How you can volunteer
-              url: /annual-reports/
+              url: "https://volunteer.sg"
             - title: Giving.Sg
               description: How you can give?
-              url: 
+              url: "https://giving.sg"
             - title: Donate
               description: What we can give?
               url: 
