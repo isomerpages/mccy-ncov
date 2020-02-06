@@ -1,9 +1,9 @@
 ---
 layout: homepage
 title: 2019-nCoV Community Response
-description: A community response effort brough to you by MCCY
+description: A community response effort brought to you by MCCY
 permalink: /
-notification: Keep a look out for ways you can contribute in! <a href="/register/">Click Here!</a>
+notification: Keep a look out for ways you can contribute in <a href="/register/">Click Here!</a>
 sections:
     - hero:
         title: "#SGUnited"
@@ -14,7 +14,7 @@ sections:
         key_highlights:
             - title: 2019-nCoV Updates
               description: Keep updated on the situation
-              url: "https://gov.sg"
+              url: "https://gov.sg/features/2019/ncov"
             - title: Volunteer.Sg
               description: How you can volunteer
               url: "https://volunteer.sg"
