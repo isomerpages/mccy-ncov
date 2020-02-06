@@ -16,13 +16,14 @@ sections:
               description: Keep Updated on the Situation
               url: "https://gov.sg"
             - title: Volunteer.Sg
+              description: How you can volunteer
               url: /annual-reports/
             - title: Giving.Sg
-              description: Unleash your passion and be rewarded with a fulfilling career!
+              description: How you can give
               url: /careers/
     - infobar:
-        title: Work for the public good
-        subtitle: Careers
+        title: Where do I go if I want updates one the 2019-nCoV situation?
+        subtitle: 
         description: Start a fulfulling and rewarding career with the Ministry of ABC!
         button: Join Us
         url: /careers/
