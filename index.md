@@ -8,7 +8,7 @@ sections:
     - hero:
         title: "#SGUnited"
         subtitle: Together We Can Overcome!
-        background: /images/banner.png
+        background: /images/Masks.jpg
         url: /contact-us/
         button: Contact
         key_highlights:
