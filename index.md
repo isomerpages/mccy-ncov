@@ -1,9 +1,9 @@
 ---
 layout: homepage
-title: 2019-nCoV Community Response
+title: Resolute
 description: A community response effort brought to you by MCCY
 permalink: /
-notification: Keep a look out for ways you can contribute in <a href="/register/">Click Here!</a>
+notification: Keep a look out for ways you can contribute by clicking <a href="/register/">here!</a>
 sections:
     - hero:
         title: "#SGUnited"
