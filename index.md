@@ -9,12 +9,12 @@ sections:
         title: "#SGUnited"
         subtitle: Together We Can Overcome!
         background: /images/Masks.jpg
-        url: /contact-us/
+        url: "https://drive.google.com/drive/mobile/folders/19n9Um9d9YEGsDTaW3gRp0cFQgpBMIZ_Y"
         button: Contribute
         key_highlights:
             - title: Resources
               description: To share with your networks
-              url: 
+              url: "https://drive.google.com/drive/mobile/folders/19n9Um9d9YEGsDTaW3gRp0cFQgpBMIZ_Y"            
             - title: Donate
               description: To help those in need
               url: "https://giving.sg"            
