@@ -14,7 +14,7 @@ sections:
         key_highlights:
             - title: 2019-nCoV Updates
               description: Keep updated on the situation
-              url: "https://gov.sg/features/2019/ncov"
+              url: "https://gov.sg/features/2019-ncov"
             - title: Volunteer.Sg
               description: How you can volunteer
               url: "https://volunteer.sg"
