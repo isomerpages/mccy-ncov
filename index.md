@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: "SGUnited"
+title: "#SGUnited"
 description: A community response effort brought to you by MCCY
 permalink: /
 notification: Keep a look out for ways you can contribute by clicking <a href="/register/">here!</a>
@@ -25,7 +25,7 @@ sections:
               description: 
               url: "https://volunteer.sg"
             - title: Activate
-              description:
+              description:lol
               url: 
     - infobar:
         title: Where do I go if I want updates?
