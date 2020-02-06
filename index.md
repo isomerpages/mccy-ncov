@@ -24,9 +24,9 @@ sections:
             - title: Get Together
               description: To activate your networks
               url:
-      - resources:
-        title: Thank You!
-        subtitle: Appriciate
+    - resources:
+        title: Latest Requests
+        subtitle: Notice Board
         button: View More
     - infobar:
         title: Current Status        
