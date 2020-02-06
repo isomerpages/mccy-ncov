@@ -21,6 +21,9 @@ sections:
             - title: Giving.Sg
               description: How you can give
               url: /careers/
+            - title: Donate
+              description: What I can give
+              url: /careers/
     - infobar:
         title: Where do I go if I want updates one the 2019-nCoV situation?
         subtitle: 
