@@ -8,7 +8,7 @@ sections:
     - hero:
         title: "#SGUnited"
         subtitle: Together We Can Overcome!
-        background: /images/Masks.jpg
+        background: /images/Banner.jpg
         url: "https://drive.google.com/drive/mobile/folders/19n9Um9d9YEGsDTaW3gRp0cFQgpBMIZ_Y"
         button: Contribute
         key_highlights:
@@ -23,7 +23,11 @@ sections:
               url: "https://volunteer.sg"            
             - title: Get Together
               description: To activate your networks
-              url: 
+              url:
+      - resources:
+        title: Thank You!
+        subtitle: Appriciate
+        button: View More
     - infobar:
         title: Current Status        
         subtitle: 
