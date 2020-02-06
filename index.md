@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Resolute
+title: "SGUnited"
 description: A community response effort brought to you by MCCY
 permalink: /
 notification: Keep a look out for ways you can contribute by clicking <a href="/register/">here!</a>
