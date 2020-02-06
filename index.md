@@ -6,7 +6,7 @@ permalink: /
 notification: Keep a look out for ways you can contribute in! <a href="/register/">Register now</a>
 sections:
     - hero:
-        title: #SGUnited
+        title: "#SGUnited"
         subtitle: Together We Can Overcome!
         background: /images/banner.png
         url: /contact-us/
