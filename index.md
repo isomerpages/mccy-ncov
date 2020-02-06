@@ -29,7 +29,7 @@ sections:
         subtitle: 
         description: Your partnership with us is appreciated        
         button: Click Here
-        url: /core-values/
+        url: 
         image: /images/Giving.jpg
         alt: Thank you for partnering with us
     - infobar:
