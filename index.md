@@ -26,11 +26,11 @@ sections:
               url: "https://www.sg/oursingaporefund"    
     - infopic:
         title: Thank You!
-        subtitle: Your partnership with us is appreciated
-        description: 
+        subtitle: 
+        description: Your partnership with us is appreciated        
         button: Click Here
         url: /core-values/
-        image: /images/giving.jpg
+        image: /images/Giving.jpg
         alt: Thank you for partnering with us
     - infobar:
         title: Current Status        
