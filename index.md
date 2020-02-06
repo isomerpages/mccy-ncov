@@ -27,6 +27,7 @@ sections:
     - infopic:
         title: Thank You!
         subtitle:
+        alt-text:
         image: 
     - infobar:
         title: Current Status        
