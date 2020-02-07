@@ -23,7 +23,15 @@ sections:
               url: "https://volunteer.sg"            
             - title: Get Together
               description: To activate your networks
-              url: "https://www.sg/oursingaporefund"    
+              url: "https://www.sg/oursingaporefund"
+    - infopic:
+        title: Thank You!
+        subtitle: 
+        description: You pledge of support is much appreciated!
+        button: Learn More
+        url: /core-values/
+        image: /images/counter.png
+        alt: 20,000 people have supported us!
     - infobar:
         title: Current Status        
         subtitle: 
