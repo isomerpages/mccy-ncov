@@ -12,4 +12,4 @@ Many general household products contain the appropriate concentrations of active
 
 In addition to the use of cleaning agents, other treatments effective against coronavirus include steam and heat treatment.
 
-For a full list of the products, visit the NEA website url: "https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/guidelines/interim-list-of-household-products-and-active-ingredients-for-disinfection-of-novel-coronavirus"
+For a full list of the products, visit the NEA website.
