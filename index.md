@@ -15,15 +15,15 @@ sections:
             - title: Volunteer
               description: To support those affected
               url: "https://volunteer.sg" 
-            - title: Share
-              description: To share information with your networks
-              url: "https://drive.google.com/drive/mobile/folders/19n9Um9d9YEGsDTaW3gRp0cFQgpBMIZ_Y"            
-            - title: Donate
-              description: To help those in need
-              url: "https://giving.sg"                       
+            - title: Useful Information
+              description: To share with your networks
+              url: "https://drive.google.com/drive/mobile/folders/19n9Um9d9YEGsDTaW3gRp0cFQgpBMIZ_Y"                                  
             - title: Get Together
               description: To activate your networks
               url: "https://www.sg/oursingaporefund"
+            - title: Donate
+              description: To help those in need
+              url: "https://giving.sg" 
     - infopic:
         title: Thank You!
         subtitle: 
