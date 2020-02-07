@@ -2,7 +2,7 @@
 layout: post
 title:  Help needed in Punggol
 date:   2020-02-01
-permalink: /resource-room/Latest-Requests/_posts/Help-needed-in-Punggol/
+permalink: /resource-room/Latest-Requests/Help-needed-in-Punggol
 ---
 
 # Help Needed in Punggol
