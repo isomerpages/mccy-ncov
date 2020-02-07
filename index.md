@@ -6,11 +6,11 @@ permalink: /
 notification: 
 sections:
     - hero:
-        title: "#SGUnited"
-        subtitle: Together We Can Overcome!
+        title: "Volunteers Needed!"
+        subtitle: "to help with masks distribution"
         background: /images/Banner.jpg
-        url: "https://drive.google.com/drive/mobile/folders/19n9Um9d9YEGsDTaW3gRp0cFQgpBMIZ_Y"
-        button: Contribute
+        url: "https://volunteer.sg"
+        button: Sign Up!
         key_highlights:
             - title: Volunteer
               description: To support those affected
