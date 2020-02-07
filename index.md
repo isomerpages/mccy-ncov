@@ -25,10 +25,10 @@ sections:
               description: To help those in need
               url: "https://giving.sg" 
     - infopic:
-        title: Thank You!
-        subtitle: 
-        description: You pledge of support is much appreciated!
-        button: Learn More
+        title: Pledge Your Support
+        subtitle: 20,150 pledges received to date!
+        description: Offer your support.
+        button: Pledge Now!
         url: /core-values/
         image: /images/Giving.jpg
         alt: 20,000 people have supported us!
