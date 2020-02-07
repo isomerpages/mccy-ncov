@@ -29,7 +29,7 @@ sections:
         subtitle: 20,150 pledges received to date!
         description: Offer your support.
         button: Pledge Now!
-        url: /core-values/
+        url: "https://form.gov.sg/5e3b868988573300116ca38a"
         image: /images/Giving.jpg
         alt: 20,000 people have supported us!
     - infobar:
