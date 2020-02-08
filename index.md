@@ -6,7 +6,7 @@ permalink: /
 notification: 
 sections:
     - hero:
-        title: "Help needed for care pack distribution!"
+        title: "Community action to help Singapore overcome 2019-nCoV"
         subtitle: "Sign up as a volunteer here!"
         background: /images/Banner.jpg
         url: "https://volunteer.sg/ncov"
