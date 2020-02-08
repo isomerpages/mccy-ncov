@@ -4,7 +4,8 @@ permalink: pages/share-content/
 description: Find and share content made by community to show care, appreciation and hope.
 ---
 
-To find out and share what you or others are doing, you can:
+Find and share content made by community to show care, appreciation and hope.
+
 ### Join our Facebook Group 
 Click <a href="https://www.facebook.com/groups/193720638381555">here</a> to go to the site.
 ### Subscribe to our Telegram Channel
