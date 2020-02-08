@@ -7,7 +7,7 @@ notification:
 sections:
     - hero:
         title: "Community action to help Singapore overcome 2019-nCoV"
-        subtitle: "Sign up as a volunteer here!"
+        subtitle: "Sign up for care pack distribution here!"
         background: /images/Banner.jpg
         url: "https://volunteer.sg/ncov"
         button: Sign Up!
