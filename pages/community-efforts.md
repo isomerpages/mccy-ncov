@@ -6,15 +6,15 @@ breadcrumb: Community Efforts
 
 ### Volunteer & Donate
 
-Www.giving.sg
+Visit <a href="www.giving.sg">Giving.SG</a> for more information on how you can help in our fight together.
 
 ### Contribute Masks
 
-Www.contribute.sg - contribute masks to those who need it
+You can go to <a href="www.contribute.sg>Contribute.SG</a> to contribute masks to those who need it.
 
 ### Starting your own effort? Share it with us.
 
-[https://form.gov.sg/#!/5e3b868988573300116ca38a]
+Share your ideas <a href="https://form.gov.sg/#!/5e3b868988573300116ca38a">here!</a>
 
 ### Here are some things Singaporeans have done!
 
