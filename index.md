@@ -16,7 +16,7 @@ sections:
               description: support those most affected
               url: "https://www.comchest.sg/" 
             - title: Share Materials
-              description: community made content for your networks
+              description: community-made content for your networks
               url: pages/useful-materials/                                
             - title: Give to Community Efforts
               description: contribute to efforts of fellow Singaporeans
