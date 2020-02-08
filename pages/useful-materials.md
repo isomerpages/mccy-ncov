@@ -5,7 +5,7 @@ description: Avenues you can go to for and share information.
 ---
 
 To find out and share what you or others are doing, you can:
-### Join our Fackbook Group 
+### Join our Facebook Group 
 Click <a href="https://www.facebook.com/groups/193720638381555">here</a> to go to the site.
 ### Subscribe to our Telegram Channel
 Click <a href="https://t.me/joinchat/AAAAAE9SFl2mvOXMzmzgyA">here</a> to join the channel.
