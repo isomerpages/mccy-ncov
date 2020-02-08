@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Couple Hand Out Masks to Singapopreans
-date:   2020-02-01
+date:   2020-02-04
 permalink: /resource-room/Couple-distribute-17000-masks
 ---
 
