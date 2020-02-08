@@ -16,7 +16,5 @@ locations:
 contacts:
   - title: General Enquiries & Feedback
     content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
+    - email: red@mccy.gov.sg
 ---
