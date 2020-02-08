@@ -23,7 +23,7 @@ sections:
               url: pages/community-efforts/
             - title: Community In Action
               description: To help those in need
-              url:  pages/community-in-action/
+              url:  resource-room
     - infopic:
         title: Pledge Your Support
         subtitle: 20,150 pledges received to date!
