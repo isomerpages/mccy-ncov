@@ -15,7 +15,7 @@ sections:
             - title: Help the Vulnerable
               description: support those most affected
               url: "https://www.comchest.sg/" 
-            - title: Share Useful Materials
+            - title: Share Materials
               description: community made content for your networks
               url: pages/useful-materials/                                
             - title: Give to Community Efforts
