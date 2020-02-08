@@ -5,7 +5,8 @@ date:   2020-02-01
 permalink: /resource-room/Couple-distribute-17000-masks
 ---
 
-## Couple Distribute 17,000 Masks Punggol MRT
+## Couple Hand Out Masks to Singapopreans
+
 On Feb. 4, 2020, a post on Singapore Atrium Sales about a group of Vietnamese people handing out free masks outside Punggol MRT went viral.
 
 Many praised the selflessness of the people handing out the masks.
