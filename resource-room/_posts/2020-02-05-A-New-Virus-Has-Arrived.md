@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  A New Virus Has Arrived!
+title:  EtonHouse Releases Educational eBook on the nCoV
 date:   2020-02-05
 permalink: /resource-room/A-New-Virus-Has-Arrived
 ---
