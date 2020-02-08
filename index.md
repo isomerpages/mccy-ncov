@@ -27,17 +27,17 @@ sections:
     - infopic:
         title: Words of Encouragement
         subtitle: nCoV Frontline
-        description: Words from a familiar faces!
+        description: Words from familiar faces!
         button: Watch Here!
         url: "https://www.facebook.com/nCoVfrontline/"
         image: /images/nCoVF.jpg
         alt: nCoV Frontline
     - infopic:
-        title: An Amazing Story of Hope
-        subtitle: Despite being on their honeymoon, John can home to help!
-        description: His wife loved him even more
-        button: Read it!
-        url: "https://form.gov.sg/5e3b868988573300116ca38a"
+        title: Show your support
+        subtitle: Contribute to the community
+        description: Volunteer, Donate or Start Something!
+        button: Find out how!
+        url: pages/community-efforts/
         image: /images/Giving.jpg
         alt: 20,000 people have supported us!
     - resources:
