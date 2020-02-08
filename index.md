@@ -44,7 +44,7 @@ sections:
         description: Volunteer, Donate or Start Something!
         button: Find out how!
         url: pages/community-efforts/
-        image: /images/TeamNila.jpg
+        image: /images/TeamNila.jpeg
         alt: 20,000 people have supported us!
     - resources:
         title: Community in Action
