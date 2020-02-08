@@ -4,6 +4,34 @@ permalink: pages/community-efforts/
 breadcrumb: Community Efforts
 ---
 
-### Giving.SG
+### Volunteer & Donate
 
-### Ground Up Initiatives
+Www.giving.sg
+
+### Contribute Masks
+
+Www.contribute.sg - contribute masks to those who need it
+
+### Starting your own effort? Share it with us.
+
+[https://form.gov.sg/#!/5e3b868988573300116ca38a]
+
+### Here are some things Singaporeans have done!
+
+- Give to community efforts
+- Volunteer and donation drives on Giving.sg. Link to G.sg ncov campaign page, bekind
+- Ground up efforts
+- Maskgoshare
+- Contribute.sg
+- Goodhood        
+- Stand up for our SG
+
+Link to osf or form.sg
+See community in action
+RSVP mask distribution
+TCM medispa giving out masks
+RLs special prayers
+Vietnamese wfe + Singaporean man giving out masks
+Nyp nursing students appreciation video
+Link to osf
+Edmund chen page, move to community in action
