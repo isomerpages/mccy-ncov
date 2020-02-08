@@ -8,20 +8,19 @@ breadcrumb: Community Efforts
 
 Visit <a href="www.giving.sg">Giving.SG</a> for more information on how you can help in our fight together.
 
-### Contribute Masks
+### Contribute Resources
 
-You can go to <a href="www.contribute.sg">Contribute.SG</a> to contribute masks to those who need it.
+You can go to either <a href="www.contribute.sg">Contribute.SG</a> or <a href="www.better.sg/maskgoshare">Better.SG</a> if you have masks to share
 
 ### Starting your own effort? Share it with us.
 
-Share your ideas <a href="https://form.gov.sg/#!/5e3b868988573300116ca38a">here!</a>
+Share your ideas <a href="https://form.gov.sg/#!/5e3b868988573300116ca38a">here</a>!
 
 ### Here are some things Singaporeans have done!
 
-- Give to community efforts
-- Volunteer and donation drives on Giving.sg. Link to G.sg ncov campaign page, bekind
+-
+- Link to G.sg ncov campaign page, bekind
 - Ground up efforts
-- Maskgoshare
-- Contribute.sg
+- Masksharewhere
 - Goodhood        
 - Stand up for our SG
