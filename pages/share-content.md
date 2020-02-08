@@ -1,7 +1,7 @@
 ---
 title: Share Content
 permalink: pages/share-content/
-description: Avenues you can go to for and share information.
+description: Find and share content made by community to show care, appreciation and hope.
 ---
 
 To find out and share what you or others are doing, you can:
