@@ -1,6 +1,6 @@
 ---
-title: Share Useful Information
-permalink: pages/useful-information/
+title: Share Useful Materials
+permalink: pages/useful-materials/
 description: Avenues you can go to for and share information.
 ---
 
