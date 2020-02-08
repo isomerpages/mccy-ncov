@@ -36,3 +36,5 @@ And that should have been the end of their incredibly generous deed, but thanks 
 Adrian believes that these free distributions were necessary because humanity should stand together in “times of crisis”.
 
 He said that while they were not incredibly well-off, they were adamant on doing their part to help and believed that it was the right thing to do based on their Buddhist beliefs.
+
+_The article was adapted from <a href="https://mothership.sg/2020/02/give-free-mask-punggol/">Mothership.SG</a>_
