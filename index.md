@@ -6,8 +6,8 @@ permalink: /
 notification: 
 sections:
     - hero:
-        title: "Volunteers Needed!"
-        subtitle: "to help with masks distribution"
+        title: "Sign up as a volunteer!"
+        subtitle: "to support those affected"
         background: /images/Banner.jpg
         url: "https://volunteer.sg/ncov"
         button: Sign Up!
