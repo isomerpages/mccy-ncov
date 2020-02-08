@@ -14,7 +14,7 @@ sections:
         key_highlights:
             - title: Help the Vulnerable
               description: support those most affected
-              url: "https://www.comchest.sg/" 
+              url: "https://www.comchest.sg/eService/Donation/Form" 
             - title: Share Materials
               description: community-made content for your networks
               url: pages/useful-materials/                                
@@ -28,8 +28,8 @@ sections:
         title: Together we can overcome!       
         subtitle: 
         description: "This page brings together different community-led nCoV responses. To those who have stepped forward, we salute your efforts! We hope it inspires more of us to help one another get through this challenging time. #SGUnited"
-        button: Click Here
-        url: "https://gov.sg/features/2019-ncov"
+        button:
+        url:
     - infopic:
         title: Words of Encouragement
         subtitle: nCoV Frontline
