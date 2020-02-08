@@ -27,7 +27,7 @@ sections:
     - infobar:
         title: Together we can overcome!       
         subtitle: 
-        description: This page brings together different community-led nCoV responses. To those who have stepped forward, we salute your efforts! We hope it inspires more of us to help one another get through this challenging time. #SGUnited
+        description: "This page brings together different community-led nCoV responses. To those who have stepped forward, we salute your efforts! We hope it inspires more of us to help one another get through this challenging time. #SGUnited"
         button: Click Here
         url: "https://gov.sg/features/2019-ncov"
     - infopic:
