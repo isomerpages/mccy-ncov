@@ -33,8 +33,8 @@ sections:
         image: /images/Giving.jpg
         alt: 20,000 people have supported us!
     - infopic:
-        title: Amazing Story of Hope
-        subtitle: Despite being on honeymoon, John can home to help!
+        title: An Amazing Story of Hope
+        subtitle: Despite being on their honeymoon, John can home to help!
         description: His wife loved him even more
         button: Read it!
         url: "https://form.gov.sg/5e3b868988573300116ca38a"
