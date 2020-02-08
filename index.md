@@ -6,28 +6,28 @@ permalink: /
 notification: 
 sections:
     - hero:
-        title: "Sign up as a volunteer!"
-        subtitle: "to support those affected"
+        title: "Help needed for care pack distribution!"
+        subtitle: "Sign up as a volunteer here!"
         background: /images/Banner.jpg
         url: "https://volunteer.sg/ncov"
         button: Sign Up!
         key_highlights:
-            - title: Support for the Vulnerable
-              description: To support those affected
+            - title: Help the Vulnerable
+              description: support those most affected
               url: "https://www.comchest.sg/" 
             - title: Share Useful Materials
-              description: To share with your networks
+              description: community made content for your networks
               url: pages/useful-materials/                                
             - title: Give to Community Efforts
-              description: To help and give
+              description: contribute to efforts of fellow Singaporeans
               url: pages/community-efforts/
             - title: Community In Action
-              description: To help those in need
+              description: see what other Singaporeans have done
               url:  resource-room
     - infobar:
         title: Together we can overcome!       
         subtitle: 
-        description: This page brings together different community-led nCoV responses. To those who have stepped forward, we salute you! We hope it inspires more of us to do our part to help one another get through this challenging time. #SGUnited
+        description: This page brings together different community-led nCoV responses. To those who have stepped forward, we salute your efforts! We hope it inspires more of us to help one another get through this challenging time. #SGUnited
         button: Click Here
         url: "https://gov.sg/features/2019-ncov"
     - infopic:
