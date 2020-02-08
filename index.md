@@ -24,6 +24,12 @@ sections:
             - title: Community In Action
               description: To help those in need
               url:  resource-room
+     - infobar:
+        title:       
+        subtitle: Together we can overcome!
+        description: This page brings together different community-led nCoV responses. To those who have stepped forward, we salute you! We hope it inspires more of us to do our part to help one another get through this challenging time. #SGUnited
+        button: Click Here
+        url: "https://gov.sg/features/2019-ncov"
     - infopic:
         title: Words of Encouragement
         subtitle: nCoV Frontline
