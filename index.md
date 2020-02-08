@@ -25,8 +25,8 @@ sections:
               description: To help those in need
               url:  resource-room
     - infopic:
-        title: nCoV Frontline
-        subtitle: Words of Encouragement
+        title: Words of Encouragement
+        subtitle: nCoV Frontline
         description: Words from a familiar faces!
         button: Watch Here!
         url: "https://www.facebook.com/nCoVfrontline/"
