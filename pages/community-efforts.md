@@ -15,6 +15,3 @@ Visit either <a href="https://www.contribute.sg">Contribute.SG</a> or <a href="h
 ### Starting your own effort? Share it with us.
 
 Share your ideas <a href="https://form.gov.sg/#!/5e3b868988573300116ca38a">here</a>!
-
-### Here are some things Singaporeans have done!
-
