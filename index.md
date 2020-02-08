@@ -17,7 +17,7 @@ sections:
               url: "https://www.comchest.sg/" 
             - title: Share Useful Information
               description: To share with your networks
-              url: pages/useful-information/                                
+              url: pages/useful-materials/                                
             - title: Give to Community Efforts
               description: To help and give
               url: pages/community-efforts/
