@@ -33,7 +33,7 @@ sections:
         image: /images/Giving.jpg
         alt: 20,000 people have supported us!
     - resources:
-        title: Latest Requests
-        subtitle: Notice Board
+        title: Community in Action
+        subtitle: How we standby on another
         button: View More
 ---
