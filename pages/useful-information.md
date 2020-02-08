@@ -1,6 +1,7 @@
 ---
 title: Share Useful Information
 permalink: pages/useful-information/
+description: Avenues you can go to for and share information.
 image: images/Giving.jpg
 ---
 
