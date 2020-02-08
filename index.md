@@ -25,13 +25,13 @@ sections:
               description: To help those in need
               url:  resource-room
     - infopic:
-        title: Pledge Your Support
-        subtitle: 20,150 pledges received to date!
-        description: Offer your support.
-        button: Pledge Now!
-        url: "https://form.gov.sg/5e3b868988573300116ca38a"
-        image: /images/Giving.jpg
-        alt: 20,000 people have supported us!
+        title: nCoV Frontline
+        subtitle: Words of Encouragement
+        description: Words from a familiar faces!
+        button: Watch Here!
+        url: "https://www.facebook.com/nCoVfrontline/"
+        image: /images/nCoVF.jpg
+        alt: nCoV Frontline
     - infopic:
         title: An Amazing Story of Hope
         subtitle: Despite being on their honeymoon, John can home to help!
