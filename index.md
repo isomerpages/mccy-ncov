@@ -24,7 +24,7 @@ sections:
             - title: Community In Action
               description: To help those in need
               url:  resource-room
-     - infobar:
+    - infobar:
         title:       
         subtitle: Together we can overcome!
         description: This page brings together different community-led nCoV responses. To those who have stepped forward, we salute you! We hope it inspires more of us to do our part to help one another get through this challenging time. #SGUnited
@@ -44,7 +44,7 @@ sections:
         description: Volunteer, Donate or Start Something!
         button: Find out how!
         url: pages/community-efforts/
-        image: /images/Giving.jpg
+        image: /images/TeamNila.jpg
         alt: 20,000 people have supported us!
     - resources:
         title: Community in Action
