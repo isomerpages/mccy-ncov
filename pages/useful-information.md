@@ -13,5 +13,5 @@ To find out and share what you or others are doing, you can:
 [https://www.facebook.com/groups/193720638381555/]
 ### Here are some resources that you can share: 
 
-* To Educate ChildrenA New Virus Has Arrived eBook
-[https://info.etonhouse.com.sg/a-new-virus-has-arrived-ebook]
+* To Educate Children, A New Virus Has Arrived eBook
+<a href="https://info.etonhouse.com.sg/a-new-virus-has-arrived-ebook">here</a>
