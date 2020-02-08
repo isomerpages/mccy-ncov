@@ -7,15 +7,13 @@
 logo: /images/SGUnited.png
 
 links:
-  - title: Current Status
-    url: "https://gov.sg/features/2019-ncov"
-  - title: Resources
-    url: "https://drive.google.com/drive/mobile/folders/19n9Um9d9YEGsDTaW3gRp0cFQgpBMIZ_Y"
-  - title: Donate
-    url: "https://giving.sg"
-  - title: Volunteer
-    url: "https://volunteer.sg"
-  - title: Get Together
-    url: "https://www.sg/oursingaporefund"
-  - title: Collaborate
+  - title: Support for the Vulnerable
+    url:  "https://www.comchest.sg"
+  - title: Share Materials
+    url: pages/useful-materials
+  - title: Give to the Community
+    url: pages/community-efforts
+  - title: Community Initiatives
     url: /resource-room/
+  - title: Official Information
+    url: "https://gov.sg/features/2019-ncov"
