@@ -10,7 +10,7 @@ Visit <a href="www.giving.sg">Giving.SG</a> for more information on how you can 
 
 ### Contribute Masks
 
-You can go to <a href="www.contribute.sg>Contribute.SG</a> to contribute masks to those who need it.
+You can go to <a href="www.contribute.sg">Contribute.SG</a> to contribute masks to those who need it.
 
 ### Starting your own effort? Share it with us.
 
