@@ -12,11 +12,11 @@ sections:
         url: "https://volunteer.sg/ncov"
         button: Sign Up!
         key_highlights:
-            - title: Help the Vulnerable
-              description: support those most affected
+            - title: Help the Needy
+              description: support ComChest
               url: "https://www.comchest.sg/eService/Donation/Form" 
-            - title: Share Materials
-              description: community-made content for your networks
+            - title: Share Content
+              description: by the community to show care, appreciation and hope
               url: pages/useful-materials/                                
             - title: Give to Community Efforts
               description: contribute to efforts of fellow Singaporeans
