@@ -1,6 +1,7 @@
 ---
 title: Share Useful Information
 permalink: pages/useful-information/
+sections:
     - infopic:
         title: Join our Facebook Group
         subtitle: 
