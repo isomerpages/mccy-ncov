@@ -1,5 +1,5 @@
 ---
-title: Share Useful Materials
+title: Share Materials
 permalink: pages/useful-materials/
 description: Avenues you can go to for and share information.
 ---
