@@ -6,11 +6,11 @@ breadcrumb: Community Efforts
 
 ### Volunteer & Donate
 
-Visit <a href="www.giving.sg">Giving.SG</a> for more information on how you can help in our fight together.
+Visit <a href="https://www.giving.sg">Giving.SG</a> for more information on how you can help in our fight together.
 
 ### Contribute Resources
 
-You can go to either <a href="www.contribute.sg">Contribute.SG</a> or <a href="www.better.sg/maskgoshare">Better.SG</a> if you have masks to share.
+You can go to either <a href="https://www.contribute.sg">Contribute.SG</a> or <a href="https://www.better.sg/maskgoshare">Better.SG</a> if you have masks to share.
 
 ### Starting your own effort? Share it with us.
 
