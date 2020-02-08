@@ -1,29 +1,8 @@
 ---
 title: Share Useful Information
 permalink: pages/useful-information/
-sections:
-    - infopic:
-        title: Join our Facebook Group
-        subtitle: 
-        description: For the last updates one where to help.
-        button: Click Here
-        url: "https://form.gov.sg/5e3b868988573300116ca38a"
-        image: /images/Giving.jpg
-        alt: 20,000 people have supported us!    
-    - infopic:
-        title: Join our Telegram Channel
-        subtitle: 
-        description: For the latest push notifications
-        button: Click Here!
-        url: "https://form.gov.sg/5e3b868988573300116ca38a"
-        image: /images/Giving.jpg
-        alt: 20,000 people have supported us!
-    - infopic:
-        title: Join our Telegram Channel
-        subtitle: 
-        description: For the latest push notifications
-        button: Click Here!
-        url: "https://form.gov.sg/5e3b868988573300116ca38a"
-        image: /images/Giving.jpg
-        alt: 20,000 people have supported us!
+image:
 ---
+
+On this page, you will be able to get the latest information from out various channels and to share them with family and friends. You can join the various groups below to see what opportunities are available fore you to be involved in:
+
