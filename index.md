@@ -42,6 +42,6 @@ sections:
         alt: 20,000 people have supported us!
     - resources:
         title: Community in Action
-        subtitle: How we standby on another
+        subtitle: How we stand by on another
         button: View More
 ---
