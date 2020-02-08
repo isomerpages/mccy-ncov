@@ -18,4 +18,3 @@ Share your ideas <a href="https://form.gov.sg/#!/5e3b868988573300116ca38a">here<
 
 ### Here are some things Singaporeans have done!
 
-- say something nice
