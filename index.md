@@ -2,7 +2,7 @@
 layout: homepage
 title: "SGUnited"
 description: Let's come together to support each other
-permalink:
+permalink: /
 notification: 
 sections:
     - hero:
