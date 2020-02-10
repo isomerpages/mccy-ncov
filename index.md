@@ -20,7 +20,7 @@ sections:
               url: /share-content/                           
             - title: Give to Community Efforts
               description: contribute to efforts of fellow Singaporeans
-              url: pages/community-efforts/
+              url: /community-efforts/
             - title: Community In Action
               description: see what other Singaporeans have done
               url:  resource-room
