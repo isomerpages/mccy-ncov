@@ -1,7 +1,6 @@
 ---
 title: Share Content
-permalink: pages/share-content/
-description: Find and share content made by community to show care, appreciation and hope.
+permalink: /share-content/
 ---
 
 Find and share content made by community to show care, appreciation and hope.
