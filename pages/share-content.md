@@ -12,4 +12,4 @@ Click <a href="https://t.me/joinchat/AAAAAE9SFl2mvOXMzmzgyA">here</a> to join th
 ### Here are some resources that you can share: 
 * To Educate Children, A New Virus Has Arrived eBook <a href="https://info.etonhouse.com.sg/a-new-virus-has-arrived-ebook">here</a>
 * To find out what we can do as individuals, <a href="/four-calls/">here</a> are our four calls to action.
-* Spacewalk show us all how to fight this Phunky Disease, <a href="https://www.youtube.com/watch?v=ueS9Q5KjQdQ>here</a>.
+* Spacewalk show us all how to fight this Phunky Disease, <a href="https://www.youtube.com/watch?v=ueS9Q5KjQdQ">here</a>.
