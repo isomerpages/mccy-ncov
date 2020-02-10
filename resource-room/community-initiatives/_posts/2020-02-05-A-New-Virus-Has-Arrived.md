@@ -2,7 +2,7 @@
 layout: post
 title:  EtonHouse Releases Educational eBook on the nCoV
 date:   2020-02-05
-permalink: /resource-room/A-New-Virus-Has-Arrived
+permalink: /community-in-action/community-initiatives/A-New-Virus-Has-Arrived
 ---
 
 ### A New Virus Has Arrived!: EtonHouse Community Fund releases educational book on the nCoV
