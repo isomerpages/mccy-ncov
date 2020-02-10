@@ -2,7 +2,7 @@
 layout: post
 title:  Our Four Calls to Action
 date:   2020-02-10
-permalink: /resource-room/Latest-Requests/Our-Four-Calls-To-Action
+permalink: /community-in-action/community-initiatives/Latest-Requests/Our-Four-Calls-To-Action
 ---
 
 ### Four calls to action:
