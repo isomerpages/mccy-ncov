@@ -2,7 +2,7 @@
 layout: homepage
 title: "SGUnited"
 description: Let's come together to support each other
-permalink: /
+permalink:
 notification: 
 sections:
     - hero:
@@ -17,7 +17,7 @@ sections:
               url: "https://www.comchest.sg/eService/Donation/Form" 
             - title: Share Content
               description: by the community to show care, appreciation and hope
-              url: pages/share-content                            
+              url: pages/share-content/                           
             - title: Give to Community Efforts
               description: contribute to efforts of fellow Singaporeans
               url: pages/community-efforts/
