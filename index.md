@@ -43,7 +43,7 @@ sections:
         subtitle: Contribute to the community
         description: Volunteer, Donate or Start Something!
         button: Find out how!
-        url: pages/community-efforts/
+        url: /community-efforts/
         image: /images/TeamNila.jpeg
         alt: 20,000 people have supported us!
     - resources:
