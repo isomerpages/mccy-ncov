@@ -4,14 +4,16 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/SGUnited.png
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Left Nav One
-    collection: left-nav-one
-  - title: Left Nav Two
-    collection: left-nav-two
-  - title: Resource Room
-    resource_room: true
+  - title: Help the Needy
+    url:  "https://www.comchest.sg/eService/Donation/Form"
+  - title: Share Content
+    url: /share-content/
+  - title: Give to Community Efforts
+    url: /community-efforts/
+  - title: Community in Action
+    url: /resource-room/
+  - title: Official Information
+    url: "https://gov.sg/features/2019-ncov"

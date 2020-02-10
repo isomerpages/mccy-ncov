@@ -1,49 +1,53 @@
 ---
 layout: homepage
-title: Ministry of ABC
-description: The Ministry of ABC is the ministry in charge of XYZ
+title: "SGUnited"
+description: Let's come together to support each other
 permalink: /
-notification: Initiative A will be launching soon! <a href="/register/">Register now</a>
+notification: 
 sections:
     - hero:
-        title: Ministry of ABC
-        subtitle: We provide Singaporeans with XYZ services
-        background: /images/banner.png
-        url: /contact-us/
-        button: Contact
+        title: "Community action to help Singapore overcome 2019-nCoV"
+        subtitle: "Sign up for care pack distribution here!"
+        background: /images/Banner.jpg
+        url: "https://volunteer.sg/ncov"
+        button: Sign Up!
         key_highlights:
-            - title: ABC services
-              description: Find out what ABC can do for you
-              url: /services/
-            - title: Our Annual Reports
-              url: /annual-reports/
-            - title: Join ABC
-              description: Unleash your passion and be rewarded with a fulfilling career!
-              url: /careers/
+            - title: Help the Needy
+              description: support ComChest
+              url: "https://www.comchest.sg/eService/Donation/Form" 
+            - title: Share Content
+              description: by the community to show care, appreciation and hope
+              url: /share-content/                           
+            - title: Give to Community Efforts
+              description: contribute to efforts of fellow Singaporeans
+              url: /community-efforts/
+            - title: Community In Action
+              description: see what other Singaporeans have done
+              url:  resource-room
     - infobar:
-        title: Work for the public good
-        subtitle: Careers
-        description: Start a fulfulling and rewarding career with the Ministry of ABC!
-        button: Join Us
-        url: /careers/
+        title: Together we can overcome!       
+        subtitle: 
+        description: "This page brings together different community-led nCoV responses. To those who have stepped forward, we salute your efforts! We hope it inspires more of us to help one another get through this challenging time. #SGUnited"
+        button:
+        url:
     - infopic:
-        title: Integrity
-        subtitle: Core Values
-        description: Integrity drives everything we do at the Ministry of ABC
-        button: Learn More
-        url: /core-values/
-        image: /images/integrity.png
-        alt: Members of the Ministry of ABC shaking hands
+        title: Words of Encouragement
+        subtitle: nCoV Frontline
+        description: Words from familiar faces!
+        button: Watch Here!
+        url: "https://www.facebook.com/nCoVfrontline/"
+        image: /images/nCoVF.jpg
+        alt: nCoV Frontline
     - infopic:
-        title: Professionalism
-        subtitle: Core Values
-        description: We strive to deliver work of the highest calibre
-        button: Learn More
-        url: /core-values/
-        image: /images/professionalism.png
-        alt: Members of the Ministry of ABC in suits
+        title: Show your support
+        subtitle: Contribute to the community
+        description: Volunteer, Donate or Start Something!
+        button: Find out how!
+        url: pages/community-efforts/
+        image: /images/TeamNila.jpeg
+        alt: 20,000 people have supported us!
     - resources:
-        title: Media
-        subtitle: Learn more
+        title: Community in Action
+        subtitle: How we stand by one another
         button: View More
 ---
