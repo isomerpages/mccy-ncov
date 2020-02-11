@@ -23,7 +23,7 @@ sections:
               url: /share-content/            
             - title: Support
               description: Community Initiatives 
-              url: /community-efforts/
+              url: /community-in-action/
     - infobar:
         title: Community action to help Singapore overcome the 2019-nCoV       
         subtitle: 
