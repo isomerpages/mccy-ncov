@@ -7,13 +7,17 @@
 logo: /images/SGUnited.png
 
 links:
-  - title: Help the Needy
-    url:  "https://www.comchest.sg/eService/Donation/Form"
-  - title: Share Content
-    url: /share-content/
-  - title: Give to Community Efforts
+  - title: Volunteer
+    url: "https://www.volunteer.sg/ncov" 
+  - title: Donate
+    url: "https://www.comchest.sg/eService/Donation/Form" 
+  - title: Share
+    url: /share-content/ 
+  - title: Support
     url: /community-efforts/
-  - title: Community in Action
+  - title: Community In Action
     url: /community-in-action/
   - title: Official Information
     url: "https://gov.sg/features/2019-ncov"
+
+
