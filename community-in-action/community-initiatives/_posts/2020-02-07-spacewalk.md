@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Local Band shows us how to fight this Phunky Disease
+title:  Local Band Shows Us How to Fight this Phunky Disease
 date:   2020-02-07
 permalink: /resource-room/Latest-Requests/spacewalk
 ---
