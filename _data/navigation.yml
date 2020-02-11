@@ -4,7 +4,7 @@
 #                                #
 ##################################
 
-logo: /images/SGUnited.png
+logo: /images/SGUNITED2.png
 
 links:
   - title: Volunteer
@@ -14,8 +14,6 @@ links:
   - title: Share
     url: /share-content/ 
   - title: Support
-    url: /community-efforts/
-  - title: Community In Action
     url: /community-in-action/
   - title: Official Information
     url: "https://gov.sg/features/2019-ncov"
