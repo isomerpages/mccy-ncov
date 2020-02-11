@@ -7,10 +7,10 @@ notification:
 sections:
     - hero:
         title: "Together we can overcome!"
-        subtitle: "Sign up for care pack distribution here!"
+        subtitle: " A sereis of community-led nCoV responses to inspire Singaporeans"
         background: /images/Inclusive.jpg
-        url: "https://volunteer.sg/ncov"
-        button: Sign Up!
+        url: /community-in-action/
+        button: Be Inspired!
         key_highlights:
             - title: Volunteer
               description: to support nCoV responses
@@ -23,7 +23,7 @@ sections:
               url: /share-content/            
             - title: Support
               description: Community Initiatives 
-              url: /community-in-action/
+              url: /community-efforts/
     - infobar:
         title: Community action to help Singapore overcome the 2019-nCoV       
         subtitle: 
@@ -39,13 +39,13 @@ sections:
         image: /images/nCoVF.jpg
         alt: nCoV Frontline
     - infopic:
-        title: Show your support
-        subtitle: Contribute to the community
-        description: Volunteer, Donate or Start Something!
-        button: Find out how!
-        url: /community-efforts/
-        image: /images/TeamNila.jpeg
-        alt: 20,000 people have supported us!
+        title: Follow Social Media Channels
+        subtitle: Stay Up-to-Date on Community Initiatives
+        description: Whether it is through Telegram, Facebook or other Community-led Initiatives
+        button: Find Out More!
+        url: /share-content/
+        image: /images/SocialMedia.jpg
+        alt: Social Media
     - resources:
         title: Community in Action
         subtitle: How we stand by one another
