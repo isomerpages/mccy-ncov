@@ -30,14 +30,6 @@ sections:
         description: "This page brings together different community-led nCoV responses. To those who have stepped forward, we salute your efforts! We hope it inspires more of us to help one another get through this challenging time. #SGUnited"
         button:
         url:
-     - infopic:
-        title: Join our Social Media Channels
-        subtitle: 
-        description: 
-        button: Find out more!
-        url: /share-content/
-        image: 
-        alt: 
     - infopic:
         title: Words of Encouragement
         subtitle: nCoV Frontline
