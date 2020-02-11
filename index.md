@@ -7,22 +7,22 @@ notification:
 sections:
     - hero:
         title: "Together we can overcome!"
-        subtitle: " A sereis of community-led nCoV responses to inspire Singaporeans"
+        subtitle: "See how our community is stepping up to support one another"
         background: /images/Inclusive.jpg
         url: /community-in-action/
         button: Be Inspired!
         key_highlights:
             - title: Volunteer
-              description: to support nCoV responses
+              description: support nCoV responses
               url: "https://volunteer.sg/ncov"  
             - title: Donate
-              description: to ComChest 
+              description: support the vulnerable
               url: "https://www.comchest.sg/eService/Donation/Form"                           
             - title: Share
               description: content with family and friends
               url: /share-content/            
             - title: Support
-              description: Community Initiatives 
+              description: ongoing initiatives 
               url: /community-efforts/
     - infobar:
         title: Community action to help Singapore overcome the 2019-nCoV       
