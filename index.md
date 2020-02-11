@@ -24,7 +24,7 @@ sections:
             - title: Support
               description: Community Initiatives 
               url: /community-efforts/
-     - infobar:
+    - infobar:
         title: Community action to help Singapore overcome the 2019-nCoV       
         subtitle: 
         description: "This page brings together different community-led nCoV responses. To those who have stepped forward, we salute your efforts! We hope it inspires more of us to help one another get through this challenging time. #SGUnited"
