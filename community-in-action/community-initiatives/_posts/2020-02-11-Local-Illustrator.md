@@ -9,7 +9,7 @@ permalink: /community-in-action/community-initiatives/Local-Illustrator
 
 [Kelvin Chan](https://www.instagram.com/p/B8KnAGBjy0w/), a local illustrator is determined to stop the spread of online falsehoods. 
 
-His illustration below focuses on stopping the spreading of online falsehoods, misperceoptions and rumours that can cause panic, confusion and anger.
+His illustration below focuses on stopping the spread of online falsehoods, misperceptions and rumours that can cause panic, confusion and anger.
 
 
 ![Stop the Spread](/images/StopTheSpread.jpg/)
