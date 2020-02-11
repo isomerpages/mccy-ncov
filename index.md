@@ -39,10 +39,10 @@ sections:
         image: /images/nCoVF.jpg
         alt: nCoV Frontline
     - infopic:
-        title: Follow Social Media Channels
-        subtitle: Stay Up-to-Date on Community Initiatives
-        description: Whether it is through Telegram, Facebook or other Community-led Initiatives
-        button: Find Out More!
+        title: Stay Up-to-Date on Community Initiatives
+        subtitle: Join the SGUnited Telegram Channel
+        description: 
+        button: Join Now!
         url: /share-content/
         image: /images/SocialMedia.jpg
         alt: Social Media
