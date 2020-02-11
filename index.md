@@ -8,22 +8,22 @@ sections:
     - hero:
         title: "Community action to help Singapore overcome 2019-nCoV"
         subtitle: "Sign up for care pack distribution here!"
-        background: /images/Banner.jpg
+        background: /images/Inclusive.jpg
         url: "https://volunteer.sg/ncov"
         button: Sign Up!
         key_highlights:
-            - title: Help the Needy
-              description: support ComChest
-              url: "https://www.comchest.sg/eService/Donation/Form" 
-            - title: Share Content
-              description: by the community to show care, appreciation and hope
-              url: /share-content/                           
-            - title: Give to Community Efforts
-              description: contribute to efforts of fellow Singaporeans
+            - title: Volunteer
+              description: To support nCoV responses
+              url: "https://volunteer.sg/ncov"  
+            - title: Donate
+              description: To ComChest 
+              url: "https://www.comchest.sg/eService/Donation/Form"                           
+            - title: Share
+              description: Content
+              url: /share-content/            
+            - title: Support
+              description: Community Initiatives 
               url: /community-efforts/
-            - title: Community In Action
-              description: see what other Singaporeans have done
-              url:  resource-room
     - infobar:
         title: Together we can overcome!       
         subtitle: 
