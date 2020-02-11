@@ -13,16 +13,16 @@ sections:
         button: Be Inspired!
         key_highlights:
             - title: Volunteer
-              description: support nCoV responses
+              description: to support nCoV responses
               url: "https://volunteer.sg/ncov"  
             - title: Donate
-              description: support the vulnerable
+              description: to support the vulnerable
               url: "https://www.comchest.sg/eService/Donation/Form"                           
             - title: Share
               description: content with family and friends
               url: /share-content/            
             - title: Support
-              description: ongoing initiatives 
+              description: ongoing community initiatives 
               url: /community-efforts/
     - infobar:
         title: Community action to help Singapore overcome the 2019-nCoV       
