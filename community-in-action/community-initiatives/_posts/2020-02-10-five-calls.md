@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Our five calls to action
+title:  Our Five Calls to Action
 date:   2020-02-10
 permalink: /community-in-action/community-initiatives/five-calls
 ---
