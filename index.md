@@ -14,10 +14,10 @@ sections:
         key_highlights:
             - title: Volunteer
               description: to support nCoV responses
-              url: "https://volunteer.sg/ncov"  
+              url: "https://www.giving.sg/sgunited"  
             - title: Donate
               description: to support the vulnerable
-              url: "https://www.comchest.sg/eService/Donation/Form"                           
+              url: "https://www.giving.sg/sgunited"                           
             - title: Share
               description: content with family and friends
               url: /share-content/            
