@@ -8,7 +8,7 @@ locations:
     address:
         - Old Hill Street Police Station
         - 140 Hill Street
-        - Singapore 123456
+        - Singapore 179369
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
