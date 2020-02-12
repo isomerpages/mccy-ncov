@@ -13,7 +13,7 @@ sections:
         button: Be Inspired!
         key_highlights:
             - title: Volunteer
-              description: to support nCoV responses
+              description: to support COVID-19 responses
               url: "https://www.giving.sg/sgunited"  
             - title: Donate
               description: to support the vulnerable
