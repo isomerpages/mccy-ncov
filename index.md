@@ -44,7 +44,7 @@ sections:
         description: 
         button: Join Now!
         url: /share-content/
-        image: /images/SocialMedia.jpg
+        image: /images/SGUnitedTelegram.png
         alt: Social Media
     - resources:
         title: Community in Action
