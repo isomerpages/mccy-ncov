@@ -14,10 +14,10 @@ sections:
         key_highlights:
             - title: Volunteer
               description: to support nCoV responses
-              url: "https://volunteer.sg/ncov"  
+              url: "https://www.giving.sg/sgunited"  
             - title: Donate
               description: to support the vulnerable
-              url: "https://www.comchest.sg/eService/Donation/Form"                           
+              url: "https://www.giving.sg/sgunited"                           
             - title: Share
               description: content with family and friends
               url: /share-content/            
@@ -44,7 +44,7 @@ sections:
         description: 
         button: Join Now!
         url: /share-content/
-        image: /images/SocialMedia.jpg
+        image: /images/SGUnitedTelegram.png
         alt: Social Media
     - resources:
         title: Community in Action
