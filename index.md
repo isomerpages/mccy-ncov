@@ -25,14 +25,14 @@ sections:
               description: ongoing community initiatives 
               url: /community-efforts/
     - infobar:
-        title: Community action to help Singapore overcome the 2019-nCoV       
+        title: Community action to help Singapore overcome the COVID-19       
         subtitle: 
-        description: "This page brings together different community-led nCoV responses. To those who have stepped forward, we salute your efforts! We hope it inspires more of us to help one another get through this challenging time. #SGUnited"
+        description: "This page brings together different community-led COVID-19 responses. To those who have stepped forward, we salute your efforts! We hope it inspires more of us to help one another get through this challenging time. #SGUnited"
         button:
         url:
     - infopic:
         title: Words of Encouragement
-        subtitle: nCoV Frontline
+        subtitle: COVID-19 Frontline
         description: Words from familiar faces!
         button: Watch Here!
         url: "https://www.facebook.com/nCoVfrontline/"
