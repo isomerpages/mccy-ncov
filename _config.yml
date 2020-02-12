@@ -4,19 +4,19 @@ favicon: /images/SG.ico
 
 # Site colors
 colors:
-  primary-color: '#6031b6'
+  primary-color: '#e61a3a'
   secondary-color: '#4372d6'
   media-colors:
     - title: media-color-one
-      color: '#6031b6'
+      color: '#e61a3a'
     - title: media-color-two
       color: '#4372d6'
     - title: media-color-three
-      color: '#d10000'
+      color: '#e61a3a'
     - title: media-color-four
-      color: '#d10000'
+      color: '#e61a3a'
     - title: media-color-five
-      color: '#d10000'
+      color: '#e61a3a'
 
 
 collections:
