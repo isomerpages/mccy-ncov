@@ -39,9 +39,9 @@ sections:
         image: /images/nCoVF.jpg
         alt: nCoV Frontline
     - infopic:
-        title: Keep Up-to-Date on Community Initiatives & Opportunities
-        subtitle: Our Social Media Platforms 
-        description: 
+        title: Our Social Media Platforms
+        subtitle: 
+        description: Keep Up-to-Date on Community Initiatives & Opportunities
         button: Join Now!
         url: /share-content/
         image: /images/SUSM.png
