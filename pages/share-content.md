@@ -12,7 +12,7 @@ Download the SGCares for:
 
 Or scan the QR code:
 
-<img src="/images/SGCaresQRWeb.jpg" alt="SGCaresQR"
+<img src="/images/SGCaresQR.jpeg" alt="SGCaresQR"
 	width="135" height="135" />
 
 ### Subscribe to our SGUnited Telegram Channel
