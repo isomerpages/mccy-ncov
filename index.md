@@ -41,7 +41,7 @@ sections:
     - infopic:
         title: Keep Up-to-Date on Community Initiatives & Opportunities
         subtitle: Our Social Media Platforms 
-        description: Download the SGCares App & Join the SGUnited Telegram Channel
+        description: 
         button: Join Now!
         url: /share-content/
         image: /images/SUSM.png
