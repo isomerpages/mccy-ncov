@@ -5,6 +5,15 @@ permalink: /share-content/
 
 Find and share content made by community to show care, appreciation and hope.
 
+### Download the SGCares App
+Download the SGCares for:
+- [Apple Devices](https://apps.apple.com/sg/app/sg-cares/id1315897116)
+- [Android Devices](https://play.google.com/store/apps/details?id=org.nvpc.sgcares)
+
+Or scan the QR code:
+
+![SGCaresQR](/images/SGCaresQRWeb.jpg)
+
 ### Subscribe to our SGUnited Telegram Channel
 Click **[here](https://t.me/SG_United)** to join the channel.
 
