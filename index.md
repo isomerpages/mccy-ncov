@@ -39,12 +39,12 @@ sections:
         image: /images/nCoVF.jpg
         alt: nCoV Frontline
     - infopic:
-        title: Stay Up-to-Date on Community Initiatives
-        subtitle: Join the SGUnited Telegram Channel
-        description: 
+        title: Keep Up-to-Date on Community Initiatives & Opportunities
+        subtitle: Our Social Media Platforms 
+        description: Download the SGCares App & Join the SGUnited Telegram Channel
         button: Join Now!
         url: /share-content/
-        image: /images/SGUnitedTelegram2.png
+        image: /images/SGUnitedSocialMedia.png
         alt: Social Media
     - resources:
         title: Community in Action
