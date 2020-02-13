@@ -13,7 +13,7 @@ sections:
         button: Be Inspired!
         key_highlights:
             - title: Volunteer
-              description: to support nCoV responses
+              description: to support COVID-19 responses
               url: "https://www.giving.sg/sgunited"  
             - title: Donate
               description: to support the vulnerable
@@ -44,7 +44,7 @@ sections:
         description: 
         button: Join Now!
         url: /share-content/
-        image: /images/SGUnitedTelegram.png
+        image: /images/SGUnitedTelegram2.png
         alt: Social Media
     - resources:
         title: Community in Action
