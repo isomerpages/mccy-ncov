@@ -14,16 +14,16 @@ sections:
         key_highlights:
             - title: Volunteer
               description: to support COVID-19 responses
-              url: "https://www.giving.sg/sgunited"  
+              url: "https://www.giving.sg/sgunited" 
+            - title: Support
+              description: ongoing community initiatives 
+              url: /community-efforts/
             - title: Donate
               description: to support the vulnerable
               url: "https://www.giving.sg/sgunited"                           
             - title: Share
               description: content with family and friends
               url: /share-content/            
-            - title: Support
-              description: ongoing community initiatives 
-              url: /community-efforts/
     - infobar:
         title: Community action to help Singapore overcome the COVID-19    
         subtitle: 
