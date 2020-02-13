@@ -44,7 +44,7 @@ sections:
         description: Download the SGCares App & Join the SGUnited Telegram Channel
         button: Join Now!
         url: /share-content/
-        image: /images/SGUnitedSocialMedia.png
+        image: /images/SUSM.png
         alt: Social Media
     - resources:
         title: Community in Action
