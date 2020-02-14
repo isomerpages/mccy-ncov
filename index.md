@@ -47,7 +47,7 @@ sections:
         image: /images/SUSM.png
         alt: Social Media
     - resources:
-        title: Community in Action
+        title: Stories
         subtitle: How we stand by one another
         button: View More
 ---
