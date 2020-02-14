@@ -13,7 +13,7 @@ sections:
         button: Be Inspired!
         key_highlights:
             - title: Volunteer
-              description: to support COVID-19 responses
+              description:
               url: "https://www.giving.sg/sgunited" 
             - title: Support
               description: ongoing community initiatives 
@@ -37,12 +37,12 @@ sections:
         button: Watch Here!
         url: "https://www.facebook.com/nCoVfrontline/"
         image: /images/nCoVF.jpg
-        alt: nCoV Frontline
+        alt: COVID-19 Frontline
     - infopic:
-        title: Our Social Media Platforms
+        title: Online Platforms & Content
         subtitle: 
-        description: Keep Up-to-Date on Community Initiatives & Opportunities
-        button: Join Now!
+        description: Keep Up-to-Date on Community Initiatives, Opportunities and Content
+        button: Explore!
         url: /share-content/
         image: /images/SUSM.png
         alt: Social Media
