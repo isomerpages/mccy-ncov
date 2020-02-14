@@ -20,7 +20,7 @@ sections:
               url: /community-efforts/
             - title: Donate
               description: to support the vulnerable
-              url: "https://www.giving.sg/sgunited"                           
+              url: /donate/                           
             - title: Share
               description: content and online platforms
               url: /online-platforms-content/            
