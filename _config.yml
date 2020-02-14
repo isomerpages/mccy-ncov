@@ -24,7 +24,7 @@ collections:
     output: true
   left-nav-two:
     output: true
-resources_name: community-in-action
+resources_name: stories
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
