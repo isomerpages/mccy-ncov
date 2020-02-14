@@ -1,1 +1,4 @@
-
+---
+title: Donate
+permalink: /donate/
+---
