@@ -2,7 +2,7 @@
 layout: post
 title:  OurHeroesSG by GoodHood
 date:   2020-02-12
-permalink: /resource-room/Latest-Requests/our-heroes
+permalink: /stories/community-initiatives/our-heroes
 ---
 
 ## OurHeroesSG by GoodHood
