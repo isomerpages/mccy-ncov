@@ -2,7 +2,7 @@
 layout: post
 title:  Songwriter and Musicians Create Inspiring Music Video Together
 date:   2020-02-08
-permalink: /resource-room/Latest-Requests/xiaohan-and-musicians
+permalink: /stories/community-initiatives/xiaohan-and-musicians
 ---
 
 ## Songwriter and Musicians Create Inspiring Music Video Together
