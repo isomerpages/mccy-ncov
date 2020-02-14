@@ -2,7 +2,7 @@
 layout: post
 title:  Our Five Calls to Action
 date:   2020-02-10
-permalink: /community-in-action/community-initiatives/five-calls
+permalink: /stories/community-initiatives/five-calls
 ---
 
 ## Our five calls to action!
