@@ -9,7 +9,7 @@ sections:
         title: "Together we can overcome!"
         subtitle: "See how our community is stepping up to support one another"
         background: /images/Inclusive.jpg
-        url: /community-in-action/
+        url: /stories/
         button: Be Inspired!
         key_highlights:
             - title: Volunteer
