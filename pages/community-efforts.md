@@ -3,10 +3,6 @@ title: Give to Community Efforts
 permalink: /community-efforts/
 ---
 
-### Volunteer & Donate
-
-Visit <a href="https://www.giving.sg">Giving.SG</a> to find out how you can help our charities and those in need.
-
 ### Contribute Resources
 
 Visit either <a href="https://www.contribute.sg">Contribute.SG</a> or <a href="https://www.better.sg/maskgoshare">Better.SG</a> if you have masks or other supplies to share.
