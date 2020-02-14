@@ -22,8 +22,8 @@ sections:
               description: to support the vulnerable
               url: "https://www.giving.sg/sgunited"                           
             - title: Share
-              description: content with family and friends
-              url: /share-content/            
+              description: content and online platforms
+              url: /online-platforms-content/            
     - infobar:
         title: Community action to help Singapore overcome the COVID-19    
         subtitle: 
@@ -43,7 +43,7 @@ sections:
         subtitle: 
         description: Keep Up-to-Date on Community Initiatives, Opportunities and Content
         button: Explore!
-        url: /share-content/
+        url: /online-platforms-content/
         image: /images/SUSM.png
         alt: Social Media
     - resources:
