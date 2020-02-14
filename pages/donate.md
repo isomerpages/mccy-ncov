@@ -17,3 +17,5 @@ Your donation is greatly appreciated and will go a long way in helping those aff
 Please refer to the following list:
 
 **Insert Image with List of Items**
+
+Alternatively, visit <a href="https://www.contribute.sg">Contribute.SG</a> or <a href="https://www.better.sg/maskgoshare">Better.SG</a> if you have masks or other supplies to share.
