@@ -13,7 +13,7 @@ sections:
         button: Be Inspired!
         key_highlights:
             - title: Volunteer
-              description:
+              description: in various efforts
               url: "https://www.giving.sg/sgunited" 
             - title: Support
               description: ongoing community initiatives 
@@ -22,7 +22,7 @@ sections:
               description: to support the vulnerable
               url: /donate/                           
             - title: Share
-              description: content and online platforms
+              description: online platforms and content
               url: /online-platforms-content/            
     - infobar:
         title: Community action to help Singapore overcome the COVID-19    
