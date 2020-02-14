@@ -13,7 +13,7 @@ sections:
         button: Be Inspired!
         key_highlights:
             - title: Volunteer
-              description: in various efforts
+              description: in various ground-up efforts
               url: "https://www.giving.sg/sgunited" 
             - title: Support
               description: ongoing community initiatives 
