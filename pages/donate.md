@@ -6,9 +6,9 @@ permalink: /donate/
 ## For Monetary Donations 
 You can choose to make a contribution to any of the following Funds:
 
-- Courage Fund
-- [Sayang Sayang Fund](https://www.giving.sg/community-foundation-of-singapore/sayang_sayang_fund)
-- [Majurity Trust](https://www.majurity.sg/sgstrong)
+- The Courage Fund
+- [The Sayang Sayang Fund](https://www.giving.sg/community-foundation-of-singapore/sayang_sayang_fund)
+- [The Majurity Trust](https://www.majurity.sg/sgstrong)
 - [Our Singapore Fund](https://www.sg/oursingaporefund)
 
 _OR_ visit the [Giving.SG](https://www.giving.sg/sgunited) website! 
