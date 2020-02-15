@@ -8,8 +8,7 @@ You can choose to make a contribution to any of the following Funds:
 
 - The Courage Fund
 - [The Sayang Sayang Fund](https://www.giving.sg/community-foundation-of-singapore/sayang_sayang_fund)
-- [The Majurity Trust](https://www.majurity.sg/sgstrong)
-- [Our Singapore Fund](https://www.sg/oursingaporefund)
+- List Others
 
 _OR_ visit the [Giving.SG](https://www.giving.sg/sgunited) website! 
 
