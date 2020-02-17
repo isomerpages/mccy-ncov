@@ -11,10 +11,12 @@ Thank you for visiting SGUnited Website (“Website”). By accessing and using 
 **GENERAL**
 
 - These Terms of Use may be changed from time to time. All changes will be posted on this page, and your use of this Website after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.
-PROPRIETARY RIGHTS
+
+**PROPRIETARY RIGHTS**
 - This Website is the official website for the SGUnited movement. It is an official Government of Singapore (“the Government”) website that is owned and operated by the Ministry of Culture Community and Youth (“MCCY”).
  
 - The materials located on the Website including the graphics, images, statistical data, reports, charts, graphs, information and documentation (the “Contents”), are protected by copyright, trademark and other intellectual property rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by the Government.
+
 **PRIVACY POLICY**
 
 - Click here to review this Website’s **[Privacy Statement](/privacy/)**.
