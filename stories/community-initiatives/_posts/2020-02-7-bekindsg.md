@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Help Needed: Be Kind SG Seeks Volunteers for Packing of Care Packages
-date:   2020-02-16
-permalink: /resource-room/Latest-Requests/bekindsg
+date:   2020-02-17
+permalink: /stories/community-initiatives/bekindsg
 ---
 
 ### Be Kind SG Seeks Volunteers for Packing of Care Packages
