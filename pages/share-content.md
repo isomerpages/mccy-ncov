@@ -11,9 +11,9 @@ Click on either link for your device type:
 - [Android Devices](https://play.google.com/store/apps/details?id=org.nvpc.sgcares)
 
 ### Download the SGUnited Logo
-SG United is a rallying call to all Singaporeans to work together, and be confident that we will overcome the challenges arising from COVID-19.
+SGUnited is a rallying call to all Singaporeans to work together, and be confident that we will overcome the challenges arising from COVID-19.
 
-The SG United logo is free for download and use within the guidelines as stated in the download pack.
+The SGUnited logo is free for download and use; use of the logo should governed by the guidelines as stated in the download pack.
 
 Click **[here](/media/SGUnited-Logo-Download.zip)** to download the SG United logo pack.
 
