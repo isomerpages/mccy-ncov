@@ -5,7 +5,7 @@ date:   2020-02-05
 permalink: /stories/community-initiatives/A-New-Virus-Has-Arrived
 ---
 
-### A New Virus Has Arrived!: EtonHouse Community Fund releases educational book on the nCoV
+### A New Virus Has Arrived!: EtonHouse Community Fund Releases Educational Book on the nCoV
 _Released on 4 February 2020_
 
 *A New Virus Has Arrived* is a very special book for children of all ages, even parents and grandparents too. With beautiful illustrations, it explains the Novel Coronavirus in a sensitive and meaningful way. 
