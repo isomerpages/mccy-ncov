@@ -4,28 +4,21 @@ permalink: /community-efforts/
 ---
 
 ### Appreciate Frontliners
-
 - Leave a short note, or simply say 'Thank you'; head over to the [OurHeroesSG](https://heroes.goodhood.sg/heroes) website!
 - Words of thanks from some familar faces on the [nCoV Frontline](https://www.facebook.com/nCoVfrontline/) Facebook page!
-
 ### Contribute Resources
-
 - Food
 - Medical Supplies 
 - etc.
 
 ### Funding
-
 Interested in starting your own community initiative but require some funding? Below are two avenues that you can apply through for grants to get your initiative started!
-
 #### Our Singapore Fund 
 Have an idea for a community initiative? Share it with us, **[here](https://form.gov.sg/#!/5e3b868988573300116ca38a)**.
 
 Supported by **[Our Singapore Fund](https://www.sg/oursingaporefund)**.
 ![OurSG](/images/OSF_Colour.png)
-
 #### The Majurity Trust - Singapore Strong Fund
-
 Do you know of anyone affected by the COVID-19 situation? Do you think you can help? Want to appreciate and thank those who are on the frontlines?
 The Majurity Trust wants to support your initiatives or projects to ensure help can quickly reach those who need them.
 
