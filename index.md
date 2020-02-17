@@ -48,6 +48,6 @@ sections:
         alt: Social Media
     - resources:
         title: Stories
-        subtitle: How we stand by one another
+        subtitle: How we stood and will stand by one another
         button: View More
 ---
