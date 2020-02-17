@@ -10,6 +10,7 @@ permalink: /five-calls/
 - Speak up for hope and care, and stand against the negative
 - Support your neighbours on home quarantine and co-workers on leave of absence from work - they are being responsible
 
+For the mandarin version, click **[here](/five-call-chi/)**. 
 ![1](/images/GUM-01/1.jpg)
 ![2](/images/GUM-01/2.jpg)
 ![3](/images/GUM-01/3.jpg)
