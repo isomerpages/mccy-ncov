@@ -5,7 +5,7 @@ date:   2020-02-12
 permalink: /stories/community-initiatives/our-heroes
 ---
 
-## OurHeroesSG by GoodHood
+### OurHeroesSG by GoodHood
 ![OurHeroes.SG](/images/OurHeroes.png)
 
 **[OurHeroes.SG](https://heroes.goodhood.sg/heroes)** is a ground up movement that encourages everyone to appreciate the unsung heroes during this time of crisis (bus captains, supermarket staff, nurses, etc.)!
