@@ -7,13 +7,8 @@ permalink: /community-efforts/
 - Leave a short note, or simply say 'Thank you'; head over to the [OurHeroesSG](https://heroes.goodhood.sg/heroes) website!
 - Words of thanks from some familar faces on the [nCoV Frontline](https://www.facebook.com/nCoVfrontline/) Facebook page!
 
-### Contribute Resources
-- Food
-- Medical Supplies 
-- etc.
-
-### Funding
-Interested in starting your own community initiative but require some funding? Below are two avenues that you can apply through for grants to get your initiative started!
+### Starting Your Own Initiative
+If you have an idea for a community initiative and require funding, below are two avenues that you can apply to for grants to get your initiative started!
 
 #### Our Singapore Fund 
 Have an idea for a community initiative? Share it with us, **[here](https://form.gov.sg/#!/5e3b868988573300116ca38a)**.
