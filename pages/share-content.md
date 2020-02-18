@@ -10,6 +10,8 @@ Click on either link for your device type:
 - [Apple Devices](https://apps.apple.com/sg/app/sg-cares/id1315897116)
 - [Android Devices](https://play.google.com/store/apps/details?id=org.nvpc.sgcares)
 
+![SGCaresApp](/images/SGCaresQRWeb.jpg)
+
 ### Subscribe to our SGUnited Telegram Channel
 Click **[here](https://t.me/SG_United)** to join the channel.
 
