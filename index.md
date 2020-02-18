@@ -31,10 +31,10 @@ sections:
         button:
         url:
     - infopic:
-        title: Words of Encouragement
-        subtitle: COVID-19 Frontline
-        description: Words from familiar faces!
-        button: Watch Here!
+        title: Supporting Community Efforts
+        subtitle: From Appreciating to Starting Initiatives!
+        description: 
+        button: Find Out How!
         url: /community-efforts/
         image: /images/nCoVF.jpg
         alt: COVID-19 Frontline
