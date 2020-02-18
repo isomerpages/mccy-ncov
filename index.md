@@ -16,7 +16,7 @@ sections:
               description: to help
               url: "https://www.giving.sg/sgunited" 
             - title: Support
-              description: ongoing community initiatives 
+              description: on-going community initiatives 
               url: /community-efforts/
             - title: Donate
               description: to support the vulnerable
