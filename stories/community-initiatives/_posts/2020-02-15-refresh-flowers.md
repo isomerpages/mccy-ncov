@@ -13,4 +13,4 @@ A huge 'thank you' to those who donated flowers and penned words of encouragemen
 
 ![RefreshFlowers](/images/stories/refreshflowers.jpg)
 
-_Adapted from Facebook [post](https://www.facebook.com/refreshflowers.sg/posts/3444805318868312?__tn__=-R)._
+_Adapted from Refresh Flower's Facebook [post](https://www.facebook.com/refreshflowers.sg/posts/3444805318868312?__tn__=-R)._
