@@ -13,4 +13,4 @@ Given the current situation, Akram believes it is important for his students to 
 
 ![ProgressNest](/images/stories/ProgressNest.jpg)
 
-_Adapted from Singapore Kindness Movement's Facebook [post](https://www.facebook.com/kindnessSG/photos/pb.110689168052.-2207520000../10156841968198053/?type=3&theater)_
+_Adapted from Singapore Kindness Movement's Facebook [post](https://www.facebook.com/kindnessSG/photos/pb.110689168052.-2207520000../10156841968198053/?type=3&theater)._
