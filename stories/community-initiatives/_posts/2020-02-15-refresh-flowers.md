@@ -9,7 +9,7 @@ permalink: /stories/community-initiatives/refresh-flowers
 
 A youth-led ground-up Refresh Flowers SG organised a Valentine's Day public drive for people to donate Valentines’ Day flowers to frontline healthcare teams.
 
-A hugh 'thank you' to those who donated flowers and penned words of encouragement - digitally and in person! A total of 175 bouquets were created in appreciation of our Healthcare Heroes!
+A huge 'thank you' to those who donated flowers and penned words of encouragement - digitally and in person! A total of 175 bouquets were created in appreciation of our Healthcare Heroes!
 
 ![RefreshFlowers](/images/stories/refreshflowers.jpg)
 
