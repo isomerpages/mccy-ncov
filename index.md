@@ -35,7 +35,7 @@ sections:
         subtitle: COVID-19 Frontline
         description: Words from familiar faces!
         button: Watch Here!
-        url: "https://www.facebook.com/nCoVfrontline/"
+        url: /community-efforts/
         image: /images/nCoVF.jpg
         alt: COVID-19 Frontline
     - infopic:
