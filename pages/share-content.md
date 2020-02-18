@@ -5,7 +5,7 @@ permalink: /online-platforms-content/
 ---
 
 ### Download the SGCares App
-Download the SGCares App to stay updated on the on the latest initiatives that you can be involved in!
+Download the SGCares App to stay updated on the on the latest giving initiatives that you can be involved in!
 Click on either link for your device type:
 - [Apple Devices](https://apps.apple.com/sg/app/sg-cares/id1315897116)
 - [Android Devices](https://play.google.com/store/apps/details?id=org.nvpc.sgcares)
