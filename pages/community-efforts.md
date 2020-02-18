@@ -8,13 +8,13 @@ permalink: /community-efforts/
 - Words of thanks from some familar faces on the [nCoV Frontline](https://www.facebook.com/nCoVfrontline/) Facebook page!
 
 ### Start Your Own Initiative
-Have an idea for a community initiative? Share it with us, **[here](https://form.gov.sg/#!/5e3b868988573300116ca38a)**.
+Have an idea for a community initiative? Share it with us, **[here](https://form.gov.sg/#!/5e3b868988573300116ca38a")**.
 
 If you need resources for starting your community response, below are two avenues that you can apply to for grants to get your initiative started!
 
 #### Our Singapore Fund 
 Supported by **[Our Singapore Fund](https://www.sg/oursingaporefund)**.
-![OurSG](/images/OSF_Colour.png)
+![OurSG](/images/OSF_Colour.png "www.sg.oursingaporefund")
 
 #### The Majurity Trust - Singapore Strong Fund
 Do you know of anyone affected by the COVID-19 situation? Do you think you can help? Want to appreciate and thank those who are on the frontlines?
