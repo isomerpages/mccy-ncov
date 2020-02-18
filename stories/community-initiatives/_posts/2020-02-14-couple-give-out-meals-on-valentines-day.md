@@ -17,6 +17,6 @@ Speaking to Mothership.sg, Zheng shared that since they are running a catering s
 ⁣
 They’ve been delivering sealed bento sets to staff at Raffles Hospital since February 10.⁣
 
-![SaluteSG](images/stories/salutesg.jpg)
+![SaluteSG](/images/stories/salutesg.jpg)
 
 _Adapted from Salute.SG's Facebook [post](https://www.facebook.com/Salute.sg/photos/a.100850694841517/103592007900719/?type=3&theater)_
