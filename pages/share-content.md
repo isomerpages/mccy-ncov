@@ -20,7 +20,7 @@ SGUnited is a rallying call to all Singaporeans to work together, and be confide
 
 The SGUnited logo is free for download and use; use of the logo should governed by the guidelines as stated in the download pack.
 
-Click **[here](/media/SGUnited-Logo-Download.zip)** to download the SG United logo pack.
+**[Click here to download the SG United Logo pack](/media/SGUnited-Logo-Download.zip)**.
 
 ### Find and share content made by community to show care, appreciation and hope
 Here are some resources you can share:
