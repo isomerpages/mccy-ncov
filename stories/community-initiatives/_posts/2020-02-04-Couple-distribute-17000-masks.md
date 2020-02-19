@@ -2,10 +2,10 @@
 layout: post
 title:  Couple Hand Out Masks to Singaporeans
 date:   2020-02-04
-permalink: /community-in-action/community-initiatives/Couple-distribute-17000-masks
+permalink: /stories/community-initiatives/Couple-distribute-17000-masks
 ---
 
-## Couple Hand Out Masks to Singaporeans
+### Couple Hand Out Masks to Singaporeans
 
 On Feb. 4, 2020, a post on Singapore Atrium Sales about a group of Vietnamese people handing out free masks outside Punggol MRT went viral.
 

@@ -2,10 +2,10 @@
 layout: post
 title:  Local Illustrator Determined to Stop the Spread of Online Falsehoods
 date:   2020-02-11
-permalink: /community-in-action/community-initiatives/Local-Illustrator
+permalink: /stories/community-initiatives/Local-Illustrator
 ---
 
-## Local Illustrator determined to stop the spread of online falsehoods
+### Local Illustrator determined to stop the spread of online falsehoods
 
 [Kelvin Chan](https://www.instagram.com/p/B8KnAGBjy0w/), a local illustrator is determined to stop the spread of online falsehoods. 
 

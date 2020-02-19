@@ -2,7 +2,7 @@
 layout: post
 title:  Local Artist Weiman Kow Releases Education Comic on the nCoV
 date:   2020-02-06
-permalink: /community-in-action/community-initiatives/Local-Artist-Releases-Educational-Comic
+permalink: /stories/community-initiatives/Local-Artist-Releases-Educational-Comic
 ---
 
 ###  Local Artist Weiman Kow Releases Education Comic on the nCoV

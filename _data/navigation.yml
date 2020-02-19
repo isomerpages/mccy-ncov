@@ -8,16 +8,16 @@ logo: /images/SGUnited4.png
 
 links:
   - title: Volunteer
-    url: "https://www.giving.sg/sgunited" 
-  - title: Donate
-    url: "https://www.giving.sg/sgunited" 
-  - title: Share
-    url: /share-content/ 
+    url: "https://www.giving.sg/sgunited"
   - title: Support
     url: /community-efforts/
-  - title: Community in Action
-    url: /community-in-action/
+  - title: Donate
+    url: /donate/ 
+  - title: Share
+    url: /online-platforms-content/ 
+  - title: Stories
+    url: /stories/
   - title: GOV.SG
-    url: "https://gov.sg/features/2019-ncov"
+    url: "https://www.gov.sg/features/covid-19"
 
 
