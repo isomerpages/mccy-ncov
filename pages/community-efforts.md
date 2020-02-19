@@ -21,6 +21,6 @@ For more information, visit the **[Our Singapore Fund](https://www.sg/oursingapo
 #### The Majurity Trust - Singapore Strong Fund
 The **[Singapore Strong Fund](https://www.majurity.sg/sgstrong)** is setup by the Majurity Trust, and independent philantrhopic organisation, to support community-led initiatives to help those affected by the COVID-19 situation. These could include appreciation initiatives, and initiatives to help those in need during this time. Funding is capped at 80% of project expenditure, capped at $5,000, and can be processed more quickly. 
 
-[![SGStrong](https://images.squarespace-cdn.com/content/v1/5c36d0b8f93fd4564e2cbba9/1581486709811-NXH1UDWC0HPFT1VKBGZJ/ke17ZwdGBToddI8pDm48kH9uvdtD-xByGI4Lm8gRc5hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwo31aWBH8Una2OoVzDABrpN6VXpGhJvYCzoVlH5y-3qVmG1GGFDpywYlQa0j58s2c/SGSTRONG.png?format=300w)](https://www.majurity.sg/sgstrong)
+[![SGStrong](/images/SGStrongW.jpg)](https://www.majurity.sg/sgstrong)
 
 For more information, visit **[The Majurity Trust - Singapore Strong Fund](https://www.majurity.sg/sgstrong)** website.
