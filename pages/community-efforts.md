@@ -8,7 +8,7 @@ permalink: /community-efforts/
 - Some of our local celebrities have posted videos of encouragement to those on the frontline on the [nCoV Frontline](https://www.facebook.com/nCoVfrontline/) Facebook page.
 
 ### Start Your Own Initiative
-Have an idea for a community initiative? Share it with us, **[through this form](https://form.gov.sg/#!/5e3b868988573300116ca38a")** and we will be in touch with you soon to find out more. 
+Have an idea for a community initiative? Share it with us, **[through this form](https://go.gov.sg/sgunitedform)** and we will be in touch with you soon to find out more. 
 
 If you are looking for resources for your initiative, do consider applying for the following funds: 
 
