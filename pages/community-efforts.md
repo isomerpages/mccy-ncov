@@ -14,7 +14,7 @@ If you are looking for resources for your initiative, do consider applying for t
 
 #### Our Singapore Fund 
  **[Our Singapore Fund](https://www.sg/oursingaporefund)** is setup by MCCY to support meaningful projects by passionate Singaporeans to meet social and community needs. Funding is capped at 80%, up to $20,000 of project expenditure.
-[![OurSG](/images/OSF_Colour.png)](https://www.sg/oursingaporefund)
+[![OurSG](/images/osf.jpg)](https://www.sg/oursingaporefund)
 
 For more information, visit the **[Our Singapore Fund](https://www.sg/oursingaporefund)** website.
 
