@@ -12,7 +12,7 @@ Click on either link for your device type:
 
 ![SGCaresApp](/images/SGCaresIcon.png)
 ### Subscribe to our SG United Telegram Channel
-Click **[here](https://t.me/SG_United)** to join the channel to receive the latest updates on content and community initiatives by Singaporeans stepping up to support one another. 
+**[Click here to join the Telegram channel](https://t.me/SG_United)** to receive the latest updates on content and community initiatives by Singaporeans stepping up to support one another. 
 
 ### Download the SG United Logo
 ![SG United Logo](/images/SGUnited4.png)
