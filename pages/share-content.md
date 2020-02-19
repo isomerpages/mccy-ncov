@@ -10,7 +10,7 @@ Click on either link for your device type:
 - [Apple Devices](https://apps.apple.com/sg/app/sg-cares/id1315897116)
 - [Android Devices](https://play.google.com/store/apps/details?id=org.nvpc.sgcares)
 
-![SGCaresApp](/images/SGCaresIcon.png)
+![SGCaresApp](/images/SGCaresIcon.jpg)
 ### Subscribe to our SG United Telegram Channel
 **[Click here to join the Telegram channel](https://t.me/SG_United)** to receive the latest updates on content and community initiatives by Singaporeans stepping up to support one another. 
 
