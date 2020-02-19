@@ -16,6 +16,8 @@ If you are looking for resources for your initiative, do consider applying for t
  **[Our Singapore Fund](https://www.sg/oursingaporefund)** is setup by MCCY to support meaningful projects by passionate Singaporeans to meet social and community needs. Funding is capped at 80%, up to $20,000 of project expenditure.
 [![OurSG](/images/OSF_Colour.png)](https://www.sg/oursingaporefund)
 
+For more information, visit the **[Our Singapore Fund](https://www.sg/oursingaporefund)** website.
+
 #### The Majurity Trust - Singapore Strong Fund
 The **[Singapore Strong Fund](https://www.majurity.sg/sgstrong)** is setup by the Majurity Trust, and independent philantrhopic organisation, to support community-led initiatives to help those affected by the COVID-19 situation. These could include appreciation initiatives, and initiatives to help those in need during this time. Funding is capped at 80% of project expenditure, capped at $5,000, and can be processed more quickly. 
 
