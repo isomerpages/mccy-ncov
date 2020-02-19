@@ -23,6 +23,6 @@ Click **[here](/media/SGUnited-Logo-Download.zip)** to download the SG United lo
 
 ### Find and share content made by community to show care, appreciation and hope
 Here are some resources you can share:
-* To find out what we can do as individuals, **[here](/five-calls/)** are our five calls to action.
-* In the song 'Braver, Together', songwriter Xiao Han and local musicians cheer Singaporeans on through trying times. Watch the music video in **[English](https://www.facebook.com/TSMCollegeSG/videos/814750172371019/)** or in **[Mandarin](https://www.facebook.com/TSMCollegeSG/videos/2648069568646073/)**.
-* To educate children, **A New Virus Has Arrived!** eBook is now available, **[here](https://info.etonhouse.com.sg/a-new-virus-has-arrived-ebook)**.
+* **Our Five Calls to Action (/five-calls/)** for us as individuals
+* The 'Braver, Together' music video by local songwriter Xiao Han and local musicians to cheer Singaporeans on during this time. Watch it in **[English](https://www.facebook.com/TSMCollegeSG/videos/814750172371019/)** or **[Mandarin](https://www.facebook.com/TSMCollegeSG/videos/2648069568646073/)**.
+* **A New Virus Has Arrived (https://info.etonhouse.com.sg/a-new-virus-has-arrived-ebook)** eBook for children by Etonhouse Community Fund
