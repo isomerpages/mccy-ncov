@@ -19,7 +19,7 @@ Your donation is greatly appreciated and will go a long way in helping those aff
 Visit the **[CityofGood.SG](https://cityofgood.sg/sgunited/)** for the list of needs that you can contribute to.
 
 If you have masks or other supplies to share, do visit
-- <a href="https://www.contribute.sg">Contribute.SG</a>, or;
+- <a href="https://www.contribute.sg">Contribute.SG</a>; or,
 - <a href="https://www.better.sg/maskgoshare">Better.SG</a> if you have masks or other supplies to share.
 
 If you have other offers, let us know at [red@mccy.gov.sg](mailto:red@mccy.gov.sg).
