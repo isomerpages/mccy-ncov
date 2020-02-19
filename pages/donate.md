@@ -22,3 +22,5 @@ Visit the **[Giving.SG](https://www.giving.sg/sgunited)** for the full list of n
 If you have masks or other supplies to share, do visit
 - <a href="https://www.contribute.sg">Contribute.SG</a>, or;
 - <a href="https://www.better.sg/maskgoshare">Better.SG</a> if you have masks or other supplies to share.
+
+If you have other offers, let us know at [red@mccy.gov.sg](mailto:red@mccy.gov.sg).
