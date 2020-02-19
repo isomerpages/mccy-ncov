@@ -3,7 +3,7 @@ title: Support Community Efforts
 permalink: /community-efforts/
 ---
 
-### Appreciate Frontliners
+### Support Efforts to Appreciate Frontliners
 - Visit [OurHeroesSG](https://heroes.goodhood.sg/heroes) to share words of appreciation to the heroes you encounter to encourage them as they sacrifice to serve others. Setup by the people from GoodHood, 20 heroes will recieve tokens of appreciation every week.  
 - Some of our local celebrities have posted videos of encouragement to those on the frontline on the [nCoV Frontline](https://www.facebook.com/nCoVfrontline/) Facebook page.
 
