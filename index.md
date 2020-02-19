@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: "SGUnited"
-description: Let's come together to support each other
+description: Let’s come together to support one another
 permalink: /
 notification: 
 sections:
