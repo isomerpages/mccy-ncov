@@ -14,7 +14,7 @@ sections:
         key_highlights:
             - title: Volunteer
               description: to help
-              url: "https://www.giving.sg/sgunited" 
+              url: "https://www.giving.sg/sgunited-volunteers" 
             - title: Support
               description: on-going community initiatives 
               url: /community-efforts/
