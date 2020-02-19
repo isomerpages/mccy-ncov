@@ -17,7 +17,7 @@ The **[Giving.SG](https://www.giving.sg/sgunited)** website also has a list of s
 Your donation is greatly appreciated and will go a long way in helping those affected by the COVID-19 crisis.
 
 ### Want to make an in-kind donation?
-Visit the **[Giving.SG](https://www.giving.sg/sgunited)** for the full list of needs that you can contribute to.
+Visit the **[CityofGood.SG](https://cityofgood.sg/sgunited/)** for the full list of needs that you can contribute to.
 
 If you have masks or other supplies to share, do visit
 - <a href="https://www.contribute.sg">Contribute.SG</a>, or;
