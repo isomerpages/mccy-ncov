@@ -31,9 +31,9 @@ sections:
         button:
         url:
     - infopic:
-        title: Supporting Community Efforts
+        title: Support Community Efforts
         subtitle: From Appreciating to Starting Initiatives!
-        description: 
+        description: Have an idea and want to contribute?
         button: Find Out How!
         url: /community-efforts/
         image: /images/nCoVF.jpg
