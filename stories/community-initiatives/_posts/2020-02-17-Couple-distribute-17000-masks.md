@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Couple Hand Out Masks to Singaporeans
-date:   2020-02-04
+date:   2020-02-17
 permalink: /stories/community-initiatives/Couple-distribute-17000-masks
 ---
 
