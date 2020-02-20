@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  NTU Undergraduates Create Campaign to Combat ‘Fake News’
-date:   2020-02-03
+date:   2020-02-15
 permalink: /stories/community-initiatives/ntuundergrads
 ---
 
