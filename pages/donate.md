@@ -14,6 +14,6 @@ You can consider donating to the following funds:
 
 In addition to the funds above, **[Giving.SG](https://www.giving.sg/sgunited)** has set up a central giving page to enable people and organisations to easily find and contribute to charities’ efforts to address the needs of communities affected by the COVID-19 outbreak.
 ### Want to make an in-kind donation?
-As we come together to respond to community needs amid the COVID-19 situation, we can all make other-centredness an ingrained habit and our way of life. Visit **[CityofGood.SG](https://cityofgood.sg/sgunited/)** for the list of in-kind community needs you can contribute to. Your donated items will go a long way in helping us build our City of Good.
+As we come together to respond to community needs amid the COVID-19 situation, we can all make other-centredness an ingrained habit and our way of life. Visit **[CityofGood.SG](/wip/)** for the list of in-kind community needs you can contribute to. Your donated items will go a long way in helping us build our City of Good.
 
 If you have other offers, let us know at [red@mccy.gov.sg](mailto:red@mccy.gov.sg).
