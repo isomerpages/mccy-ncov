@@ -4,8 +4,8 @@ file_url: /media/SGUnited-Logo-Download.zip
 permalink: /online-platforms-content/
 ---
 
-### Download the SGCares App
-Download the SGCares App to stay updated on the on the latest giving initiatives that you can be involved in!
+### Download the SG Cares App
+Download the SG Cares App to stay updated on the on the latest giving initiatives that you can be involved in!
 Click on either link for your device type:
 - [Apple Devices](https://apps.apple.com/sg/app/sg-cares/id1315897116)
 - [Android Devices](https://play.google.com/store/apps/details?id=org.nvpc.sgcares)
@@ -17,9 +17,9 @@ Click on either link for your device type:
 ### Download the SG United Logo
 ![SG United Logo](/images/SGUnited4.png)
 
-SGUnited is a rallying call to all Singaporeans to work together, and be confident that we will overcome the challenges arising from COVID-19.
+SG United is a rallying call to all Singaporeans to work together, and be confident that we will overcome the challenges arising from COVID-19.
 
-The SGUnited logo is free for download and use, but is governed by the guidelines enclosed in the download pack.
+The SG United logo is free for download and use, but is governed by the guidelines enclosed in the download pack.
 
 **[Click here to download the SG United Logo pack](/media/SGUnited-Logo-Download.zip)**
 
