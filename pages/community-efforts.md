@@ -4,6 +4,7 @@ permalink: /community-efforts/
 ---
 
 ### Support Efforts to Appreciate Frontliners
+- Write a tribute to Singapore’s coronavirus fighters on [the Straits Times tribute page](https://www.straitstimes.com/multimedia/graphics/2020/02/tribute-coronaviurus-fighters/index.html).
 - Visit [OurHeroesSG](https://heroes.goodhood.sg/heroes) to share words of appreciation to the heroes you encounter to encourage them as they sacrifice to serve others. Setup by the people from GoodHood, 20 heroes will recieve tokens of appreciation every week.  
 - Some of our local celebrities have posted videos of encouragement to those on the frontline on the [nCoV Frontline](https://www.facebook.com/nCoVfrontline/) Facebook page.
 
@@ -20,7 +21,7 @@ If you are looking for resources for your initiative, do consider applying for t
 For more information, visit the **[Our Singapore Fund](https://www.sg/oursingaporefund)** website.
 
 #### The Majurity Trust - Singapore Strong Fund
-The **[Singapore Strong Fund](https://www.majurity.sg/sgstrong)** is setup by the Majurity Trust, an independent philantrhopic organisation, to support community-led initiatives to help those affected by the COVID-19 situation. These could include appreciation initiatives, and initiatives to help those in need during this time. Funding is capped at 80% of project expenditure, capped at $5,000, and can be processed more quickly. 
+The **[Singapore Strong Fund](https://www.majurity.sg/sgstrong)** is setup by the Majurity Trust, an independent philantrhopic organisation, to support community-led initiatives to help those affected by the COVID-19 situation. These could include appreciation initiatives, and initiatives to help those in need during this time. Funding can be up to 80% of the project cost or a cap of $5000 per project, whichever is lower and can be processed more quickly. 
 
 [![SGStrong](/images/SGStrongW.jpg)](https://www.majurity.sg/sgstrong)
 
