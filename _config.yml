@@ -25,6 +25,7 @@ collections:
   left-nav-two:
     output: true
 resources_name: stories
+google_analytics: G-10HEKE537Y
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
