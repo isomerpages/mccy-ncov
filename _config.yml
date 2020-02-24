@@ -18,7 +18,6 @@ colors:
     - title: media-color-five
       color: '#e61a3a'
 
-
 collections:
   left-nav-one:
     output: true
