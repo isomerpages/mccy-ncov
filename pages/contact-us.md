@@ -16,5 +16,5 @@ locations:
 contacts:
   - title: General Enquiries & Feedback
     content:
-    - email: red@mccy.gov.sg
+    - email: sgunited@mccy.gov.sg
 ---
