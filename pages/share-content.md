@@ -28,3 +28,7 @@ Here are some resources you can share:
 * **[Our Five Calls to Action](/five-calls/)** for us as individuals. Available in **[English](/five-calls/)** and **[Mandarin](/five-calls-chi/)**.
 * The 'Braver, Together' music video by local songwriter Xiao Han and local musicians to cheer Singaporeans on during this time. Watch it in **[English](https://www.facebook.com/TSMCollegeSG/videos/814750172371019/)** or **[Mandarin](https://www.facebook.com/TSMCollegeSG/videos/2648069568646073/)**.
 * **[A New Virus Has Arrived](https://info.etonhouse.com.sg/a-new-virus-has-arrived-ebook)** eBook for children by Etonhouse Community Fund
+* NUS-Yong Loo Lin School of Medicine shares a series of **[educational illustrations](https://www.facebook.com/NUSMedicine/photos/a.2941972405853207/2951391228244658/?type=3&theater)** about the ongoing COVID-19.
+* The Singapore Chinese Orchestra pay tribute to all frontline staff in a video with a nostalgic and familiar tune of the **[song “Home”](https://www.facebook.com/singapore.chinese.orchestra/videos/vb.87924944604/2678502572258578/?type=2&theater)**.
+* Did you know that there is a proper way to **[dispose your masks](https://www.facebook.com/youthdotsg/videos/vb.213387418691932/403084493876050/?type=2&theater)**?
+* ITE College West appreciate our frontliners in a **['Thank You' video](https://www.facebook.com/213387418691932/posts/3037077276322918/?vh=e&d=n)**.
