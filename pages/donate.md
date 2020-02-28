@@ -12,8 +12,10 @@ You can consider donating to the following funds:
 [![The Sayang Sayang Fund](/images/TSSF.jpeg)](https://www.giving.sg/community-foundation-of-singapore/sayang_sayang_fund)
 - **[The Sayang Sayang Fund](https://www.giving.sg/community-foundation-of-singapore/sayang_sayang_fund)** aims to provide transport vouchers to staff in healthcare institutions and other selfless healthcare professionals, like home care nurses and those in nursing homes and shelters. The Fund will also go to charities that help those who have been further challenged by the heightened precautionary measures, such as vulnerable seniors and low income families.
 
-In addition to the funds above, **[Giving.SG](https://www.giving.sg/sgunited)** has set up a central giving page to enable people and organisations to easily find and contribute to charities’ efforts to address the needs of communities affected by the COVID-19 outbreak.
+**[Giving.SG](https://www.giving.sg/sgunited)** has also set up a central giving page to enable people and organisations to easily find and contribute to charities’ efforts to address the needs of communities affected by the COVID-19 outbreak.
+
+Additionally, if you wish to donate to ground-up efforts in response to COVID-19, visit **[Give.Asia](https://give.asia/campaign/sgunited#/)**, a crowdfunding website, to view the COVID-19 response-related ground-up initiatives that you can support.
 ### Want to make an in-kind donation?
 As we come together to respond to community needs amid the COVID-19 situation, we can all make other-centredness an ingrained habit and our way of life. Visit **[CityofGood.SG](https://cityofgood.sg/sgunited/)** for the list of in-kind community needs you can contribute to. Your donated items will go a long way in helping us build our City of Good.
 
-If you have other offers, let us know at [red@mccy.gov.sg](mailto:red@mccy.gov.sg).
+If you have other offers, let us know at [sgunited@mccy.gov.sg](mailto:sgunited@mccy.gov.sg).
