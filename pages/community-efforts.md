@@ -6,6 +6,7 @@ permalink: /community-efforts/
 ### Support Efforts to Appreciate Frontliners
 - Write a tribute to Singapore’s coronavirus fighters on [the Straits Times tribute page](https://www.straitstimes.com/multimedia/graphics/2020/02/tribute-coronaviurus-fighters/index.html).
 - Visit [OurHeroesSG](https://heroes.goodhood.sg/heroes) to share words of appreciation to the heroes you encounter to encourage them as they sacrifice to serve others. Setup by the people from GoodHood, 20 heroes will recieve tokens of appreciation every week.  
+- Appreciate our frontline workers through the *[HealthcareHeroes](/media/HealthcareHeroes.pdf/)* project by TTSH, as they continue to fight COVID-19.
 - Some of our local celebrities have posted videos of encouragement to those on the frontline on the [nCoV Frontline](https://www.facebook.com/nCoVfrontline/) Facebook page.
 
 ### Start Your Own Initiative
