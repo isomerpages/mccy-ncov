@@ -7,7 +7,11 @@ permalink: /stories/community-initiatives/CCForeignWorkers
 
 ### Local Volunteer Groups Show Care and Concern to Foreign Workers Amidst COVID-19
 
-Migrant workers are an important part of Singapore society, leaving their own homes to help build ours. But being far from home and their loved ones, it can get tough on them when they fall ill. Singaporeans have not forgotten about them. Many groups, such as TEDx, and ground-up movements such as Singapore Migrant Friends, are showing care and concern to our migrant worker community.
+Migrant workers are an important part of Singapore society, leaving their own homes to help build ours. But being far from home and their loved ones, it can get tough on them when they fall ill. Singaporeans have not forgotten about them. 
+
+Since the news broke, unease over the virus has gripped Singapore’s migrant workers. Many of them live in crowded, cramped conditions, where viruses are easily transmitted. There have also been reports of concerned foreign workers thinking about returning to their home countries.
+
+Many groups, such as TEDx, and ground-up movements such as Singapore Migrant Friends and It's Raining Raincoats, are showing care and concern to our migrant worker community.
 
 ![TPIRR](/images/stories/TPIRR.jpg/)
 
