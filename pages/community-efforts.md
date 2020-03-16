@@ -14,7 +14,7 @@ permalink: /community-efforts/
 - Hush TeaBar started a project to provide self-care packs for our healthcare frontliners. Visit [Give.Asia](https://give.asia/campaign/sgunited#/) to find out how you can support this initiative and benefit more frontliners.
 
 ### Collaborate with other Companies
-The [Company of Good](www.companyofgood.sg/collaborate)’s Collaborate platform is for companies seeking other companies to work together on impactful initiatives that address key needs during this period. Visit them:
+The [Company of Good](https://www.companyofgood.sg/collaborate)’s Collaborate platform is for companies seeking other companies to work together on impactful initiatives that address key needs during this period. Visit them:
 - If you are a company looking for partners or additional support to scale your initiatives, **share an opportunity** with the Company of Good community.
 - If you are a company looking to partner, **view the opportunities** and connect with the company directly to get started. 
 
