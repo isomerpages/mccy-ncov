@@ -34,5 +34,5 @@ Here are some resources you can share:
 * Did you know that there is a proper way to **[dispose your masks](https://www.facebook.com/youthdotsg/videos/vb.213387418691932/403084493876050/?type=2&theater)**?
 * ITE College West appreciate our frontliners in a **['Thank You' video](https://www.facebook.com/213387418691932/posts/3037077276322918/?vh=e&d=n)**.
 * Nanyang Polytechnic students share with us a series of **[infomational motion graphics](https://www.instagram.com/p/B9jZZRBn90j/)** about the ongoing COVID-19 outbreak.
-* Here are some **[Dos and Don'ts](https://www.instagram.com/p/B9ixedyn9m2/)** when attending social activities during this COVID-19 period.
+* Here are some **['Do's and 'Don't's](https://www.instagram.com/p/B9ixedyn9m2/)** when attending social activities during this COVID-19 period.
 * Migrant Worker Centre ambassadors **[share their experiences](https://www.youtube.com/watch?v=QDhd5-r92QY&feature=youtu.be&fbclid=IwAR2GtIOTE3PryDvpjW2p6g5_ntqo2_p-k93__3_UljLlRUuZUvT_KYJ-YT0)** of being quarantined to reassure fellow colleagues that Singapore has adequate measures to fight the spread of COVID-19.
