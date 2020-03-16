@@ -1,7 +1,7 @@
 ---
 title: Online Platforms & Content
-file_url: "media/SGUnited-Logo-Download.zip"
-permalink: /online-platforms-content/
+file_url: /media/SGUnited-Logo-Download.zip
+permalink: /online-platforms-content
 ---
 
 ### Download the SG Cares App
