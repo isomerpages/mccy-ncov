@@ -25,6 +25,7 @@ collections:
     output: true
 resources_name: stories
 google_analytics: UA-158922520-1
+google-tag-manager: AW-660406439
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
