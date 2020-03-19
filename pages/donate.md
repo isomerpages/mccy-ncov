@@ -22,6 +22,6 @@ As we come together to respond to community needs amid the COVID-19 situation, w
 <font size="1"><i>MCCY does not verify or endorse any of the offers/requests on the website; nor are we responsible for any damage or loss of any kind caused by the use of the website. By proceeding to the website, you acknowledge and agree with the statements above. By continuing to use the SG United website, you agree to our Terms of Use and Privacy Statement.</i></font>
  
  
-<font size="1"><i>For more information on the SG United Portal’s <a href="/terms-of-use/">Terms of Use</a> and <a href="/privacy/">Privacy Statement</a>, you may access them through the prior links.</i></font>
+<font size="1"><i>For more information on the SG United Portal’s <a href="terms-of-use">Terms of Use</a> and <a href="privacy">Privacy Statement</a>, you may access them through the prior links.</i></font>
   
 If you have other offers, let us know at [sgunited@mccy.gov.sg](mailto:sgunited@mccy.gov.sg).
