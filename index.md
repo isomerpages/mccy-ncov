@@ -31,11 +31,11 @@ sections:
         button:
         url:
     - infopic:
-        title: Download the TraceTogether App Today!
+        title: Download the TraceTogether App!
         subtitle: Support and Supplement Contact Tracing Efforts!
         description: TraceTogether supports nationwide efforts to reduce the spread of COVID-19. 
         button: Click Here to Download
-        url: /online-platforms-content/
+        url: "https://www.tracetogether.gov.sg"
         image: /images/TTalt.jpg
         alt: COVID-19 Frontline
     - infopic:
