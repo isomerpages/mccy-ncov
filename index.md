@@ -34,7 +34,7 @@ sections:
         title: Download the TraceTogether App!
         subtitle: Support and Supplement Contact Tracing Efforts
         description: Help stop the spread of COVID-19 through community-driven contact tracing. 
-        button: Click Here to Download
+        button: Click to Download
         url: "https://www.tracetogether.gov.sg"
         image: /images/TTalt.jpg
         alt: COVID-19 Frontline
