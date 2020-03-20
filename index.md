@@ -32,8 +32,8 @@ sections:
         url:
     - infopic:
         title: Download the TraceTogether App!
-        subtitle: Support and Supplement Contact Tracing Efforts!
-        description: TraceTogether supports nationwide efforts to reduce the spread of COVID-19. 
+        subtitle: Support and Supplement Contact Tracing Efforts
+        description: Help stop the spread of COVID-19 through community-driven contact tracing. 
         button: Click Here to Download
         url: "https://www.tracetogether.gov.sg"
         image: /images/TTalt.jpg
