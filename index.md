@@ -31,6 +31,14 @@ sections:
         button:
         url:
     - infopic:
+        title: Download the TraceTogether App!
+        subtitle: Support and Supplement Contact Tracing Efforts
+        description: Help stop the spread of COVID-19 through community-driven contact tracing. 
+        button: Click to Download
+        url: "https://www.tracetogether.gov.sg"
+        image: /images/TTalt.jpg
+        alt: COVID-19 Frontline
+    - infopic:
         title: Support Community Efforts
         subtitle: From Appreciating to Starting Initiatives!
         description: Have an idea and want to contribute?
@@ -44,7 +52,7 @@ sections:
         description: Keep Up-to-Date on Community Initiatives, Opportunities and Content
         button: Explore!
         url: /online-platforms-content/
-        image: /images/SUSM.png
+        image: /images/SUSMalt.png
         alt: Social Media
     - resources:
         title: Stories

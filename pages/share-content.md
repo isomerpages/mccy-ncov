@@ -3,6 +3,14 @@ title: Online Platforms & Content
 permalink: /online-platforms-content/
 ---
 
+### Download the TraceTogether App
+Download the TraceTogether app to support nationwide efforts to reduce the spread of COVID-19. Let's work together as a nation to combat the situation!
+Click on either link for your device type:
+- [Apple Devices](https://apps.apple.com/sg/app/tracetogether/id1498276074)
+- [Android Devices](https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace&hl=en)
+
+![TraceTogether](/images/TTshare.jpg)
+
 ### Download the SG Cares App
 Download the SG Cares App to stay updated on the on the latest giving initiatives that you can be involved in!
 Click on either link for your device type:
