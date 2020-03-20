@@ -4,7 +4,7 @@ permalink: /online-platforms-content/
 ---
 
 ### Download the TraceTogether App
-Download the TraceTogether to support nationwide efforts to reduce the spread of COVID-19. Let's work together as a nation to combat the  situation!
+Download the TraceTogether app to support nationwide efforts to reduce the spread of COVID-19. Let's work together as a nation to combat the situation!
 Click on either link for your device type:
 - [Apple Devices](https://apps.apple.com/sg/app/tracetogether/id1498276074)
 - [Android Devices](https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace&hl=en)
