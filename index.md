@@ -30,7 +30,7 @@ sections:
         description: "This page brings together different community-led COVID-19 responses. To those who have stepped forward, we salute your efforts! We hope it inspires more of us to help one another get through this challenging time. #SGUnited"
         button:
         url:
-     - infopic:
+    - infopic:
         title: Download the TraceTogether App Today!
         subtitle: Support and Supplement Contact Tracing Efforts!
         description: TraceTogether supports nationwide efforts to reduce the spread of COVID-19. 
