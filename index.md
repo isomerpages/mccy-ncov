@@ -52,7 +52,7 @@ sections:
         description: Keep Up-to-Date on Community Initiatives, Opportunities and Content
         button: Explore!
         url: /online-platforms-content/
-        image: /images/SUSM.png
+        image: /images/SUSMalt.png
         alt: Social Media
     - resources:
         title: Stories
