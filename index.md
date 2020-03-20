@@ -36,7 +36,7 @@ sections:
         description: TraceTogether supports nationwide efforts to reduce the spread of COVID-19. 
         button: Click Here to Download
         url: /community-efforts/
-        image: /images/TT.png
+        image: /images/TTalt.jpg
         alt: COVID-19 Frontline
     - infopic:
         title: Support Community Efforts
