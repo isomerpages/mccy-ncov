@@ -9,7 +9,7 @@ Click on either link for your device type:
 - [Apple Devices](https://apps.apple.com/sg/app/tracetogether/id1498276074)
 - [Android Devices](https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace&hl=en)
 
-![TraceTogether](TTshare.jpg)
+![TraceTogether](/images/TTshare.jpg)
 
 ### Download the SG Cares App
 Download the SG Cares App to stay updated on the on the latest giving initiatives that you can be involved in!
