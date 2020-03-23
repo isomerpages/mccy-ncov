@@ -1,5 +1,5 @@
 ---
-title: Support Community Efforts
+title: Appreciating Frontline Workers
 permalink: /Appreciation-Booths/
 ---
 
