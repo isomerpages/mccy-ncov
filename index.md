@@ -36,8 +36,16 @@ sections:
         description: Help stop the spread of COVID-19 through community-driven contact tracing. 
         button: Click to Download
         url: "https://www.tracetogether.gov.sg"
-        image: /images/TTalt.jpg
-        alt: COVID-19 Frontline
+        image: /images/TTorg.jpg
+        alt: TraceTogether Download
+    - infopic:
+        title: Volunteer at Our Appreciation Booths!
+        subtitle: Encourage our frontline heroes battling COVID-19
+        description:  
+        button: Find Out More!
+        url: /Appreciation-Booths/
+        image: /images/InclusiveInfo.jpg
+        alt: COVID-19 Frontline    
     - infopic:
         title: Support Community Efforts
         subtitle: From Appreciating to Starting Initiatives!
@@ -45,14 +53,14 @@ sections:
         button: Find Out How!
         url: /community-efforts/
         image: /images/nCoVF.jpg
-        alt: COVID-19 Frontline
+        alt: Community Efforts
     - infopic:
         title: Online Platforms & Content
         subtitle: 
         description: Keep Up-to-Date on Community Initiatives, Opportunities and Content
         button: Explore!
         url: /online-platforms-content/
-        image: /images/SUSMalt.png
+        image: /images/SUSM.png
         alt: Social Media
     - resources:
         title: Stories
