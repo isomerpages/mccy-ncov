@@ -36,12 +36,12 @@ sections:
         description: Help stop the spread of COVID-19 through community-driven contact tracing. 
         button: Click to Download
         url: "https://www.tracetogether.gov.sg"
-        image: /images/TTorg.jpg
+        image: /images/TTalt.jpg
         alt: TraceTogether Download
     - infopic:
         title: Volunteer at Our Appreciation Booths!
-        subtitle: Encourage our frontline heroes battling COVID-19
-        description:  
+        subtitle: Encourage frontline heroes battling COVID-19
+        description:  Wondering how you can help?
         button: Find Out More!
         url: /Appreciation-Booths/
         image: /images/InclusiveInfo.jpg
