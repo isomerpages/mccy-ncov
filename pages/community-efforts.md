@@ -32,6 +32,7 @@ A kind word goes a long way in showing our frontline heroes how much we value th
 
 ### Supporting Mental Health and Wellness during COVID-19
 - An online counselling service, [eC2.sg](https://www.ec2.sg) has been set up by Fei Yue Family Services to offer support to persons affected by the COVID-19 situation. Should you require support or just need someone to chat with in confidence, visit eC2.sg.
+- Silver Ribbon (Singapore) is offering counselling services to persons affected by the COVID-19 situation, click [here](/media/silverribbon.jpeg) for more information.
 - Hush TeaBar started a project to provide self-care packs for our healthcare frontliners. Visit [Give.Asia](https://give.asia/campaign/sgunited#/) to find out how you can support this initiative and benefit more frontliners.
 
 ### Collaborate with other Companies
