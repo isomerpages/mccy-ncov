@@ -39,13 +39,21 @@ sections:
         image: /images/TTalt.jpg
         alt: TraceTogether Download
     - infopic:
-        title: Volunteer at Our Appreciation Booths!
-        subtitle: Encourage frontline heroes battling COVID-19
-        description:  Wondering how you can help?
-        button: Find Out More!
-        url: /Appreciation-Booths/
-        image: /images/InclusiveInfo.jpg
-        alt: COVID-19 Frontline    
+        title: ChopeAndSave
+        subtitle: Support this Community Effort to Help Our Local Businesses
+        description:  Your favorite Singaporean Shop/Restaurant might close forever. Help save it.
+        button: Visit Them Now!
+        url: "https://www.chopeandsave.com/"
+        image: /images/CAS.jpg/
+        alt:   Chope And Save
+    - infopic:
+        title: GoodHoodSG
+        subtitle: Help One Another in Your Neighbourhood
+        description:  A ground-up initiative to connect neighbours to bless and be blessed, kampung-style.        
+        button: Find Out How!
+        url: "https://www.goodhoodsg.com/"
+        image: /images/GHSG2.PNG/
+        alt:   GoodHoodSG
     - infopic:
         title: Support Community Efforts
         subtitle: From Appreciating to Starting Initiatives!
