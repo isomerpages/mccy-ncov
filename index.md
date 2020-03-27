@@ -42,7 +42,7 @@ sections:
         title: ChopeAndSave
         subtitle: Support this Community Effort to Help Our Local Businesses
         description:  Your favorite Singaporean Shop/Restaurant might close forever. Help save it.
-        button: Visit Them Now!
+        button: Visit Chopeandsave!
         url: "https://www.chopeandsave.com/"
         image: /images/CAS.jpg/
         alt:   Chope And Save
@@ -50,7 +50,7 @@ sections:
         title: GoodHoodSG
         subtitle: Help One Another in Your Neighbourhood
         description:  A ground-up initiative to connect neighbours to bless and be blessed, kampung-style.        
-        button: Find Out How!
+        button: Visit GoodHoodSG!
         url: "https://www.goodhoodsg.com/"
         image: /images/GHSG2.PNG/
         alt:   GoodHoodSG
@@ -68,7 +68,7 @@ sections:
         description: Keep Up-to-Date on Community Initiatives, Opportunities and Content
         button: Explore!
         url: /online-platforms-content/
-        image: /images/SUSM.png
+        image: /images/SUSMalt.png
         alt: Social Media
     - resources:
         title: Stories
