@@ -15,7 +15,7 @@ A kind word goes a long way in showing our frontline heroes how much we value th
 **Central**
 * Novena MRT (next to Meeting Point A / Heart Zone): 29 Feb to 30 Apr
 * Outram Park MRT (near gantry at Exit F): 29 Feb to 30 Apr
-* Toa Payoh Hub (next to bus interchange): 4 Apr to 17 Apr
+* *SCAPE (near drop-ff point entrance): 25 Mar to 8 Apr
 
 **East**
 * Jewel Changi Airport (outside West Gateway Garden): 21 Mar to 3 Apr
