@@ -41,7 +41,7 @@ sections:
     - infopic:
         title: ChopeAndSave
         subtitle: Support this Community Effort to Help Our Local Businesses
-        description:  Your favorite Singaporean Shop/Restaurant might close forever. Help save it.
+        description:  Your favourite Singaporean Shop/Restaurant might close forever. Help save it.
         button: Visit Chopeandsave!
         url: "https://www.chopeandsave.com/"
         image: /images/CAS.jpg/
