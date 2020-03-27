@@ -39,9 +39,12 @@ Here are some resources you can share:
 * **[A New Virus Has Arrived](https://info.etonhouse.com.sg/a-new-virus-has-arrived-ebook)** eBook for children by Etonhouse Community Fund.
 * Local Artist Wei Man Kow, explains to us through an **[infocomic](https://www.instagram.com/p/B9wHIZZnPD7/)** the dangers of misinformation, how to identify and fight it during this COVID-19 period.
 * NUS-Yong Loo Lin School of Medicine shares a series of **[educational illustrations](https://www.facebook.com/NUSMedicine/photos/a.2941972405853207/2951391228244658/?type=3&theater)** about the ongoing COVID-19.
+* NUS-Yong Loo Lin School of Medicine shares a series of **[illustrations](https://www.facebook.com/NUSMedicine/photos/a.2941972405853207/3013867598663687/?type=3&theater)** on being a responsible worker.
 * Here is an **[infographic](https://www.facebook.com/photo.php?fbid=10163153612300164&set=a.10150178879735164&type=3&theater)** explaining how Singapore has worked to ensure that our food security system is strong and robust, not just for the short haul but for the long haul as well.
 * The Singapore Chinese Orchestra pay tribute to all frontline staff in a video with a nostalgic and familiar tune of the **[song “Home”](https://www.facebook.com/singapore.chinese.orchestra/videos/vb.87924944604/2678502572258578/?type=2&theater)**.
+* Love art and can't go out? Find **[the arts at your fingertips](https://www.straitstimes.com/lifestyle/arts/the-arts-at-your-fingertips)** here!
 * Did you know that there is a proper way to **[dispose your masks](https://www.facebook.com/youthdotsg/videos/vb.213387418691932/403084493876050/?type=2&theater)**?
+* 3 healthcare professionals at the frontline share **[their stories](https://thekopi.co/2020/03/16/covid-19-healthcare-workers/?fbclid=IwAR2an8pXMwZKPjR7cHKzqTPCWNGexYQqzwI67A5etfDIthlXodBNIAPCwlo)** on the toll that COVID-19 has on them.
 * ITE College West appreciate our frontliners in a **['Thank You' video](https://www.facebook.com/213387418691932/posts/3037077276322918/?vh=e&d=n)**.
 * Nanyang Polytechnic students share with us a series of **[infomational motion graphics](https://www.instagram.com/p/B9jZZRBn90j/)** about the ongoing COVID-19 outbreak.
 * Here are **[3 steps](https://www.instagram.com/p/B9wMOl4Bmxm/)** you can take to practise social responsibility during the COVID-19 situation.
