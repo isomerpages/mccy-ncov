@@ -23,6 +23,8 @@ A kind word goes a long way in showing our frontline heroes how much we value th
 **West**
 * Westgate (Level 1, outside Tim Ho Wan): 21 Mar to 3 Apr 
 
+Interested in helping out? Visit our [Volunteer](/Appreciation-Booths/) page now! 
+
 ### Support Efforts to Appreciate Frontliners and Help Communities
 - Visit [Better.SG](https://better.sg/helpmalaysians/) to find out how you can help Malaysian workers in Singapore who are affected by the Malaysian lockdown.
 - Write a tribute to Singapore’s coronavirus fighters on [the Straits Times tribute page](https://www.straitstimes.com/multimedia/graphics/2020/02/tribute-coronaviurus-fighters/index.html).
