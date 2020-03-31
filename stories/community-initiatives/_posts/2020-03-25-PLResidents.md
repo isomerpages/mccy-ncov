@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Paya Lebar Residents Prepare 1000 Care Packs for Distribution to Healthcare Workers
-date:   2020-03-
+date:   2020-03-25
 permalink: /stories/community-initiatives/PLResidents
 ---
 
