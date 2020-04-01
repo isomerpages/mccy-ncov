@@ -4,7 +4,6 @@ permalink: /community-efforts/
 ---
 
 ### Appreciation Zones
-![Appreciation-Zones](/images/Appreciation-Healthcare.jpg/)
 
 A kind word goes a long way in showing our frontline heroes how much we value their efforts. Check out any of the SG United appreciation zones and pen your support on the appreciation board. 
 
