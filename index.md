@@ -8,9 +8,9 @@ sections:
     - hero:
         title: "Together we can overcome!"
         subtitle: "See how our community is stepping up to support one another"
-        background: /images/Inclusive.jpg
-        url: /stories/
-        button: Be Inspired!
+        background: /images/Banner-2.jpg
+        url: /online-platforms-content/
+        button: Take Action!
         key_highlights:
             - title: Volunteer
               description: to help
