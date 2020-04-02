@@ -7,10 +7,10 @@ notification:
 sections:
     - hero:
         title: "Together we can overcome!"
-        subtitle: "See how our community is stepping up to support one another"
-        background: /images/Inclusive.jpg
-        url: /stories/
-        button: Be Inspired!
+        subtitle: "Find out how you can help our community during this period"
+        background: /images/Banner-2.jpg
+        url: /online-platforms-content/
+        button: Take Action!
         key_highlights:
             - title: Volunteer
               description: to help
@@ -39,26 +39,26 @@ sections:
         image: /images/TTalt.jpg
         alt: TraceTogether Download
     - infopic:
-        title: ChopeAndSave
-        subtitle: Support this Community Effort to Help Our Local Businesses
-        description:  Your favourite Singaporean Shop/Restaurant might close forever. Help save it.
-        button: Visit Chopeandsave!
-        url: "https://www.chopeandsave.com/"
-        image: /images/CAS.jpg/
-        alt:   Chope And Save
+        title: Our Resilience Budget
+        subtitle: The revised Government revenue and expenditure plans for the current financial year
+        description:  Complementing the Unity Budget, the Resilience Budget addresses the rapidly evolving COVID-19 situation and the impact on Singapore’s economy and society.
+        button: Read More
+        url: "https://www.singaporebudget.gov.sg/budget_2020/resilience-budget"
+        image: /images/RB.png/
+        alt:   Resilience Budget
     - infopic:
-        title: GoodHoodSG
-        subtitle: Help One Another in Your Neighbourhood
-        description:  A ground-up initiative to connect neighbours to bless and be blessed, kampung-style.        
-        button: Visit GoodHoodSG!
-        url: "https://www.goodhoodsg.com/"
-        image: /images/GHSG2.PNG/
-        alt:   GoodHoodSG
+        title: SG United Jobs Portal
+        subtitle: Visit the SG United Jobs Virtual Career Fair for available job opportunities
+        description: Jobseekers will be able to interact with employers virtually for interviews, and access career-related resources and insights to assist them in their job search.         
+        button: Find Out More
+        url: "https://www.sgunitedjobs.gov.sg"
+        image: /images/SGUJobs.JPG/
+        alt:   SGUnitedJobs
     - infopic:
         title: Support Community Efforts
         subtitle: From Appreciating to Starting Initiatives!
         description: Have an idea and want to contribute?
-        button: Find Out How!
+        button: Find Out How
         url: /community-efforts/
         image: /images/nCoVF.jpg
         alt: Community Efforts
@@ -66,7 +66,7 @@ sections:
         title: Online Platforms & Content
         subtitle: 
         description: Keep Up-to-Date on Community Initiatives, Opportunities and Content
-        button: Explore!
+        button: Explore
         url: /online-platforms-content/
         image: /images/SUSMalt.png
         alt: Social Media
