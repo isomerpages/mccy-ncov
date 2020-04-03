@@ -33,6 +33,7 @@ The SG United logo is free for download and use, but is governed by the guidelin
 ### Find and share content made by community to show care, appreciation and hope
 Here are some resources you can share:
 * **[Our Five Calls to Action](/five-calls/)** for us as individuals. Available in **[English](/five-calls/)** and **[Mandarin](/five-calls-chi/)**.
+* Here is a series of **[educational resources](https://halogen.sg/educational-resources/?fbclid=IwAR3Kgw5okV6cH0CjGS6JkxGLq1TLJgf2qegSgtxHTNHL7x_UvH3Yh-uL5U8)** by Halogen Foundation that can be used for in-class discussions, and have conversations on individual and community values that can translate to pro-social actions and behaviour.
 * Here is a **[handy checklist](https://www.instagram.com/p/B9lEPX2nIu2/)** you can use to keep COVID-19 at bay.
 * Here are some things you can do to **[stay protected and fight the virus](https://www.instagram.com/p/B9rL0H3nrFO/)**.
 * The 'Braver, Together' music video by local songwriter Xiao Han and local musicians to cheer Singaporeans on during this time. Watch it in **[English](https://www.facebook.com/TSMCollegeSG/videos/814750172371019/)** or **[Mandarin](https://www.facebook.com/TSMCollegeSG/videos/2648069568646073/)**.
