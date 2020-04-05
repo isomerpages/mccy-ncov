@@ -7,10 +7,10 @@ notification:
 sections:
     - hero:
         title: "Stay at home for Singapore, together!"
-        subtitle: "Find out how you can help our community during this period"
+        subtitle: "Connect, Take Part, Help, Get Help"
         background: /images/Banner-2.jpg
         url: /online-platforms-content/
-        button: Stay Engaged @ Home
+        button: Stay Engaged
         key_highlights:
             - title: Volunteer
               description: to help
