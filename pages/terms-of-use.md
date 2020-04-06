@@ -2,7 +2,7 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-### **Terms on the Use of the SGUnited Website**
+### **Terms on the Use of the SG United Website**
 
 #### **TERMS OF USE**
  
