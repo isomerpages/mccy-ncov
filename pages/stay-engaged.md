@@ -10,6 +10,7 @@ As we reach a critical point in the battle against COVID-19, it is important for
 ### Do, Enjoy & Learn
 
 - Love art and can't go out? Find [the arts at your fingertips](https://www.straitstimes.com/lifestyle/arts/the-arts-at-your-fingertips) here!
+- Not sure of what you can do at home? Learn a skill, read a book or even do your groceries at [StayHomeDoWhat](https://stayhomedowhat.com/index/1586151758293x190541303433733760).
 
 ### Connect
 
