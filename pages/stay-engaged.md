@@ -7,7 +7,7 @@ permalink: /stay-engaged/
 
 As we reach a critical point in the battle against COVID-19, it is important for us as Singaporeans to play our part in the fight. Each of us will need to take individual and collective precautions to help safeguard one another and save lives. As part of the “circuit breaker” measures put in place, all of us are strongly encouraged to stay at home; but this does not mean that we cannot stay active and engaged. Here are some ways that you can remain connected to the community, help others and get help if you need. Singapore can pull through this only if we do it together! #stayathomeforSG
 
-### Do, Enjoy & Learn
+### Stay Healthy & Learn
 
 - Love art and can't go out? Find [the arts at your fingertips](https://www.straitstimes.com/lifestyle/arts/the-arts-at-your-fingertips) here!
 - Not sure of what you can do at home? Learn a skill, read a book or even do your groceries at [StayHomeDoWhat](https://stayhomedowhat.com/index/1586151758293x190541303433733760).
