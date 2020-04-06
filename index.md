@@ -7,7 +7,7 @@ notification:
 sections:
     - hero:
         title: "Stay at home for Singapore, together!"
-        subtitle: ""
+        subtitle: "Find out how we can stay engaged while being at home"
         background: /images/Banner-2.jpg
         url: /stay-engaged/
         button: Stay Engaged!
