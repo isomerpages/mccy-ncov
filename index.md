@@ -25,9 +25,9 @@ sections:
               description: connect, take part, help, get help
               url: /stay-engaged/            
     - infobar:
-        title: Community action to help Singapore overcome the COVID-19    
-        subtitle: 
-        description: "“The worst of times can bring out the best in our people. How we respond to it, how our nation comes together, will show much about our values as a people, and the principles we hold dear…. These four weeks of circuit breaking will feel unusual and unnatural. The challenge is to help ourselves and others stay home and do so purposefully and positively.” - DPM Heng Swee Keat, Solidarity Budget Speech, 7 Apr 2020"
+        title:
+        subtitle: "“The worst of times can bring out the best in our people. How we respond to it, how our nation comes together, will show much about our values as a people, and the principles we hold dear…. These four weeks of circuit breaking will feel unusual and unnatural. The challenge is to help ourselves and others stay home and do so purposefully and positively.” - DPM Heng Swee Keat, Solidarity Budget Speech, 7 Apr 2020"
+        description: 
         button:
         url:
     - infopic:
