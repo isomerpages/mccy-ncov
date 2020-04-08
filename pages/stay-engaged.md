@@ -10,6 +10,7 @@ As we reach a critical point in the battle against COVID-19, it is important for
 ### Thrive
 
 |---|:---|
+|**We Go Digital|Life doesn't have to go on hold when you can [Go Digital](https://www.imda.gov.sg/WeGoDigital)! Use the self-help resources to help you buy online, pay online and learn online!**|
 |A List|[Enjoy arts and culture](https://www.a-list.sg) anytime, anywhere while our physical spaces take a brief interlude. #SGCultureAnywhere|
 |Art at Your Fingertips|Love art and can't go out? Find [the arts at your fingertips](https://www.straitstimes.com/lifestyle/arts/the-arts-at-your-fingertips) here!|
 |Box Office Fitness Circuit Breaker Challenge|Staying in doesn’t mean you can’t stay in shape! Why not try to complete this [month-long workout plan](https://www.instagram.com/tv/B-qlrT1nBUA/?utm_source=ig_web_copy_link) challenge that includes a mix of HIIT, strength, cardio and recovery exercises?|
@@ -23,7 +24,6 @@ As we reach a critical point in the battle against COVID-19, it is important for
 |Space Out|Visit [Space Out](https://www.spaceout.gov.sg) for more information on which mores are less crowded during different times of the day, before heading out to buy essential goods and services.|
 |StayHomeDoWhat|Not sure of what you can do at home? Learn a skill, read a book or even do your groceries at [StayHomeDoWhat](https://stayhomedowhat.com/index/1586151758293x190541303433733760).|
 |Stay Well to Stay Strong|Visit [HealthHub](https://www.healthhub.sg/staywell) today to kickstart your healthy habits with good hygiene practices, an active lifestyle, a balanced diet and sufficient sleep.|
-|We Go Digital|Life doesn't have to go on hold when you can [Go Digital](https://www.imda.gov.sg/WeGoDigital)! Use the self-help resources to help you buy online, pay online and learn online!|
 |Work from Home Tips for Parents|[Tips](https://www.nie.edu.sg/teacher-education/useful-resources-for-HBL-WFH/tips-for-parents-for-working-from-home-(wfh)) on working from home for parents.|
 
 ### Connect
