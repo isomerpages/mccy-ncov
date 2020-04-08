@@ -20,7 +20,7 @@ As we reach a critical point in the battle against COVID-19, it is important for
 |Sambal Belacan|Staying at home has inspired many to start cooking. Why not spice up your meals with your very own [homemade Sambal Belacan](https://www.youtube.com/watch?v=r8eCHRrBxJI)? This condiment goes perfectly with many dishes and snacks, from fried rice to keropok! Have a go, make a jar!|
 |StayHomeDoWhat|Not sure of what you can do at home? Learn a skill, read a book or even do your groceries at [StayHomeDoWhat](https://stayhomedowhat.com/index/1586151758293x190541303433733760).|
 |Stay Well to Stay Strong|Visit [HealthHub](https://www.healthhub.sg/staywell) today to kickstart your healthy habits with good hygiene practices, an active lifestyle, a balanced diet and sufficient sleep.|
-|WeGoDigital|Life doesn't have to go on hold when you can [Go Digital](https://www.imda.gov.sg/WeGoDigital)! Use the self-help resources to help you buy online, pay online and learn online! |
+|We Go Digital|Life doesn't have to go on hold when you can [Go Digital](https://www.imda.gov.sg/WeGoDigital)! Use the self-help resources to help you buy online, pay online and learn online! |
 
 ### Connect
 
@@ -34,7 +34,7 @@ As we reach a critical point in the battle against COVID-19, it is important for
 |---|:---|
 |Better.SG - Help Malaysians|Visit [Better.SG](https://better.sg/helpmalaysians/) to find out how you can help Malaysian workers in Singapore who are affected by the Malaysian lockdown.|
 |ChopeAndSave|Amidst the COVID-19 situation, support packages have been provided to business and workers to tide them through this period; as customers, we too can play a part in helping them. Visit [ChopeAndSave](https://www.chopeandsave.com) to purchase a gift card from your favourite shop for you, your friends and loved ones to use at a later date.|
-|GoDigital|Help seniors in your home to [Go Digital](https://www.imsilver.imda.gov.sg )! |
+|Go Digital|Help seniors in your home to [Go Digital](https://www.imsilver.imda.gov.sg )! |
 |GoodHood.SG|Offer to help neighbours with items or services needed through the GoodHood.SG mobile app. Click on either link for your device type: [Apple Devices](https://apps.apple.com/sg/app/goodhood-sg-neighbourhood-app/id1494686562) or [Android Devices](https://play.google.com/store/apps/details?id=sg.goodhood.app&hl=en).|
 |Help Migrant Workers|Here are some things you can do to [help migrant workers](https://www.youth.sg/Peek-Show/2020/4/What-you-can-do-to-help-migrant-workers-affected-by-COVID-19-in-Singapore) affected by COVID-19 in Singapore |
 |Self-care Packs for Our Healthcare Frontliners|Hush TeaBar started a project to provide self-care packs for our healthcare frontliners. Visit [Give.Asia](https://give.asia/campaign/sgunited#/) to find out how you can support this initiative and benefit more frontliners.|
