@@ -11,17 +11,11 @@ As we reach a critical point in the battle against COVID-19, it is important for
 
 |---|:---|
 |Art at Your Fingertips|Love art and can't go out? Find [the arts at your fingertips](https://www.straitstimes.com/lifestyle/arts/the-arts-at-your-fingertips) here!|
-|Box Office Fitness Circuit Breaker Challenge|Staying in doesn’t mean you can’t stay in shape!
-Box Office Fitness, started by Singaporean couple Nerissa Assudani and Abel Koh, has issued Singapore a Circuit Breaker challenge. Can you finish this [month-long workout plan](https://www.instagram.com/tv/B-qlrT1nBUA/?utm_source=ig_web_copy_link) that includes a mix of HIIT, strength, cardio and recovery exercises?|
-|Drawing Cute Animals|How do you draw a llama? If you are stumped by this question, check out this video by Artist Singapore that will catch you up to speed.
-[Learn how to draw](https://www.youtube.com/watch?v=CchBRq_22pQ) other animals and impress your kids! Or start a drawing challenge with your friends and see who can sketch the cutest animal as we #StayHomeWithMeSG!|
-|Hawkers United 2020|If you’re already running out of ideas of what to eat when you stay in, check out [Hawkers United 2020](https://www.facebook.com/groups/268960887438286/learning_content/). This Facebook group is a platform for hawkers all around the island to advertise their food and delivery/takeaway options.
-Start prepping your hawker meal plan today as you #StayHomeWithMeSG, and support local and small home businesses too!|
-|PANTRY PLANTING: Spring Onions|Use this time at home to hone your green thumb!
-Edible Garden City has created this [step-by-step guide](https://www.instagram.com/tv/B-qie4wn4t1/?utm_source=ig_web_copy_link) to growing spring onions.  Look out for more videos from this channel for home gardening tips and tricks using kitchen staples.|
-|Sambal Belacan|Staying at home has inspired many to start cooking.
-Why not spice up your meals with your very own [homemade Sambal Belacan](https://www.youtube.com/watch?v=r8eCHRrBxJI)? This condiment goes perfectly with many dishes and snacks from fried rice to keropok!
-We found this simple, easy-to-follow recipe from The MeatMen cooking channel. Have a go, make a jar!|
+|Box Office Fitness Circuit Breaker Challenge|Staying in doesn’t mean you can’t stay in shape! Why not try to complete this [month-long workout plan](https://www.instagram.com/tv/B-qlrT1nBUA/?utm_source=ig_web_copy_link) challenge that includes a mix of HIIT, strength, cardio and recovery exercises?|
+|Drawing Cute Animals|How do you draw a llama? If you are stumped by this question, check out this video by Artist Singapore that will catch you up to speed.[Learn how to draw](https://www.youtube.com/watch?v=CchBRq_22pQ) other animals and impress your kids, or start a drawing challenge with your friends and see who can sketch the cutest animal as we #StayHomeWithMeSG! #SGUnited #SGTogether|
+|Hawkers United 2020|If you’re already running out of ideas of what to eat when you stay in, check out [Hawkers United 2020](https://www.facebook.com/groups/268960887438286/learning_content/). This Facebook group is a platform for hawkers all around the island to advertise their food and delivery/takeaway options. Start prepping your hawker meal plan today as you #StayHomeWithMeSG, and support local and small home businesses too!|
+|PANTRY PLANTING: Spring Onions|Use this time at home to hone your green thumb! Edible Garden City has created this [step-by-step guide](https://www.instagram.com/tv/B-qie4wn4t1/?utm_source=ig_web_copy_link) to growing spring onions. Look out for more videos from this channel for home gardening tips and tricks using kitchen staples.|
+|Sambal Belacan|Staying at home has inspired many to start cooking. Why not spice up your meals with your very own [homemade Sambal Belacan](https://www.youtube.com/watch?v=r8eCHRrBxJI)? This condiment goes perfectly with many dishes and snacks from fried rice to keropok! Have a go, make a jar!|
 |StayHomeDoWhat|Not sure of what you can do at home? Learn a skill, read a book or even do your groceries at [StayHomeDoWhat](https://stayhomedowhat.com/index/1586151758293x190541303433733760).|
 
 ### Connect
