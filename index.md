@@ -22,7 +22,7 @@ sections:
               description: to support the vulnerable
               url: /donate/                           
             - title: Stay Engaged
-              description: connect, take part, help, get help
+              description: thrive, connect, help, get help
               url: /stay-engaged/stay-home/
     - infobar:
         title:
