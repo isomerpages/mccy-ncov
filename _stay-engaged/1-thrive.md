@@ -1,0 +1,52 @@
+---
+title: Thrive
+permalink: /stay-engaged/thrive
+---
+
+### Thrive
+
+Even as we stay at home during this time, it does not mean that we can't thrive! Here is a list of things you can do while staying at home! Links have been organised into different catagories for easy access!
+
+
+#### Government Services
+
+|---|:---|
+|We Go Digital|Life doesn't have to go on hold when you can [Go Digital](https://www.imda.gov.sg/WeGoDigital)! Use the self-help resources to help you buy online, pay online and learn online!|
+|Safe Distance @ Parks|Visit [Safe Distance @ Parks](https://safedistparks.nparks.gov.sg) for more information on the visitorship of some of our major parks and green spaces.|
+|Space Out|Visit [Space Out](https://www.spaceout.gov.sg) for more information on which mores are less crowded during different times of the day, before heading out to buy essential goods and services.|
+
+#### Arts & Culture
+
+|---|:---|
+|A List|[Enjoy arts and culture](https://www.a-list.sg) anytime, anywhere while our physical spaces take a brief interlude. #SGCultureAnywhere|
+|Art at Your Fingertips|Love art and can't go out? Find [the arts at your fingertips](https://www.straitstimes.com/lifestyle/arts/the-arts-at-your-fingertips) here!|
+
+#### Education
+
+|---|:---|
+|Parent-Kit for Home-Based Learning|MOE shares tips on how you can [support your child’s learning](https://www.moe.gov.sg/parentkit) from home.|
+
+#### Food and Lifestyle
+
+|---|:---|
+|Drawing Cute Animals|How do you draw a llama? If you are stumped by this question, check out this video by Artist Singapore that will catch you up to speed. [Learn how to draw](https://www.youtube.com/watch?v=CchBRq_22pQ) other animals and impress your kids, or start a drawing challenge with your friends and see who can sketch the cutest animal as we #stayhomeforSG!|
+|Draw Elsa from Frozen|You may not be able to go outside and build a snowman, but you can still [learn to draw Elsa](https://www.youtube.com/watch?v=uWKlzn6qU4I) while you're indoors!|
+|Everyday Home Hacks|Here are some simple [DIY home hacks](https://www.youtube.com/watch?v=xmYvHdNQaG4) by Clicknetwork.This  tutorial video shows you how to make life at home much easier. That tip on how to peel stickers without leaving a mark — pure genius!|
+|Hawkers United 2020|If you’re already running out of ideas of what to eat when you stay in, check out [Hawkers United 2020](https://www.facebook.com/groups/268960887438286/learning_content/). This Facebook group is a platform for hawkers all around the island to advertise their food and delivery/takeaway options. Start prepping your hawker meal plan today as you #stayhomeforSG, and support local and small home businesses too!|
+|Pantry Planting: Spring Onions|Use this time at home to hone your green thumb! Edible Garden City has created this [step-by-step guide](https://www.instagram.com/tv/B-qie4wn4t1/?utm_source=ig_web_copy_link) to growing spring onions. Look out for more videos from this channel for home gardening tips and tricks using kitchen staples.|
+|Sambal Belacan|Staying at home has inspired many to start cooking. Why not spice up your meals with your very own [homemade Sambal Belacan](https://www.youtube.com/watch?v=r8eCHRrBxJI)? This condiment goes perfectly with many dishes and snacks, from fried rice to keropok! Have a go, make a jar!|
+|StayHomeDoWhat|Not sure of what you can do at home? Learn a skill, read a book or even do your groceries at [StayHomeDoWhat](https://stayhomedowhat.com/index/1586151758293x190541303433733760).
+
+#### Sports & Wellness
+
+|---|:---|
+|Box Office Fitness Circuit Breaker Challenge|Staying in doesn’t mean you can’t stay in shape! Why not try to complete this [month-long workout plan](https://www.instagram.com/tv/B-qlrT1nBUA/?utm_source=ig_web_copy_link) challenge that includes a mix of HIIT, strength, cardio and recovery exercises?|
+|GetActiveTV|Visit the [GetActiveTV](https://www.youtube.com/channel/UCuxLiBJZxsbBx9tpV0KTt7A) website for an exciting line-up of sporting activities and programmes suited for all walks of life. |
+|Stay Well to Stay Strong|Visit [HealthHub](https://www.healthhub.sg/staywell) today to kickstart your healthy habits with good hygiene practices, an active lifestyle, a balanced diet and sufficient sleep.|
+
+#### Working from Home
+
+|---|:---|
+|Work from Home Tips for Parents|[Tips](https://www.nie.edu.sg/teacher-education/useful-resources-for-HBL-WFH/tips-for-parents-for-working-from-home-(wfh)) on working from home for parents.|
+
+
