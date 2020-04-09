@@ -5,7 +5,7 @@ permalink: /stay-engaged/help-others
 
 ### Help Others
 
-Even as we stay at home during this time, it does not mean that we can't help our fellow Singaporeans and community! Here is a list of some ways that you can help!
+Even as we stay at home during this time, it does not mean that we can't help our fellow Singaporeans and community! Here is a list of some ways that you can help each other!
 
 #### Government Services
 
