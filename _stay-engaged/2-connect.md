@@ -5,7 +5,7 @@ permalink: /stay-engaged/connect
 
 ### Connect
 
-Even as we stay at home during this time, it does not mean that we can't connect with each other! Here is a list of things you can do while staying at home! 
+Even as we stay at home during this time, it does not mean that we can't connect with each other! Here is a list of things you can do to keep connected while staying at home! 
 
 |---|:---|
 |Digital Peace Kit|Roses for Peace share with us a [Digital Peace Kit](https://www.facebook.com/RosesOfPeace/posts/2329345003835612) on ways to find, seek and spread peace while we stay home during this period.|
