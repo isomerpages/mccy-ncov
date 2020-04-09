@@ -18,7 +18,7 @@ Whether it's staying home, going out for a short while during out during the 'Ci
 |Temporary Relief Fund|Apply for the Temporary Relief Fund [online](https://form.gov.sg/#!/5e85469de009ee0011e262b9) or in-person at your [nearest Community Centre](https://www.facebook.com/PAFrenz/videos/532405494344492/?vh=e).|
 
 ### Counselling Services
-­­
+
 |---|:---|
 |eC2.sg Counselling Service|An online counselling service, [eC2.sg](https://www.ec2.sg) has been set up by Fei Yue Family Services to offer support to persons affected by the COVID-19 situation. Should you require support or just need someone to chat with in confidence, visit eC2.sg.|
 |Silver Ribbon Counselling Service|Silver Ribbon (Singapore) is offering counselling services to persons affected by the COVID-19 situation, click [here](/media/silverribbon.jpeg) for more information.|
