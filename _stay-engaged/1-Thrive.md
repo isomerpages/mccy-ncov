@@ -1,6 +1,6 @@
 ---
 title: Thrive
-permalink: /stay-engaged/thrive
+permalink: /stay-engaged/thrive/
 ---
 
 ### Thrive
