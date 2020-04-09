@@ -1,5 +1,5 @@
 ---
-title: Thrive
+title: Connect
 permalink: /stay-engaged/connect
 ---
 
