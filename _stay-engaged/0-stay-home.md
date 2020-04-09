@@ -15,7 +15,7 @@ Singapore can pull through this only if we do it together! **#stayhomeforSG**
 ### Thrive
 
 |---|:---|
-|**We Go Digital**|Life doesn't have to go on hold when you can [Go Digital](https://www.imda.gov.sg/WeGoDigital)! Use the self-help resources to help you buy online, pay online and learn online!|
+|We Go Digital|Life doesn't have to go on hold when you can [Go Digital](https://www.imda.gov.sg/WeGoDigital)! Use the self-help resources to help you buy online, pay online and learn online!|
 |A List|[Enjoy arts and culture](https://www.a-list.sg) anytime, anywhere while our physical spaces take a brief interlude. #SGCultureAnywhere|
 |Art at Your Fingertips|Love art and can't go out? Find [the arts at your fingertips](https://www.straitstimes.com/lifestyle/arts/the-arts-at-your-fingertips) here!|
 |Box Office Fitness Circuit Breaker Challenge|Staying in doesn’t mean you can’t stay in shape! Why not try to complete this [month-long workout plan](https://www.instagram.com/tv/B-qlrT1nBUA/?utm_source=ig_web_copy_link) challenge that includes a mix of HIIT, strength, cardio and recovery exercises?|
@@ -38,7 +38,6 @@ Singapore can pull through this only if we do it together! **#stayhomeforSG**
 |ChopeAndSave|Amidst the COVID-19 situation, support packages have been provided to business and workers to tide them through this period; as customers, we too can play a part in helping them. Visit [ChopeAndSave](https://www.chopeandsave.com) to purchase a gift card from your favourite shop for you, your friends and loved ones to use at a later date.|
 |Go Digital|Help seniors in your home to [Go Digital](https://www.imsilver.imda.gov.sg )! |
 |GoodHood.SG|Offer to help neighbours with items or services needed through the GoodHood.SG mobile app. Click on either link for your device type: [Apple Devices](https://apps.apple.com/sg/app/goodhood-sg-neighbourhood-app/id1494686562) or [Android Devices](https://play.google.com/store/apps/details?id=sg.goodhood.app&hl=en).|
-|Help Migrant Workers|Here are some things you can do to [help migrant workers](https://www.youth.sg/Peek-Show/2020/4/What-you-can-do-to-help-migrant-workers-affected-by-COVID-19-in-Singapore) affected by COVID-19 in Singapore |
 
 [Find more resources](/stay-engaged/help-others)
 
