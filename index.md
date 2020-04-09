@@ -9,7 +9,7 @@ sections:
         title: "Stay at home for Singapore, together!"
         subtitle: "Find out how we can stay engaged while being at home"
         background: /images/Banner-3.jpg
-        url: /stay-engaged/stay-home/
+        url: /stay-engaged/
         button: Stay Engaged!
         key_highlights:
             - title: Volunteer
@@ -23,7 +23,7 @@ sections:
               url: /donate/                           
             - title: Stay Engaged
               description: thrive, connect, help, get help
-              url: /stay-engaged/stay-home/
+              url: /stay-engaged/
     - infobar:
         title:
         subtitle: "“The worst of times can bring out the best in our people. How we respond to it, how our nation comes together, will show much about our values as a people, and the principles we hold dear…. These four weeks of circuit breaking will feel unusual and unnatural. The challenge is to help ourselves and others stay home and do so purposefully and positively.” - DPM Heng Swee Keat, Solidarity Budget Speech, 7 Apr 2020"
