@@ -1,6 +1,6 @@
 ---
 title: Stay Engaged
-permalink: /stay-engaged/stayhome
+permalink: /stay-engaged/stay-home
 ---
 
 ### Stay Home for Singapore
