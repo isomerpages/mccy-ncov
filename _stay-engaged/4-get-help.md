@@ -5,7 +5,7 @@ permalink: /stay-engaged/get-help
 
 ### Get Help
 
-Whether it's staying home, going out for a short while during out during the 'Circuit Breaker' measures or simply just need someone to talk to, we could always use some help. The below are a list of services that you can utilise to help get through this difficult period.
+Whether it's needing helping during the COVID-19 situation or simply just needing someone to talk to, the below is a list of services that you can utilise to help get through this difficult period.
 
 #### Government Services
 
