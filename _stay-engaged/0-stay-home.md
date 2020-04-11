@@ -27,6 +27,7 @@ Singapore can pull through this only if we do it together! **#stayhomeforSG**
 |---|:---|
 |Digital Peace Kit|Roses for Peace share with us a [Digital Peace Kit](https://www.facebook.com/RosesOfPeace/posts/2329345003835612) on ways to find, seek and spread peace while we stay home during this period.|
 |National Youth Council|Find out what Youths in Singapore are doing in response to COVID-19 on [National Youth Council](https://www.facebook.com/nycsg/) and [Youth.sg](https://www.facebook.com/youthdotsg/).|
+|#StayhomeforSG Challenge|Share with us on social media what you are doing at home to keep healthy, stay connected and help others! Click [here](/media/SHC.jpg/) to find out more! #stayhomeforSG|
 |Total Defence 14-Day Challenge|Join the [Total Defence 14-Day Challenge](https://www.instagram.com/p/B-qXKZjHqCM/?igshid=1feyxa4m49m72) #14dayTDChallenge|
 
 [Find more resources](/stay-engaged/connect)
@@ -45,8 +46,8 @@ Singapore can pull through this only if we do it together! **#stayhomeforSG**
 
 |---|:---|
 |COVID-19 Support Grant|Application details for the [COVID-19 Support Grant](https://www.singaporebudget.gov.sg/docs/default-source/budget_2020/download/pdf/supplementary_annexb2.pdf) to support individuals who have lost their jobs as a result of the COVID-19 outbreak. The scheme will be open for application from May 2020 to Sep 2020.|
-|eC2.sg Counselling Service|An online counselling service, [eC2.sg](https://www.ec2.sg) has been set up by Fei Yue Family Services to offer support to persons affected by the COVID-19 situation. Should you require support or just need someone to chat with in confidence, visit eC2.sg.|
 |Flu Go Where|Need to visit the doctor? Find a Public Health Preparedness Clinic near you at [FluGoWhere](https://www.flugowhere.gov.sg).|
+|Go Where|For a comprehensive list of go-to government websites to fight against COVID-19, visit [GoWhere](https://www.gowhere.gov.sg/).|
 |GoodHood.SG|Ask neighbours for help neighbours with items or services needed through the GoodHood.SG mobile app. Click on either link for your device type: [Apple Devices](https://apps.apple.com/sg/app/goodhood-sg-neighbourhood-app/id1494686562) or [Android Devices](https://play.google.com/store/apps/details?id=sg.goodhood.app&hl=en).|
 
 
