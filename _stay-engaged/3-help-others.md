@@ -11,6 +11,7 @@ Even as we stay at home during this time, it does not mean that we can't help ou
 
 |---|:---|
 |Go Digital|Help seniors in your home to [Go Digital](https://www.imsilver.imda.gov.sg )! |
+|Go Where|For a comprehensive list of go-to government websites to fight against COVID-19, visit [GoWhere](https://www.gowhere.gov.sg/).|
 |TraceTogether|Download the TraceTogether app to support nationwide efforts to reduce the spread of COVID-19. Let's work together as a nation to combat the situation! Click on either link for your device type: [Apple Devices](https://apps.apple.com/sg/app/tracetogether/id1498276074) or [Android Devices](https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace&hl=en).|
 
 #### Help Others
