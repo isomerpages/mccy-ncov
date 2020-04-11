@@ -12,6 +12,7 @@ Whether it's needing helping during the COVID-19 situation or simply just needin
 |---|:---|
 |COVID-19 Support Grant|Application details for the [COVID-19 Support Grant](https://www.singaporebudget.gov.sg/docs/default-source/budget_2020/download/pdf/supplementary_annexb2.pdf) to support individuals who have lost their jobs as a result of the COVID-19 outbreak. The scheme will be open for application from May 2020 to Sep 2020.|
 |Flu Go Where|Need to visit the doctor? Find a Public Health Preparedness Clinic near you at [FluGoWhere](https://www.flugowhere.gov.sg).|
+|Go Where|For a comprehensive list of go-to government websites to fight against COVID-19, visit [GoWhere](https://www.gowhere.gov.sg/).|
 |Mask Go Where|Ask [MaskGoWhere](https://www.maskgowhere.gov.sg) about where to collect your masks.|
 |SG United Jobs Portal|Visit the [SG United Jobs Portal](https://www.sgunitedjobs.gov.sg) to access career-related resources, and the Virtual Career Fair (27 Mar to 12 Apr).|
 |Social Service Office|Find a [Social Service Office (SSO)](https://www.msf.gov.sg/dfcs/sso/default.aspx) near you.|
