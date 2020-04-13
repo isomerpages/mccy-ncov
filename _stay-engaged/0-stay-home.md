@@ -25,7 +25,7 @@ Singapore can pull through this only if we do it together! **#stayhomeforSG**
 ### Connect
 
 |---|:---|
-|SG United Telegram Channel|[Join our SG United Telegram channel](https://t.me/SG_United) to receive the latest updates on content and community initiatives by Singaporeans stepping up to support one another|
+|SG United Telegram Channel|[Join our SG United Telegram channel](https://t.me/SG_United) to receive the latest updates on content and community initiatives by Singaporeans stepping up to support one another.|
 |Digital Peace Kit|Roses for Peace share with us a [Digital Peace Kit](https://www.facebook.com/RosesOfPeace/posts/2329345003835612) on ways to find, seek and spread peace while we stay home during this period.|
 |National Youth Council|Find out what Youths in Singapore are doing in response to COVID-19 on [National Youth Council](https://www.facebook.com/nycsg/) and [Youth.sg](https://www.facebook.com/youthdotsg/).|
 |#StayhomeforSG Challenge|Share with us on social media what you are doing at home to keep healthy, stay connected and help others! Click [here](/media/SHC.jpg/) to find out more! #stayhomeforSG|
