@@ -5,7 +5,7 @@ permalink: /community-efforts/
 
 ### Appreciation Zones
 
-A kind word goes a long way in showing our frontline heroes how much we value their efforts. Check out any of the SG United appreciation zones and pen your support on the appreciation board. 
+A kind word goes a long way in showing our frontline heroes how much we value their efforts. Pen your support at any of the SG United appreciation zones if you are around the vicinity. 
 
 **North**
 * NEX (outside McDonald’s): 21 Mar to 3 Apr
@@ -15,6 +15,7 @@ A kind word goes a long way in showing our frontline heroes how much we value th
 * Novena MRT (next to Meeting Point A / Heart Zone): 29 Feb to 30 Apr
 * Outram Park MRT (near gantry at Exit F): 29 Feb to 30 Apr
 * SCAPE (near drop-ff point entrance): 25 Mar to 8 Apr
+* Gardens By the Bay (The Canopy): 4 Apr to 18 Apr
 
 **East**
 * Jewel Changi Airport (outside West Gateway Garden): 21 Mar to 3 Apr
