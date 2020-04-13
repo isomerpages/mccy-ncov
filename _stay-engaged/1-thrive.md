@@ -24,6 +24,7 @@ Even as we stay at home during this time, it does not mean that we can't thrive!
 #### Education
 
 |---|:---|
+|NLB Mobile App|With the [NLB mobile app](https://mobileapp.nlb.gov.sg/), you can now have a digital library in your pocket – from eNewspapers and eBooks to NLB’s new learning packages, NLB’s 24/7 digital services offer something for everyone. Check out [NLB’s Facebook page](https://www.facebook.com/nlbsingapore) for more digital offerings!|
 |Parent-Kit for Home-Based Learning|MOE shares tips on how you can [support your child’s learning](https://www.moe.gov.sg/parentkit) from home.|
 
 #### Food and Lifestyle
