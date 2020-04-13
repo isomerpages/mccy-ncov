@@ -38,11 +38,11 @@ Even as we stay at home during this time, it does not mean that we can't thrive!
 |Sambal Belacan|Staying at home has inspired many to start cooking. Why not spice up your meals with your very own [homemade Sambal Belacan](https://www.youtube.com/watch?v=r8eCHRrBxJI)? This condiment goes perfectly with many dishes and snacks, from fried rice to keropok! Have a go, make a jar!|
 |StayHomeDoWhat|Not sure of what you can do at home? Learn a skill, read a book or even do your groceries at [StayHomeDoWhat](https://stayhomedowhat.com/index/1586151758293x190541303433733760).
 
-#### Sports & Wellness
+#### Sports & Wellness 
 
 |---|:---|
 |Box Office Fitness Circuit Breaker Challenge|Staying in doesn’t mean you can’t stay in shape! Why not try to complete this [month-long workout plan](https://www.instagram.com/tv/B-qlrT1nBUA/?utm_source=ig_web_copy_link) challenge that includes a mix of HIIT, strength, cardio and recovery exercises?|
-|GetActiveTV|Visit the [GetActiveTV](https://www.youtube.com/channel/UCuxLiBJZxsbBx9tpV0KTt7A) website for an exciting line-up of sporting activities and programmes suited for all walks of life. |
+|GetActiveTV|Add an element of variety into your WFH situation and join us on [GetActive TV](https://www.youtube.com/channel/UCuxLiBJZxsbBx9tpV0KTt7A) – whether you are into yoga, HIIT or callisthenics. Choose from workouts suitable for home spaces, whip up scrumptious meals with our nutritionist or tune into our talk shows for ideas on staying healthy, engaged and motivated.|
 |Stay Well to Stay Strong|Visit [HealthHub](https://www.healthhub.sg/staywell) today to kickstart your healthy habits with good hygiene practices, an active lifestyle, a balanced diet and sufficient sleep.|
 
 #### Working from Home
