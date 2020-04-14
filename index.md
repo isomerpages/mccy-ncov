@@ -31,37 +31,37 @@ sections:
         button:
         url:
     - infopic:
-        title: Download the TraceTogether App!
-        subtitle: Support and Supplement Contact Tracing Efforts
-        description: Help stop the spread of COVID-19 through community-driven contact tracing. 
-        button: Click to Download
-        url: "https://www.tracetogether.gov.sg"
-        image: /images/TTalt.jpg
-        alt: TraceTogether Download
+        title: Thrive
+        subtitle: Home and not sure what you can do?
+        description: Staying home during this time does not mean that we can't thrive!
+        button: Find Out How!
+        url: /stay-engaged/thrive/
+        image: /images/thrive.jpg
+        alt: SEThrive
     - infopic:
-        title: Our Resilience Budget
-        subtitle: The revised Government revenue and expenditure plans for the current financial year
-        description:  Complementing the Unity Budget, the Resilience Budget addresses the rapidly evolving COVID-19 situation and the impact on Singapore’s economy and society.
-        button: Read More
-        url: "https://www.singaporebudget.gov.sg/budget_2020/resilience-budget"
-        image: /images/RB.png/
-        alt:   Resilience Budget
+        title: Connect
+        subtitle: Wondering how you can keep up with others at home?
+        description:  Staying home during this time does not mean that we can't stay connected!
+        button: Find Out How!
+        url: /stay-engaged/connect/
+        image: /images/connect.jpg
+        alt:   SEConnect
     - infopic:
-        title: SG United Jobs Portal
-        subtitle: Visit the SG United Jobs Virtual Career Fair for available job opportunities
-        description: Jobseekers will be able to interact with employers virtually for interviews, and access career-related resources and insights to assist them in their job search.         
-        button: Find Out More
-        url: "https://www.sgunitedjobs.gov.sg"
-        image: /images/SGUJobs.JPG/
-        alt:   SGUnitedJobs
+        title: Help Others
+        subtitle: Home and not sure how you can extend a helping hand?
+        description: Staying home during this time does not mean that we can't help each other and the community!
+        button: Find Out More!
+        url: /stay-engaged/help-others/
+        image: /images/Giving.jpg
+        alt:   SEHelpOthers
     - infopic:
-        title: Support Community Efforts
-        subtitle: From Appreciating to Starting Initiatives!
-        description: Have an idea and want to contribute?
-        button: Find Out How
-        url: /community-efforts/
-        image: /images/nCoVF.jpg
-        alt: Community Efforts
+        title: Get Help
+        subtitle: Wondering where you can go to get some help?
+        description: Need some help or even just needing someone to talk to during this time?
+        button: Find Out More!
+        url: /stay-engaged/get-help/
+        image: /images/gethelp.jpg
+        alt: SEGetHelp
     - infopic:
         title: Online Platforms & Content
         subtitle: 
