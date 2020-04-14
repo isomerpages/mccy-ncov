@@ -24,44 +24,44 @@ sections:
             - title: Stay Engaged
               description: thrive, connect, help, get help
               url: /stay-engaged/
-    - infobar:
+   - infobar:
         title:
         subtitle: "“The worst of times can bring out the best in our people. How we respond to it, how our nation comes together, will show much about our values as a people, and the principles we hold dear…. These four weeks of circuit breaking will feel unusual and unnatural. The challenge is to help ourselves and others stay home and do so purposefully and positively.” - DPM Heng Swee Keat, Solidarity Budget Speech, 7 Apr 2020"
         description: 
         button:
         url:
     - infopic:
-        title: Thrive
-        subtitle: Home and wondering what you can do?
-        description:  
-        button: 
-        url: /stay-engaged/thrive/
-        image: /images/
-        alt: 
+        title: Download the TraceTogether App!
+        subtitle: Support and Supplement Contact Tracing Efforts
+        description: Help stop the spread of COVID-19 through community-driven contact tracing. 
+        button: Click to Download
+        url: "https://www.tracetogether.gov.sg"
+        image: /images/TTalt.jpg
+        alt: TraceTogether Download
     - infopic:
-        title: Connect
-        subtitle: Stay connected with Family and Friends during this Circuit Breaker period
-        description:  
-        button: 
-        url: /stay-engaged/connect/
-        image: /images/
-        alt:   
+        title: Our Resilience Budget
+        subtitle: The revised Government revenue and expenditure plans for the current financial year
+        description:  Complementing the Unity Budget, the Resilience Budget addresses the rapidly evolving COVID-19 situation and the impact on Singapore’s economy and society.
+        button: Read More
+        url: "https://www.singaporebudget.gov.sg/budget_2020/resilience-budget"
+        image: /images/RB.png/
+        alt:   Resilience Budget
     - infopic:
-        title: Help Others
-        subtitle: 
-        description:       
-        button: 
-        url: /stay-engaged/help-others/
-        image: /images/
-        alt:   
+        title: SG United Jobs Portal
+        subtitle: Visit the SG United Jobs Virtual Career Fair for available job opportunities
+        description: Jobseekers will be able to interact with employers virtually for interviews, and access career-related resources and insights to assist them in their job search.         
+        button: Find Out More
+        url: "https://www.sgunitedjobs.gov.sg"
+        image: /images/SGUJobs.JPG/
+        alt:   SGUnitedJobs
     - infopic:
-        title: Get Help
-        subtitle: 
-        description: 
-        button: 
-        url: /stay-engaged/get-help/
-        image: /images/
-        alt: 
+        title: Support Community Efforts
+        subtitle: From Appreciating to Starting Initiatives!
+        description: Have an idea and want to contribute?
+        button: Find Out How
+        url: /community-efforts/
+        image: /images/nCoVF.jpg
+        alt: Community Efforts
     - infopic:
         title: Online Platforms & Content
         subtitle: 
