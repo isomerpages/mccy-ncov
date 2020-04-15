@@ -5,6 +5,8 @@ permalink: /stay-engaged/thrive
 
 ### Thrive
 
+![Thrive](/images/thrive.jpg)
+
 Even as we stay at home during this time, it does not mean that we can't thrive! Here is a list of things you can do while staying at home! Links have been organised into different catagories for easy access!
 
 
