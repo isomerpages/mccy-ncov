@@ -5,6 +5,8 @@ permalink: /stay-engaged/connect
 
 ### Connect
 
+![Connect](/images/connect.jpg)
+
 Even as we stay at home during this time, it does not mean that we can't connect with each other! Here is a list of things you can do to keep connected while staying at home! 
 
 |---|:---|
