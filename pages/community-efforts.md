@@ -13,8 +13,8 @@ A kind word goes a long way in showing our frontline heroes how much we value th
 **Central**
 * Novena MRT (next to Meeting Point A / Heart Zone): 29 Feb to 30 Apr
 * Outram Park MRT (near gantry at Exit F): 29 Feb to 30 Apr
-* *SCAPE (near drop-ff point entrance): 25 Mar to 11 May
-* Gardens By the Bay (The Canopy): 4 Apr to 11 May
+* *SCAPE (near drop-off point entrance): 25 Mar to 11 May
+* Gardens by the Bay (The Canopy): 4 Apr to 11 May
 
 Interested in helping out at our Appreciation Booths? Visit our [Volunteer](/Appreciation-Booths/) page now! 
 
