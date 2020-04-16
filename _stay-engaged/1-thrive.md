@@ -45,7 +45,7 @@ Even as we stay at home during this time, it does not mean that we can't thrive!
 
 |---|:---|
 |Box Office Fitness Circuit Breaker Challenge|Staying in doesn’t mean you can’t stay in shape! Why not try to complete this [month-long workout plan](https://www.instagram.com/tv/B-qlrT1nBUA/?utm_source=ig_web_copy_link) challenge that includes a mix of HIIT, strength, cardio and recovery exercises?|
-|#CopingwithCOVID|A [Self-Care Series](https://www.cgh.com.sg/centres-services/tracs/Pages/Coping%20With%20COVID-19.aspx) developed by Changi General Hospital has resources to provide individuals with resilience building activities and strategies that can be practiced during this difficult period. Stay strong, Stay well!|
+|#CopingwithCOVID19|A [Self-Care Series](https://www.cgh.com.sg/centres-services/tracs/Pages/Coping%20With%20COVID-19.aspx) developed by Changi General Hospital has resources to provide individuals with resilience building activities and strategies that can be practiced during this difficult period. Stay strong, Stay well!|
 |GetActiveTV|Add an element of variety into your WFH situation and join us on [GetActive TV](https://www.youtube.com/channel/UCuxLiBJZxsbBx9tpV0KTt7A) – whether you are into yoga, HIIT or callisthenics. Choose from workouts suitable for home spaces, whip up scrumptious meals with our nutritionist or tune into our talk shows for ideas on staying healthy, engaged and motivated.|
 |Stay Well to Stay Strong|Visit [HealthHub](https://www.healthhub.sg/staywell) today to kickstart your healthy habits with good hygiene practices, an active lifestyle, a balanced diet and sufficient sleep.|
 
