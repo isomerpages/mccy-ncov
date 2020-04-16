@@ -18,7 +18,7 @@ Whether it's needing helping during the COVID-19 situation or simply just needin
 |Flu Go Where|Need to visit the doctor? Find a Public Health Preparedness Clinic near you at [FluGoWhere](https://www.flugowhere.gov.sg).|
 |Go Where|For a comprehensive list of go-to government websites to fight against COVID-19, visit [GoWhere](https://www.gowhere.gov.sg/).|
 |Mask Go Where|Ask [MaskGoWhere](https://www.maskgowhere.gov.sg) about where to collect your masks.|
-|SG United Jobs Portal|Visit the [SG United Jobs Portal](https://www.sgunitedjobs.gov.sg) to access career-related resources, and the Virtual Career Fair (27 Mar to 12 Apr).|
+|SG United Jobs Portal|Visit the [SG United Jobs Portal](https://www.sgunitedjobs.gov.sg) to access career-related resources, and the Virtual Career Fair.|
 |NTUC Training Fund (SEPs)|This is [an NTUC initiative](https://www.ntuclearninghub.com/ntuc-training-fund-seps/), with input from SSG in the curation of eligible courses. Eligible courses include all of SkillsFuture Series courses and SkillsFuture for Digital Workplace. All eligible courses are meant to equip individuals with emerging skills that will boost employability. |
 |Social Service Office|Find a [Social Service Office (SSO)](https://www.msf.gov.sg/dfcs/sso/default.aspx) near you.|
 |Temporary Relief Fund|Apply for the Temporary Relief Fund [online](https://form.gov.sg/#!/5e85469de009ee0011e262b9) or in-person at your [nearest Community Centre](https://www.facebook.com/PAFrenz/videos/532405494344492/?vh=e).|
