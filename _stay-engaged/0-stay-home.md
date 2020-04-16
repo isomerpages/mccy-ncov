@@ -18,7 +18,7 @@ Singapore can pull through this only if we do it together! **#stayhomeforSG**
 
 |---|:---|
 |We Go Digital|Life doesn't have to go on hold when you can [Go Digital](https://www.imda.gov.sg/WeGoDigital)! Use the self-help resources to help you buy online, pay online and learn online!|
-|A List|[Enjoy arts and culture](https://www.a-list.sg) anytime, anywhere while our physical spaces take a brief interlude. #SGCultureAnywhere|
+|A List|[Enjoy arts and culture](https://www.a-list.sg/sgcultureanywhere) anytime, anywhere while our physical spaces take a brief interlude. #SGCultureAnywhere|
 |Art at Your Fingertips|Love art and can't go out? Find [the arts at your fingertips](https://www.straitstimes.com/lifestyle/arts/the-arts-at-your-fingertips) here!|
 |Box Office Fitness Circuit Breaker Challenge|Staying in doesn’t mean you can’t stay in shape! Why not try to complete this [month-long workout plan](https://www.instagram.com/tv/B-qlrT1nBUA/?utm_source=ig_web_copy_link) challenge that includes a mix of HIIT, strength, cardio and recovery exercises?|
 

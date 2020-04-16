@@ -20,7 +20,7 @@ Even as we stay at home during this time, it does not mean that we can't thrive!
 #### Arts & Culture
 
 |---|:---|
-|A List|[Enjoy arts and culture](https://www.a-list.sg) anytime, anywhere while our physical spaces take a brief interlude. #SGCultureAnywhere|
+|A List|[Enjoy arts and culture](https://www.a-list.sg/sgcultureanywhere) anytime, anywhere while our physical spaces take a brief interlude. #SGCultureAnywhere|
 |Art at Your Fingertips|Love art and can't go out? Find [the arts at your fingertips](https://www.straitstimes.com/lifestyle/arts/the-arts-at-your-fingertips) here!|
 
 #### Education
