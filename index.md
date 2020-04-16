@@ -6,7 +6,7 @@ permalink: /
 notification: "ADVISORY: We have been notified of a scam going around, issuing fines to individuals for violating social distancing measures. The link to the website has SGUnited mentioned. Please help to spread the word that the SGUnited initiative does not issue any such fines. Thank you."
 sections:
     - hero:
-        title: "Stay at home for Singapore, together!"
+        title: "Stay home for Singapore, together!"
         subtitle: "Find out how we can stay engaged while being at home"
         background: /images/Banner-3.jpg
         url: /stay-engaged/
