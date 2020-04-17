@@ -29,6 +29,7 @@ Even as we stay at home during this time, it does not mean that we can't thrive!
 |NLB Mobile App|With the [NLB mobile app](https://mobileapp.nlb.gov.sg/), you can now have a digital library in your pocket – from eNewspapers and eBooks to NLB’s new learning packages, NLB’s 24/7 digital services offer something for everyone. Check out [NLB’s Facebook page](https://www.facebook.com/nlbsingapore) for more digital offerings!|
 |Learning online with SkillsFuture|With many public gatherings on hold, you can still [take charge of your learning journey](https://www.myskillsfuture.sg/content/portal/en/career-resources/career-resources/campaigns/learn-online-with-skillsfuture.html) with the many online learning options available. Staying home does not mean staying dull – there are online avenues that can support your desire to learn for your career and development needs.|
 |Parent-Kit for Home-Based Learning|MOE shares tips on how you can [support your child’s learning](https://www.moe.gov.sg/parentkit) from home.|
+|Upskilling, Reskilling, Lifelong Learning|To highlight the importance of upskilling, reskilling, and just lifelong learning, SSG recently produced two series of videos with local content producers. Watch the [Viddsee](https://www.viddsee.com/series/tomorrow-starts-today/1) series and the [Benzi Project](https://www.youtube.com/watch?v=JREJb5N7gK0) series here.|
 
 #### Food and Lifestyle
 
@@ -44,6 +45,7 @@ Even as we stay at home during this time, it does not mean that we can't thrive!
 #### Sports & Wellness
 
 |---|:---|
+|AIC Wellness Programme|The AIC Wellness Programme engages seniors through the provision of meaningful activities to enhance their wellbeing and quality of life. Click [here](https://www.aic.sg/care-services/AIC%20Wellness%20Programme) to find an array of resources for a wide spectrum of seniors.|
 |Box Office Fitness Circuit Breaker Challenge|Staying in doesn’t mean you can’t stay in shape! Why not try to complete this [month-long workout plan](https://www.instagram.com/tv/B-qlrT1nBUA/?utm_source=ig_web_copy_link) challenge that includes a mix of HIIT, strength, cardio and recovery exercises?|
 |#CopingwithCOVID19|A [Self-Care Series](https://www.cgh.com.sg/centres-services/tracs/Pages/Coping%20With%20COVID-19.aspx) developed by Changi General Hospital has resources to provide individuals with resilience building activities and strategies that can be practiced during this difficult period. Stay strong, Stay well!|
 |GetActiveTV|Add an element of variety into your WFH situation and join us on [GetActive TV](https://www.youtube.com/channel/UCuxLiBJZxsbBx9tpV0KTt7A) – whether you are into yoga, HIIT or callisthenics. Choose from workouts suitable for home spaces, whip up scrumptious meals with our nutritionist or tune into our talk shows for ideas on staying healthy, engaged and motivated.|
