@@ -49,7 +49,7 @@ sections:
     - infopic:
         title: Help Others
         subtitle: Home and not sure how you can extend a helping hand?
-        description: Staying home during this time does not mean that we can't help each other and the community!
+        description: Staying home during this time does not mean that we can't help each other and the community! If you want to share your Solidarity payout for a good cause, visit [giving.sg/sgunited](https://www.giving.sg/sgunited)
         button: Find Out More!
         url: /stay-engaged/help-others/
         image: /images/Giving.jpg
