@@ -29,7 +29,7 @@ Even as we stay at home during this time, it does not mean that we can't thrive!
 |NLB Mobile App|With the [NLB mobile app](https://mobileapp.nlb.gov.sg/), you can now have a digital library in your pocket – from eNewspapers and eBooks to NLB’s new learning packages, NLB’s 24/7 digital services offer something for everyone. Check out [NLB’s Facebook page](https://www.facebook.com/nlbsingapore) for more digital offerings!|
 |Learning online with SkillsFuture|With many public gatherings on hold, you can still [take charge of your learning journey](https://www.myskillsfuture.sg/content/portal/en/career-resources/career-resources/campaigns/learn-online-with-skillsfuture.html) with the many online learning options available. Staying home does not mean staying dull – there are online avenues that can support your desire to learn for your career and development needs.|
 |Parent-Kit for Home-Based Learning|MOE shares tips on how you can [support your child’s learning](https://www.moe.gov.sg/parentkit) from home.|
-|Upskilling, Reskilling, Lifelong Learning|To highlight the importance of upskilling, reskilling, and just lifelong learning, SSG recently also produced 2 series of videos. Watch the [Viddsee](https://www.viddsee.com/series/tomorrow-starts-today/1) series and the [Benzi Project](https://www.youtube.com/watch?v=JREJb5N7gK0) series here.|
+|Upskilling, Reskilling, Lifelong Learning|To highlight the importance of upskilling, reskilling, and just lifelong learning, SSG recently produced two series of videos with local content producers. Watch the [Viddsee](https://www.viddsee.com/series/tomorrow-starts-today/1) series and the [Benzi Project](https://www.youtube.com/watch?v=JREJb5N7gK0) series here.|
 
 #### Food and Lifestyle
 
