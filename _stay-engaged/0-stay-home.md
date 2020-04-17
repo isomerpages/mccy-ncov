@@ -47,11 +47,10 @@ Singapore can pull through this only if we do it together! **#stayhomeforSG**
 ### Get Help
 
 |---|:---|
+|National Care Hotline|Call the National Care Hotline (**6202-6868**) for emotional support - be it stress over finances or marital and family tensions. Trained officers will be able to link you up with social service agencies and specialised services if needed.|
 |COVID-19 Support Grant|Application details for the [COVID-19 Support Grant](https://www.singaporebudget.gov.sg/docs/default-source/budget_2020/download/pdf/supplementary_annexb2.pdf) to support individuals who have lost their jobs as a result of the COVID-19 outbreak. The scheme will be open for application from May 2020 to Sep 2020.|
 |Flu Go Where|Need to visit the doctor? Find a Public Health Preparedness Clinic near you at [FluGoWhere](https://www.flugowhere.gov.sg).|
 |Go Where|For a comprehensive list of go-to government websites to fight against COVID-19, visit [GoWhere](https://www.gowhere.gov.sg/).|
-|GoodHood.SG|Ask neighbours for help neighbours with items or services needed through the GoodHood.SG mobile app. Click on either link for your device type: [Apple Devices](https://apps.apple.com/sg/app/goodhood-sg-neighbourhood-app/id1494686562) or [Android Devices](https://play.google.com/store/apps/details?id=sg.goodhood.app&hl=en).|
-
 
 [Find more resources](/stay-engaged/get-help)
 
