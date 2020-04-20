@@ -30,7 +30,6 @@ Singapore can pull through this only if we do it together! **#stayhomeforSG**
 |---|:---|
 |SG United Telegram Channel|[Join our SG United Telegram channel](https://t.me/SG_United) to receive the latest updates on content and community initiatives by Singaporeans stepping up to support one another.|
 |Families for Life|The [Families for Life](https://www.facebook.com/familiesforlife.sg/) Facebook Page brings us the #FFLShareTheCare series, a rich repository of  interactive online content to keep every member of the family, young and old, meaningfully occupied while we all stay home.|
-(https://www.facebook.com/nycsg/) and [Youth.sg](https://www.facebook.com/youthdotsg/).|
 |PA Virtual CC|A series of free [‘live’ 30 minute classes](https://www.facebook.com/pg/pacourses/videos/) on social media platforms that caters to affected PA courses and activities. It encourages participants to remaining active and pursue their passion of learning. Participants can remain virtually connected during the live stream and share their comments with fellow viewers.|
 |National Youth Council|Find out what Youths in Singapore are doing in response to COVID-19 on [National Youth Council](https://www.facebook.com/nycsg/) and [Youth.sg](https://www.facebook.com/youthdotsg/).|
 
