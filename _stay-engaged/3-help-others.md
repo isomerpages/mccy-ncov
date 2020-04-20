@@ -19,6 +19,7 @@ Even as we stay at home during this time, it does not mean that we can't help ou
 
 |---|:---|
 |Keep Our Seniors Safe At Home|The Silver Generation Office (SGO) is reaching out to seniors in need to support them during COVID-19. To help these seniors stay home and stay safe, SGO is calling for volunteers who can check in on their well-being regularly and to help them to buy essential items. [Volunteer now!](https://www.volunteer.sg/agency/opportunity/details?id=5e7fe522-477d-ea11-a9e4-b23905f5d176&load=yes)|
+|Community Befriending Programme - Tele-befriending|The Community Befriending Programme (CBP) is a befriending programme for isolated elderly living by themselves in the community. The programme re-engages the elderly with community and links them to services which they may require. This aims to affirm the elderly's identity and increase their confidence through sharing and recounting of their experiences. In view of the COVID-19 situation, volunteers are required to help make phone calls remotely to [seniors](https://www.giving.sg/volunteer-event?event_activity_id=37342305) or [Malay-speaking seniors](https://www.giving.sg/volunteer-event?event_activity_id=35591564)|
 
 #### Help Others
 
