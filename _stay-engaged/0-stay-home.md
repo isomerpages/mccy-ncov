@@ -18,9 +18,10 @@ Singapore can pull through this only if we do it together! **#stayhomeforSG**
 
 |---|:---|
 |We Go Digital|Life doesn't have to go on hold when you can [Go Digital](https://www.imda.gov.sg/WeGoDigital)! Use the self-help resources to help you buy online, pay online and learn online!|
+|GetActiveTV|Add an element of variety into your WFH situation and join us on [GetActive TV](https://www.youtube.com/channel/UCuxLiBJZxsbBx9tpV0KTt7A) – whether you are into yoga, HIIT or callisthenics. Choose from workouts suitable for home spaces, whip up scrumptious meals with our nutritionist or tune into our talk shows for ideas on staying healthy, engaged and motivated.|
 |A List|[Enjoy arts and culture](https://www.a-list.sg/sgcultureanywhere) anytime, anywhere while our physical spaces take a brief interlude. #SGCultureAnywhere|
-|Art at Your Fingertips|Love art and can't go out? Find [the arts at your fingertips](https://www.straitstimes.com/lifestyle/arts/the-arts-at-your-fingertips) here!|
-|Box Office Fitness Circuit Breaker Challenge|Staying in doesn’t mean you can’t stay in shape! Why not try to complete this [month-long workout plan](https://www.instagram.com/tv/B-qlrT1nBUA/?utm_source=ig_web_copy_link) challenge that includes a mix of HIIT, strength, cardio and recovery exercises?|
+|Learning online with SkillsFuture|With many public gatherings on hold, you can still [take charge of your learning journey](https://www.myskillsfuture.sg/content/portal/en/career-resources/career-resources/campaigns/learn-online-with-skillsfuture.html) with the many online learning options available. Staying home does not mean staying dull – there are online avenues that can support your desire to learn for your career and development needs.|
+
 
 [Find more resources](/stay-engaged/thrive)
 
@@ -28,19 +29,19 @@ Singapore can pull through this only if we do it together! **#stayhomeforSG**
 
 |---|:---|
 |SG United Telegram Channel|[Join our SG United Telegram channel](https://t.me/SG_United) to receive the latest updates on content and community initiatives by Singaporeans stepping up to support one another.|
-|Digital Peace Kit|Roses for Peace share with us a [Digital Peace Kit](https://www.facebook.com/RosesOfPeace/posts/2329345003835612) on ways to find, seek and spread peace while we stay home during this period.|
+|Families for Life|The [Families for Life](https://www.facebook.com/familiesforlife.sg/) Facebook Page brings us the #FFLShareTheCare series, a rich repository of  interactive online content to keep every member of the family, young and old, meaningfully occupied while we all stay home.|
+|PA Virtual CC|A series of free [‘live’ 30 minute classes](https://www.facebook.com/pg/pacourses/videos/) on social media platforms that caters to affected PA courses and activities. It encourages participants to remaining active and pursue their passion of learning. Participants can remain virtually connected during the live stream and share their comments with fellow viewers.|
 |National Youth Council|Find out what Youths in Singapore are doing in response to COVID-19 on [National Youth Council](https://www.facebook.com/nycsg/) and [Youth.sg](https://www.facebook.com/youthdotsg/).|
-|#StayhomeforSG Challenge|Share with us on social media what you are doing at home to keep healthy, stay connected and help others! Click [here](/media/SHC.jpg/) to find out more! #stayhomeforSG|
 
 [Find more resources](/stay-engaged/connect)
 
 ### Help Others
 
 |---|:---|
-|Better.SG - Help Malaysians|Visit [Better.SG](https://better.sg/helpmalaysians/) to find out how you can help Malaysian workers in Singapore who are affected by the Malaysian lockdown.|
-|ChopeAndSave|Amidst the COVID-19 situation, support packages have been provided to business and workers to tide them through this period; as customers, we too can play a part in helping them. Visit [ChopeAndSave](https://www.chopeandsave.com) to purchase a gift card from your favourite shop for you, your friends and loved ones to use at a later date.|
 |Go Digital|Help seniors in your home to [Go Digital](https://www.imsilver.imda.gov.sg )! |
-|GoodHood.SG|Offer to help neighbours with items or services needed through the GoodHood.SG mobile app. Click on either link for your device type: [Apple Devices](https://apps.apple.com/sg/app/goodhood-sg-neighbourhood-app/id1494686562) or [Android Devices](https://play.google.com/store/apps/details?id=sg.goodhood.app&hl=en).|
+|Keep Our Seniors Safe At Home|The Silver Generation Office (SGO) is reaching out to seniors in need to support them during COVID-19. To help these seniors stay home and stay safe, SGO is calling for volunteers who can check in on their well-being regularly and to help them to buy essential items. [Volunteer now!](https://www.volunteer.sg/agency/opportunity/details?id=5e7fe522-477d-ea11-a9e4-b23905f5d176&load=yes)|
+|Giving.SG|A central giving page has been set up on [Giving.SG](https://www.giving.sg/sgunited) to enable people and organisations to easily find and contribute to charities’ efforts to address the needs of communities affected by the COVID-19 outbreak. And, if you wish to make a donation-in-kind, you can also visit [CityofGood.SG](https://cityofgood.sg/sgunited/) for the list of in-kind community needs you can contribute to.|
+|#WeCareSG|Help our low income families survive COVID-19! The [#WeCareSG](https://www.giving.sg/south-central-community-family-service-centre-limited/we-care-sg) movement calls for everyone who can afford to do without it, donate their $600 Solidarity Payment to help serve the most vulnerable. All proceeds will be distributed to the over 50,000 families who can't afford a home and live in HDB rental flats.|
 
 [Find more resources](/stay-engaged/help-others)
 

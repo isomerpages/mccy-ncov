@@ -27,8 +27,7 @@ Interested in helping out at our Appreciation Booths? Visit our [Volunteer](/App
 - Some of our local celebrities have posted videos of encouragement to those on the frontline on the [nCoV Frontline](https://www.facebook.com/nCoVfrontline/) Facebook page.
 
 ### Supporting Mental Health and Wellness during COVID-19
-- An online counselling service, [eC2.sg](https://www.ec2.sg) has been set up by Fei Yue Family Services to offer support to persons affected by the COVID-19 situation. Should you require support or just need someone to chat with in confidence, visit eC2.sg.
-- Silver Ribbon (Singapore) is offering counselling services to persons affected by the COVID-19 situation, click [here](/media/silverribbon.jpeg) for more information.
+- Call the **National Care Hotline (6202-6868)** for emotional support - be it stress over finances or marital and family tensions. Trained officers will be able to link you up with social service agencies and specialised services if needed.
 - Hush TeaBar started a project to provide self-care packs for our healthcare frontliners. Visit [Give.Asia](https://give.asia/campaign/sgunited#/) to find out how you can support this initiative and benefit more frontliners.
 
 ### Community Initiatives to Support Local Businesses
