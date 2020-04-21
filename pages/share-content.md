@@ -3,6 +3,9 @@ title: Online Platforms & Content
 permalink: /online-platforms-content/
 ---
 
+### Subscribe to our SG United Telegram Channel
+**[Click here to join the Telegram channel](https://t.me/SG_United)** to receive the latest updates on content and community initiatives by Singaporeans stepping up to support one another. 
+
 ### Download the TraceTogether App
 Download the TraceTogether app to support nationwide efforts to reduce the spread of COVID-19. Let's work together as a nation to combat the situation!
 Click on either link for your device type:
@@ -18,8 +21,6 @@ Click on either link for your device type:
 - [Android Devices](https://play.google.com/store/apps/details?id=org.nvpc.sgcares)
 
 ![SGCaresApp](/images/SGCaresIcon.jpg)
-### Subscribe to our SG United Telegram Channel
-**[Click here to join the Telegram channel](https://t.me/SG_United)** to receive the latest updates on content and community initiatives by Singaporeans stepping up to support one another. 
 
 ### Download the SG United Logo
 ![SG United Logo](/images/SGUnited4.png)
