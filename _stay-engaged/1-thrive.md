@@ -27,13 +27,15 @@ Even as we stay at home during this time, it does not mean that we can't thrive!
 
 |---|:---|
 |NLB Mobile App|With the [NLB mobile app](https://mobileapp.nlb.gov.sg/), you can now have a digital library in your pocket – from eNewspapers and eBooks to NLB’s new learning packages, NLB’s 24/7 digital services offer something for everyone. Check out [NLB’s Facebook page](https://www.facebook.com/nlbsingapore) for more digital offerings!|
-|Learning online with SkillsFuture|With many public gatherings on hold, you can still [take charge of your learning journey](https://www.myskillsfuture.sg/content/portal/en/career-resources/career-resources/campaigns/learn-online-with-skillsfuture.html) with the many online learning options available. Staying home does not mean staying dull – there are online avenues that can support your desire to learn for your career and development needs.|
+|Pre-school Home-based Learning Activities|Visit [ECDA’s webpage](https://www.go.gov.sg/preschoolhbl) and [Kidzmatters](https://kidzmatters.com) for home-based activity resources, interactive lessons for preschoolers, and parent guides.|
 |Parent-Kit for Home-Based Learning|MOE shares tips on how you can [support your child’s learning](https://www.moe.gov.sg/parentkit) from home.|
+|Learning online with SkillsFuture|With many public gatherings on hold, you can still [take charge of your learning journey](https://www.myskillsfuture.sg/content/portal/en/career-resources/career-resources/campaigns/learn-online-with-skillsfuture.html) with the many online learning options available. Staying home does not mean staying dull – there are online avenues that can support your desire to learn for your career and development needs.|
 |Upskilling, Reskilling, Lifelong Learning|To highlight the importance of upskilling, reskilling, and just lifelong learning, SSG recently produced two series of videos with local content producers. Watch the [Viddsee](https://www.viddsee.com/series/tomorrow-starts-today/1) series and the [Benzi Project](https://www.youtube.com/watch?v=JREJb5N7gK0) series here.|
 
 #### Food and Lifestyle
 
 |---|:---|
+|Beanstalk Singapore|[Beanstalk Singapore](https://www.facebook.com/BeanstalkSingapore) provides parents with young children (age 7 and below) and early childhood professionals content on child development, early childhood education, curriculum & pedagogical practices, and parent-teacher partnerships.|
 |Drawing Cute Animals|How do you draw a llama? If you are stumped by this question, check out this video by Artist Singapore that will catch you up to speed. [Learn how to draw](https://www.youtube.com/watch?v=CchBRq_22pQ) other animals and impress your kids, or start a drawing challenge with your friends and see who can sketch the cutest animal as we #stayhomeforSG!|
 |Draw Elsa from Frozen|You may not be able to go outside and build a snowman, but you can still [learn to draw Elsa](https://www.youtube.com/watch?v=uWKlzn6qU4I) while you're indoors!|
 |Everyday Home Hacks|Here are some simple [DIY home hacks](https://www.youtube.com/watch?v=xmYvHdNQaG4) by Clicknetwork.This  tutorial video shows you how to make life at home much easier. That tip on how to peel stickers without leaving a mark — pure genius!|
