@@ -27,29 +27,31 @@ Even as we stay at home during this time, it does not mean that we can't thrive!
 
 |---|:---|
 |NLB Mobile App|With the [NLB mobile app](https://mobileapp.nlb.gov.sg/), you can now have a digital library in your pocket – from eNewspapers and eBooks to NLB’s new learning packages, NLB’s 24/7 digital services offer something for everyone. Check out [NLB’s Facebook page](https://www.facebook.com/nlbsingapore) for more digital offerings!|
-|Learning online with SkillsFuture|With many public gatherings on hold, you can still [take charge of your learning journey](https://www.myskillsfuture.sg/content/portal/en/career-resources/career-resources/campaigns/learn-online-with-skillsfuture.html) with the many online learning options available. Staying home does not mean staying dull – there are online avenues that can support your desire to learn for your career and development needs.|
+|Pre-school Home-based Learning Activities|Visit [ECDA’s webpage](https://www.go.gov.sg/preschoolhbl) and [Kidzmatters](https://kidzmatters.com) for home-based activity resources, interactive lessons for preschoolers, and parent guides.|
 |Parent-Kit for Home-Based Learning|MOE shares tips on how you can [support your child’s learning](https://www.moe.gov.sg/parentkit) from home.|
+|Learning online with SkillsFuture|With many public gatherings on hold, you can still [take charge of your learning journey](https://www.myskillsfuture.sg/content/portal/en/career-resources/career-resources/campaigns/learn-online-with-skillsfuture.html) with the many online learning options available. Staying home does not mean staying dull – there are online avenues that can support your desire to learn for your career and development needs.|
 |Upskilling, Reskilling, Lifelong Learning|To highlight the importance of upskilling, reskilling, and just lifelong learning, SSG recently produced two series of videos with local content producers. Watch the [Viddsee](https://www.viddsee.com/series/tomorrow-starts-today/1) series and the [Benzi Project](https://www.youtube.com/watch?v=JREJb5N7gK0) series here.|
 
 #### Food and Lifestyle
 
 |---|:---|
+|Beanstalk Singapore|[Beanstalk Singapore](https://www.facebook.com/BeanstalkSingapore) provides parents with young children (age 7 and below) and early childhood professionals content on child development, early childhood education, curriculum & pedagogical practices, and parent-teacher partnerships.|
 |Drawing Cute Animals|How do you draw a llama? If you are stumped by this question, check out this video by Artist Singapore that will catch you up to speed. [Learn how to draw](https://www.youtube.com/watch?v=CchBRq_22pQ) other animals and impress your kids, or start a drawing challenge with your friends and see who can sketch the cutest animal as we #stayhomeforSG!|
 |Draw Elsa from Frozen|You may not be able to go outside and build a snowman, but you can still [learn to draw Elsa](https://www.youtube.com/watch?v=uWKlzn6qU4I) while you're indoors!|
 |Everyday Home Hacks|Here are some simple [DIY home hacks](https://www.youtube.com/watch?v=xmYvHdNQaG4) by Clicknetwork.This  tutorial video shows you how to make life at home much easier. That tip on how to peel stickers without leaving a mark — pure genius!|
 |Hawkers United 2020|If you’re already running out of ideas of what to eat when you stay in, check out [Hawkers United 2020](https://www.facebook.com/groups/268960887438286/learning_content/). This Facebook group is a platform for hawkers all around the island to advertise their food and delivery/takeaway options. Start prepping your hawker meal plan today as you #stayhomeforSG, and support local and small home businesses too!|
 |Pantry Planting: Spring Onions|Use this time at home to hone your green thumb! Edible Garden City has created this [step-by-step guide](https://www.instagram.com/tv/B-qie4wn4t1/?utm_source=ig_web_copy_link) to growing spring onions. Look out for more videos from this channel for home gardening tips and tricks using kitchen staples.|
 |Sambal Belacan|Staying at home has inspired many to start cooking. Why not spice up your meals with your very own [homemade Sambal Belacan](https://www.youtube.com/watch?v=r8eCHRrBxJI)? This condiment goes perfectly with many dishes and snacks, from fried rice to keropok! Have a go, make a jar!|
-|StayHomeDoWhat|Not sure of what you can do at home? Learn a skill, read a book or even do your groceries at [StayHomeDoWhat](https://stayhomedowhat.com/index/1586151758293x190541303433733760).
+|StayHomeDoWhat|Not sure of what you can do at home? Learn a skill, read a book or even do your groceries at [StayHomeDoWhat](https://stayhomedowhat.com/index/1586151758293x190541303433733760).|
 
 #### Sports & Wellness
 
 |---|:---|
 |AIC Wellness Programme|The AIC Wellness Programme engages seniors through the provision of meaningful activities to enhance their wellbeing and quality of life. Click [here](https://www.aic.sg/care-services/AIC%20Wellness%20Programme) to find an array of resources for a wide spectrum of seniors.|
-|Box Office Fitness Circuit Breaker Challenge|Staying in doesn’t mean you can’t stay in shape! Why not try to complete this [month-long workout plan](https://www.instagram.com/tv/B-qlrT1nBUA/?utm_source=ig_web_copy_link) challenge that includes a mix of HIIT, strength, cardio and recovery exercises?|
 |#CopingwithCOVID19|A [Self-Care Series](https://www.cgh.com.sg/centres-services/tracs/Pages/Coping%20With%20COVID-19.aspx) developed by Changi General Hospital has resources to provide individuals with resilience building activities and strategies that can be practiced during this difficult period. Stay strong, Stay well!|
 |GetActiveTV|Add an element of variety into your WFH situation and join us on [GetActive TV](https://www.youtube.com/channel/UCuxLiBJZxsbBx9tpV0KTt7A) – whether you are into yoga, HIIT or callisthenics. Choose from workouts suitable for home spaces, whip up scrumptious meals with our nutritionist or tune into our talk shows for ideas on staying healthy, engaged and motivated.|
 |Stay Well to Stay Strong|Visit [HealthHub](https://www.healthhub.sg/staywell) today to kickstart your healthy habits with good hygiene practices, an active lifestyle, a balanced diet and sufficient sleep.|
+|Box Office Fitness Circuit Breaker Challenge|Staying in doesn’t mean you can’t stay in shape! Why not try to complete this [month-long workout plan](https://www.instagram.com/tv/B-qlrT1nBUA/?utm_source=ig_web_copy_link) challenge that includes a mix of HIIT, strength, cardio and recovery exercises?|
 
 #### Working from Home
 
