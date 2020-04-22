@@ -52,7 +52,6 @@ Even as we stay at home during this time, it does not mean that we can't thrive!
 |GetActiveTV|Add an element of variety into your WFH situation and join us on [GetActive TV](https://www.youtube.com/channel/UCuxLiBJZxsbBx9tpV0KTt7A) – whether you are into yoga, HIIT or callisthenics. Choose from workouts suitable for home spaces, whip up scrumptious meals with our nutritionist or tune into our talk shows for ideas on staying healthy, engaged and motivated.|
 |Stay Well to Stay Strong|Visit [HealthHub](https://www.healthhub.sg/staywell) today to kickstart your healthy habits with good hygiene practices, an active lifestyle, a balanced diet and sufficient sleep.|
 |Box Office Fitness Circuit Breaker Challenge|Staying in doesn’t mean you can’t stay in shape! Why not try to complete this [month-long workout plan](https://www.instagram.com/tv/B-qlrT1nBUA/?utm_source=ig_web_copy_link) challenge that includes a mix of HIIT, strength, cardio and recovery exercises?|
-|Smol Tok|COVID-19 is disrupting the way we live, work, play, rest, and communicate. With the circuit breaker in effect, take time to reflect on all the changes that you and your team are experiencing. [Smol Tok](https://www.starknicked.com/new-normal) contains 60 cards to help groups and teams acclimatise and adapt to the New Normal. It's designed to be played in small groups of 4-6 players, just before or after a teleconference.|
 
 #### Working from Home
 
