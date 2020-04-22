@@ -42,7 +42,7 @@ Even as we stay at home during this time, it does not mean that we can't thrive!
 |Hawkers United 2020|If you’re already running out of ideas of what to eat when you stay in, check out [Hawkers United 2020](https://www.facebook.com/groups/268960887438286/learning_content/). This Facebook group is a platform for hawkers all around the island to advertise their food and delivery/takeaway options. Start prepping your hawker meal plan today as you #stayhomeforSG, and support local and small home businesses too!|
 |Pantry Planting: Spring Onions|Use this time at home to hone your green thumb! Edible Garden City has created this [step-by-step guide](https://www.instagram.com/tv/B-qie4wn4t1/?utm_source=ig_web_copy_link) to growing spring onions. Look out for more videos from this channel for home gardening tips and tricks using kitchen staples.|
 |Sambal Belacan|Staying at home has inspired many to start cooking. Why not spice up your meals with your very own [homemade Sambal Belacan](https://www.youtube.com/watch?v=r8eCHRrBxJI)? This condiment goes perfectly with many dishes and snacks, from fried rice to keropok! Have a go, make a jar!|
-|StayHomeDoWhat|Not sure of what you can do at home? Learn a skill, read a book or even do your groceries at [StayHomeDoWhat](https://stayhomedowhat.com/index/1586151758293x190541303433733760).
+|StayHomeDoWhat|Not sure of what you can do at home? Learn a skill, read a book or even do your groceries at [StayHomeDoWhat](https://stayhomedowhat.com/index/1586151758293x190541303433733760).|
 
 #### Sports & Wellness
 
