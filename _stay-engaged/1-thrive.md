@@ -47,7 +47,7 @@ Even as we stay at home during this time, it does not mean that we can't thrive!
 #### Sports & Wellness
 
 |---|:---|
-|Active SG (Circle)|Unsure of what to do during the Circuit Breaker period? Visit [Active SG](http://www.circle.myactivesg.com/circuit-breaker) for fitness and wellness activities, classes, as well as challenges to take part in!|
+|ActiveSG (Circle)|Check out [ActiveSG Circle](https://circle.myactivesg.com/circuit-breaker?utm_campaign=circuit-breaker&utm_source=sgunited-thrive&utm_medium=textlink) for inspiration on what to do during the circuit breaker period and beyond.|
 |AIC Wellness Programme|The AIC Wellness Programme engages seniors through the provision of meaningful activities to enhance their wellbeing and quality of life. Click [here](https://www.aic.sg/care-services/AIC%20Wellness%20Programme) to find an array of resources for a wide spectrum of seniors.|
 |#CopingwithCOVID19|A [Self-Care Series](https://www.cgh.com.sg/centres-services/tracs/Pages/Coping%20With%20COVID-19.aspx) developed by Changi General Hospital has resources to provide individuals with resilience building activities and strategies that can be practiced during this difficult period. Stay strong, Stay well!|
 |Stay Well to Stay Strong|Visit [HealthHub](https://www.healthhub.sg/staywell) today to kickstart your healthy habits with good hygiene practices, an active lifestyle, a balanced diet and sufficient sleep.|
