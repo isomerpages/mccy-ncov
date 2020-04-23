@@ -31,6 +31,7 @@ Whether it's needing helping during the COVID-19 situation or simply just needin
 #### Others
 
 |---|:---|
+|Empact.sg|[Empact.sg](https://www.empact.sg/)is a curated list of support and resources for non-profit organisations and social enterprises.|
 |COVID-19 Tutoring Support for Students (CTSS.SG)|Secondary school or JC students who don’t have access to tuition services can get help from [COVID-19 Tutoring Support for Students](https://www.covidtutoringsupport.weebly.com) (CTSS).|
 |GoodHood.SG|Ask neighbours for help neighbours with items or services needed through the GoodHood.SG mobile app. Click on either link for your device type: [Apple Devices](https://apps.apple.com/sg/app/goodhood-sg-neighbourhood-app/id1494686562) or [Android Devices](https://play.google.com/store/apps/details?id=sg.goodhood.app&hl=en).|
 |Singapore COVID-19 Symptom Checker|Use the [Singapore COVID-19 Symptom Checker](https://www.sgcovidcheck.com) to decide what your next steps should be, based on the symptoms you are experiencing.|
