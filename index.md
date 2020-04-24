@@ -47,6 +47,14 @@ sections:
         image: /images/connect.jpg
         alt:   SEConnect
     - infopic:
+        title: Sing Together Singapore!
+        subtitle:  Tune into any Mediacorp channel and station at 7.55pm to be part of the sing-a-long!
+        description: Sing along to 'Home' this Saturday (25/4) with Dick Lee and the rest of Singapore
+        button: Find Out How!
+        url: "https://www.youth.sg/Peek-Show/2020/4/Sing-along-to-Home-this-Saturday-with-Dick-Lee-and-the-rest-of-Singapore"
+        image: /images/STS.jpg
+        alt: STS
+    - infopic:
         title: Help Others
         subtitle: Home and not sure how you can extend a helping hand?
         description: Staying home during this time does not mean that we can't help each other and the community! If you want to share your Solidarity payout for a good cause, visit giving.sg/sgunited.
@@ -70,14 +78,6 @@ sections:
         url: /online-platforms-content/
         image: /images/SUSMalt.png
         alt: Social Media
-    - infopic:
-        title: Sing Together Singapore!
-        subtitle:  Tune into any Mediacorp channel and station at 7.55pm to be part of the sing-a-long!
-        description: Sing along to 'Home' this Saturday (25/4) with Dick Lee and the rest of Singapore
-        button: Find Out How!
-        url: "https://www.youth.sg/Peek-Show/2020/4/Sing-along-to-Home-this-Saturday-with-Dick-Lee-and-the-rest-of-Singapore"
-        image: /images/STS.jpg
-        alt: STS
     - resources:
         title: Stories
         subtitle: How we stood and will stand by one another
