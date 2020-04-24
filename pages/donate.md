@@ -8,7 +8,7 @@ You can consider doing the following:
 * **[Donate](https://www.giving.sg/search?q=migrant%20workers%20center)** to charities fundraising to help migrant workers. 
 * **[Offer](https://cityofgood.sg/sgunited)** in-kind items to migrant workers.
 
-### To Help those Affected by COVID-19?  
+### To Help those Affected by COVID-19 
 You can consider donating to the following funds:
 
 [![The Courage Fund](/images/TCF.jpeg)](https://www.giving.sg/community-chest/thecouragefund)
