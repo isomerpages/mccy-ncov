@@ -72,8 +72,8 @@ sections:
         alt: Social Media
     - infopic:
         title: Sing Together Singapore!
-        subtitle: 
-        description: Sing along to 'Home' this Saturday with Dick Lee and the rest of Singapore
+        subtitle:  Tune into any Mediacorp channel and station at 7.55pm to be part of the sing-a-long!
+        description: Sing along to 'Home' this Saturday (25/4) with Dick Lee and the rest of Singapore
         button: Find Out How!
         url: "https://www.youth.sg/Peek-Show/2020/4/Sing-along-to-Home-this-Saturday-with-Dick-Lee-and-the-rest-of-Singapore"
         image: /images/STS.jpg
