@@ -31,6 +31,14 @@ sections:
         button:
         url:
     - infopic:
+        title: Sing Together Singapore!
+        subtitle:  Tune into any Mediacorp channel and station at 7.55pm to be part of the sing-a-long!
+        description: Sing along to 'Home' this Saturday (25/4) with Dick Lee and the rest of Singapore
+        button: Find Out How!
+        url: "https://www.youth.sg/Peek-Show/2020/4/Sing-along-to-Home-this-Saturday-with-Dick-Lee-and-the-rest-of-Singapore"
+        image: /images/STS.jpg
+        alt: STS
+    - infopic:
         title: Thrive
         subtitle: Home and not sure what you can do?
         description: Staying home during this time does not mean that we can't thrive!
@@ -68,7 +76,7 @@ sections:
         description: Keep Up-to-Date on Community Initiatives, Opportunities and Content
         button: Explore
         url: /online-platforms-content/
-        image: /images/SUSMalt.png
+        image: /images/SUSM.png
         alt: Social Media
     - resources:
         title: Stories
