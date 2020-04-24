@@ -70,6 +70,14 @@ sections:
         url: /online-platforms-content/
         image: /images/SUSMalt.png
         alt: Social Media
+    - infopic:
+        title: Sing Together Singapore!
+        subtitle: 
+        description: Sing along to 'Home' this Saturday with Dick Lee and the rest of Singapore
+        button: Find Out How!
+        url: "https://www.youth.sg/Peek-Show/2020/4/Sing-along-to-Home-this-Saturday-with-Dick-Lee-and-the-rest-of-Singapore"
+        image: /images/STS.jpg
+        alt: STS
     - resources:
         title: Stories
         subtitle: How we stood and will stand by one another
