@@ -63,6 +63,7 @@ Even as we stay at home during this time, it does not mean that we can't thrive!
 |StayHomeDoWhat|Not sure of what you can do at home? Learn a skill, read a book or even do your groceries at [StayHomeDoWhat](https://stayhomedowhat.com/index/1586151758293x190541303433733760).|
 |Everyday Home Hacks|Here are some simple [DIY home hacks](https://www.youtube.com/watch?v=xmYvHdNQaG4) by Clicknetwork.This  tutorial video shows you how to make life at home much easier. That tip on how to peel stickers without leaving a mark — pure genius!|
 |Pantry Planting: Spring Onions|Use this time at home to hone your green thumb! Edible Garden City has created this [step-by-step guide](https://www.instagram.com/tv/B-qie4wn4t1/?utm_source=ig_web_copy_link) to growing spring onions. Look out for more videos from this channel for home gardening tips and tricks using kitchen staples.|
+|DIY Terrarium and Gardening Tips|Find out how you can make your own [soda bottle terrarium](https://www.youtube.com/playlist?list=PL1_Eb2Fa0jUdnVKaJenj8z3F72rMHjGj3) and learn DIY gardening tips and resources!|
 
 #### Working from Home
 
