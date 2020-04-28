@@ -28,17 +28,17 @@ Singapore can pull through this only if we do it together! **#stayhomeforSG**
 ### Connect
 
 |---|:---|
-|SG United Telegram Channel|[Join our SG United Telegram channel](https://t.me/SG_United) to receive the latest updates on content and community initiatives by Singaporeans stepping up to support one another.|
 |Families for Life|The [Families for Life](https://www.facebook.com/familiesforlife.sg/) Facebook Page brings us the #FFLShareTheCare series, a rich repository of  interactive online content to keep every member of the family, young and old, meaningfully occupied while we all stay home.|
+|Mehgowhere.sg|A youth-centric microsite that aims to help youths understand the situation, assuage their concerns and rally them to do their part, all while having some fun at home. With daily content, useful resources and more, [MehGoWhere](https://www.mehgowhere.sg) is designed to empower youths to take on the challenges of the COVID-19 outbreak.|
 |PA Virtual CC|A series of free [‘live’ 30 minute classes](https://www.facebook.com/pg/pacourses/videos/) on social media platforms that caters to affected PA courses and activities. It encourages participants to remaining active and pursue their passion of learning. Participants can remain virtually connected during the live stream and share their comments with fellow viewers.|
-|National Youth Council|Find out what Youths in Singapore are doing in response to COVID-19 on [National Youth Council](https://www.facebook.com/nycsg/) and [Youth.sg](https://www.facebook.com/youthdotsg/).|
+|SG United Telegram Channel|[Join our SG United Telegram channel](https://t.me/SG_United) to receive the latest updates on content and community initiatives by Singaporeans stepping up to support one another.|
 
 [Find more resources](/stay-engaged/connect)
 
 ### Help Others
 
 |---|:---|
-|Giving.SG|A central giving page has been set up on [Giving.SG](https://www.giving.sg/sgunited) to enable people and organisations to easily find and contribute to charities’ efforts to address the needs of communities affected by the COVID-19 outbreak. And, if you wish to make a donation-in-kind, you can also visit [CityofGood.SG](https://cityofgood.sg/sgunited/) for the list of in-kind community needs you can contribute to.|
+|Giving.SG|A central giving page has been set up on [Giving.SG](https://www.giving.sg/sgunited) to enable people and organisations to easily find and contribute to charities’ efforts to address the needs of communities affected by the COVID-19 outbreak. Additionally, if you wish to make donations or donation-in-kind to support our migrant workers, visit [Giving.SG](https://www.giving.sg/search?q=migrant%20workers%20center) or [CityofGood.SG](https://cityofgood.sg/sgunited/) for the list of in-kind community needs you can contribute to.|
 |Go Digital|Help seniors in your home to [Go Digital](https://www.imsilver.imda.gov.sg )! |
 |Keep Our Seniors Safe At Home|The Silver Generation Office (SGO) is reaching out to seniors in need to support them during COVID-19. To help these seniors stay home and stay safe, SGO is calling for volunteers who can check in on their well-being regularly and to help them to buy essential items. [Volunteer now!](https://www.volunteer.sg/agency/opportunity/details?id=5e7fe522-477d-ea11-a9e4-b23905f5d176&load=yes)|
 |#WeCareSG|Help our low income families survive COVID-19! The [#WeCareSG](https://www.giving.sg/south-central-community-family-service-centre-limited/we-care-sg) movement calls for everyone who can afford to do without it, donate their $600 Solidarity Payment to help serve the most vulnerable. All proceeds will be distributed to the over 50,000 families who can't afford a home and live in HDB rental flats.|
@@ -49,7 +49,7 @@ Singapore can pull through this only if we do it together! **#stayhomeforSG**
 
 |---|:---|
 |National Care Hotline|Call the National Care Hotline (**6202-6868**) for emotional support - be it stress over finances or marital and family tensions. Trained officers will be able to link you up with social service agencies and specialised services if needed.|
-|COVID-19 Support Grant|Application details for the [COVID-19 Support Grant](https://www.singaporebudget.gov.sg/docs/default-source/budget_2020/download/pdf/supplementary_annexb2.pdf) to support individuals who have lost their jobs as a result of the COVID-19 outbreak. The scheme will be open for application from May 2020 to Sep 2020.|
+|Support Go Where|Find available grants, funds and packages for individuals on [SupportGoWhere](https://www.supportgowhere.gov.sg/). The site will continuously improve and will be updated when there is new information.|
 |Flu Go Where|Need to visit the doctor? Find a Public Health Preparedness Clinic near you at [FluGoWhere](https://www.flugowhere.gov.sg).|
 |Go Where|For a comprehensive list of go-to government websites to fight against COVID-19, visit [GoWhere](https://www.gowhere.gov.sg/).|
 
