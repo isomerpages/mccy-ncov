@@ -22,7 +22,6 @@ Even as we stay at home during this time, it does not mean that we can't connect
 |#StayhomeforSG Challenge|Share with us on social media what you are doing at home to keep healthy, stay connected and help others! Click [here](/media/SHC.jpg/) to find out more! #stayhomeforSG|
 |#Startwith60 Challenge|Are you ready to challenge yourself? Team up with Active Health and level up in the [60-second daily challenge](https://campaign.activehealth.sg/startwith60?utm_campaign=circuit-breaker&utm_source=sgunited-connect&utm_medium=textlink). Get ready to play and feel better than ever before!|
 |MADEinSG x NYC 5-day Creative Challenge|[This creative contest](https://www.facebook.com/499886730606/posts/10163475309385607/?d=n) was launched on 21 April to encourage members of the MADEinSG (Media, Arts, Design & Entertainment) community to make the best out of the circuit breaker period by creative positive and useful COVID-19 messages for our youth. The contest will see participants designing posters or 60-second monologues to create content around the contest message – Please Stay At Home. The top 10 finalists will walk away with some prizes and have their work featured on NYC’s social media platforms.|
-|Total Defence 14-Day Challenge|Join the [Total Defence 14-Day Challenge](https://www.instagram.com/p/B-qXKZjHqCM/?igshid=1feyxa4m49m72) #14dayTDChallenge|
 
 #### Families
 
