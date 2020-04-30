@@ -14,7 +14,6 @@ Even as we stay at home during this time, it does not mean that we can't thrive!
 
 |---|:---|
 |We Go Digital|Life doesn't have to go on hold when you can [Go Digital](https://www.imda.gov.sg/WeGoDigital)! Use the self-help resources to help you buy online, pay online and learn online!|
-|Meh Go Where|For youth to get latest information and have fun at the same time during the circuit breaker period, visit [Meh Go Where](https://www.mehgowhere.sg). Youth can engage in live streams, refer to articles and useful resources, take part in polls or weekly challenges, submit ideas and much more.|
 |Safe Distance @ Parks|Visit [Safe Distance @ Parks](https://safedistparks.nparks.gov.sg) for more information on the visitorship of some of our major parks and green spaces.|
 |Space Out|Visit [Space Out](https://www.spaceout.gov.sg) for more information on which mores are less crowded during different times of the day, before heading out to buy essential goods and services.|
 
