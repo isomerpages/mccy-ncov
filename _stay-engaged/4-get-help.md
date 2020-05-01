@@ -39,8 +39,13 @@ Whether it's needing helping during the COVID-19 situation or simply just needin
 #### Others
 
 |---|:---|
+|CDAC|Visit [CDAC](https://www.cdac.org.sg/get-assistance/)’s webpage to find out more about the various assistance schemes.|
+|Eurasian Association|Visit [Eurasian Association](http://www.eurasians.org.sg/family-support/)’s Family Support Service webpage to find out more.|
+|MENDAKI|Visit [MENDAKI](http://www.mendaki.org.sg/assistance-landing/) and [M3](https://www.m3.sg/) webpage to find out more about the various assistance schemes.|
+|SINDA|Visit [SINDA](http://www.sinda.org.sg/sindacares/)’s webpage to find out more about the various help schemes|
 |Empact.sg|[Empact.sg](https://www.empact.sg/)is a curated list of support and resources for non-profit organisations and social enterprises.|
 |Outside Mobile App|[Outside](https://www.outsideapp.co/) is a community app that makes it fun and easier for users to help others and get help. Integrating the concept of tasking and in game questing, Outside leverages on geolocation technology such that users can easily post or complete daily tasks around them through “quest” pins.|
+|Oscar@sg Fund|The oscar@sg fund was setup by Temasek Trust and supports projects that "embrace the values of ownership, sustainability, care, assurance, resilience (oscar)". This programme will provide up to $5,000 of direct sponsorship and match third-party funding sources dollar-for-dollar up to a maximum of $50,000, with a provision to increase the sum to $100,000 in exceptional cases. For more information, visit the [oscar@sg fund](https://www.temasektrust.org.sg/Oscar) website.|
 |GoodHood.SG|Ask neighbours for help neighbours with items or services needed through the GoodHood.SG mobile app. Click on either link for your device type: [Apple Devices](https://apps.apple.com/sg/app/goodhood-sg-neighbourhood-app/id1494686562) or [Android Devices](https://play.google.com/store/apps/details?id=sg.goodhood.app&hl=en).|
 |COVID-19 Tutoring Support for Students (CTSS.SG)|Secondary school or JC students who don’t have access to tuition services can get help from [COVID-19 Tutoring Support for Students](https://www.covidtutoringsupport.weebly.com) (CTSS).|
 
