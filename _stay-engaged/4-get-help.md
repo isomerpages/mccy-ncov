@@ -25,7 +25,7 @@ Whether it's needing helping during the COVID-19 situation or simply just needin
 |---|:---|
 |SG United Jobs Portal|Visit the [SG United Jobs Portal](https://www.sgunitedjobs.gov.sg) to access career-related resources, and the Virtual Career Fair.|
 |Advance usage of SkillsFuture Credit top-up from 1 Apr|Singaporeans can explore and sign-up for over 8,000 courses from IHLs (ITE, all polytechnics, and 6 local autonomous universities) and NTUC LearningHub. More info at [SkillsFuture](https://www.skillsfuture.sg/credit) (in there is a pictorial guide to search for eligible courses).|
-|Enhanced Training Support Package|An [initiative to defray training costs](https://http://www.ssg.gov.sg/ETSP_EnhancedAP) for industries greatly impacted by the pandemic. While this is more targeted at employers, P2P drivers are also listed in here, and this group will be looking at this from an individual perspective.|
+|Enhanced Training Support Package|An [initiative to defray training costs](https://https://www.ssg.gov.sg/ETSP_EnhancedAP) for industries greatly impacted by the pandemic. While this is more targeted at employers, P2P drivers are also listed in here, and this group will be looking at this from an individual perspective.|
 |NTUC Training Fund (SEPs)|This is [an NTUC initiative](https://www.ntuclearninghub.com/ntuc-training-fund-seps/), with input from SSG in the curation of eligible courses. Eligible courses include all of SkillsFuture Series courses and SkillsFuture for Digital Workplace. All eligible courses are meant to equip individuals with emerging skills that will boost employability. |
 |Social Service Office|Find a [Social Service Office (SSO)](https://www.msf.gov.sg/dfcs/sso/default.aspx) near you.|
 
