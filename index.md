@@ -31,13 +31,13 @@ sections:
         button:
         url:
     - infopic:
-        title: Labour of Love
-        subtitle: Celebrate Labour Day by displaying our National Flag!
-        description:  Join us in a show of acknowledgement, solidarity and gratitude to  all the brave men and women who continue to keep our country moving!
+        title: Homemade for Mums
+        subtitle: Show love and appreciate our mums this Mother's Day!
+        description: Make a date with local artistes and many more on Sunday (10 May), 8pm for a Mother's Day celebration filled with music, laughter, and touching tributes. Watch them belt out some of your mum's favourite classics for a night to remember. 
         button: Find Out More
-        url: "https://www.instagram.com/p/B_bQOmVAFmx/?igshid=eilmyhc046dy"
-        image: /images/LabourOfLove.jpg
-        alt: Labour of Love
+        url: "https://www.facebook.com/214889341167/posts/10158146225221168/"
+        image: /images/FFLMD2.jpg
+        alt: FFLMothersDay
     - infopic:
         title: Thrive
         subtitle: Home and not sure what you can do?
