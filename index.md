@@ -31,12 +31,12 @@ sections:
         button:
         url:
     - infopic:
-        title: "#FFLMothersDay" 
+        title: Homemade for Mums
         subtitle: Show love and appreciate our mums this Mother's Day!
-        description: Mothers are doing an awesome job taking care of everyone at home. Though some of us may not be able to be with our mums, we can certainly show we love and appreciate them! 
+        description: Make a date with local artistes and many more on Sunday (10 May), 8pm for a Mother's Day celebration filled with music, laughter, and touching tributes. Watch them belt out some of your mum's favourite classics for a night to remember. 
         button: Find Out More
-        url: "https://www.facebook.com/214889341167/posts/10158145718676168/?d=n"
-        image: /images/FFLMD.jpg
+        url: "https://www.facebook.com/214889341167/posts/10158146225221168/"
+        image: /images/FFLMD2.jpg
         alt: FFLMothersDay
     - infopic:
         title: Thrive
