@@ -13,6 +13,7 @@ Below are some ways that you can remain connected to the community, help others 
 
 Singapore can pull through this only if we do it together! **#stayhomeforSG**
 
+
 |---|:---|
 |**Active and Healthy Lifestyle**|[Visit](https://circle.myactivesg.com/circuit-breaker) to explore more activities and resources for you and your loved ones!|
 |**Family-friendly Activities**|[Visit](https://www.familiesforlife.sg/unite-at-an-event/Pages/FFL-ShareTheCare.aspx) to explore more activities and resources for you and your loved ones!|
