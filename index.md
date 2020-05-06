@@ -31,13 +31,13 @@ sections:
         button:
         url:
     - infopic:
-        title: Labour of Love
-        subtitle: Celebrate Labour Day by displaying our National Flag!
-        description:  Join us in a show of acknowledgement, solidarity and gratitude to  all the brave men and women who continue to keep our country moving!
+        title: #FFLMothersDay 
+        subtitle: Show love and appreciate our mums this Mother's Day!
+        description: Mothers are doing an awesome job taking care of everyone at home. Though some of us may not be able to be with our mums, we can certainly show we love and appreciate them! 
         button: Find Out More
-        url: "https://www.instagram.com/p/B_bQOmVAFmx/?igshid=eilmyhc046dy"
-        image: /images/LabourOfLove.jpg
-        alt: Labour of Love
+        url: "https://www.facebook.com/214889341167/posts/10158145718676168/?d=n"
+        image: /images/FFLMD.jpg
+        alt: FFLMothersDay
     - infopic:
         title: Thrive
         subtitle: Home and not sure what you can do?
