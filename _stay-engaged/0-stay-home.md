@@ -17,7 +17,7 @@ Singapore can pull through this only if we do it together! **#stayhomeforSG**
 |---|:---|
 |**Active and Healthy Lifestyle**|[Visit](https://circle.myactivesg.com/circuit-breaker) to explore more activities and resources for you and your loved ones!|
 |**Family-friendly Activities**|[Visit](https://www.familiesforlife.sg/unite-at-an-event/Pages/FFL-ShareTheCare.aspx) to explore more activities and resources for you and your loved ones!|
-|**Learning Online**|COMING SOON!|
+|**Learning Online**|[Visit](https://www.imda.gov.sg/for-community/We-Go-Digital/Learn-Online) to explore more activities and resources for you and your loved ones!|
 
 ### Thrive
 
