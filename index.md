@@ -31,14 +31,6 @@ sections:
         button:
         url:
     - infopic:
-        title: Homemade for Mums
-        subtitle: Show love and appreciate our mums this Mother's Day!
-        description: Make a date with local artistes and many more on Sunday (10 May), 8pm for a Mother's Day celebration filled with music, laughter, and touching tributes. Watch them belt out some of your mum's favourite classics for a night to remember. 
-        button: Find Out More
-        url: "https://www.facebook.com/214889341167/posts/10158146225221168/"
-        image: /images/FFLMD2.jpg
-        alt: FFLMothersDay
-    - infopic:
         title: Thrive
         subtitle: Home and not sure what you can do?
         description: Staying home during this time does not mean that we can't thrive!
@@ -76,7 +68,7 @@ sections:
         description: Keep Up-to-Date on Community Initiatives, Opportunities and Content
         button: Explore
         url: /online-platforms-content/
-        image: /images/SUSM.png/
+        image: /images/SUSMalt.png/
         alt: Social Media
     - resources:
         title: Stories
