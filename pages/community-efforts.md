@@ -8,13 +8,13 @@ permalink: /community-efforts/
 A kind word goes a long way in showing our frontline heroes how much we value their efforts. Pen your support at any of the SG United appreciation zones if you are around the vicinity. 
 
 **North**
-* Singapore Zoo (in front of Singapore Zoo Retail Shop): 14 Mar to 11 May 
+* Singapore Zoo (in front of Singapore Zoo Retail Shop): 14 Mar to 1 Jun 
 
 **Central**
-* Novena MRT (next to Meeting Point A / Heart Zone): 29 Feb to 30 Apr
-* Outram Park MRT (near gantry at Exit F): 29 Feb to 30 Apr
-* *SCAPE (near drop-off point entrance): 25 Mar to 11 May
-* Gardens by the Bay (The Canopy): 4 Apr to 11 May
+* Novena MRT (next to Meeting Point A / Heart Zone): 29 Feb to 1 Jun
+* Outram Park MRT (near gantry at Exit F): 29 Feb to 1 Jun
+* *SCAPE (near drop-off point entrance): 25 Mar to 1 Jun
+* Gardens by the Bay (The Canopy): 4 Apr to 1 Jun
 
 Interested in helping out at our Appreciation Booths? Visit our [Volunteer](/Appreciation-Booths/) page now! 
 
