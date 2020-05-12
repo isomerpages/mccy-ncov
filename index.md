@@ -30,6 +30,22 @@ sections:
         description: 
         button:
         url:
+     - infopic:
+        title: Help Others
+        subtitle: Home and not sure how you can extend a helping hand?
+        description: Staying home during this time does not mean that we can't help each other and the community! If you want to share your Solidarity payout for a good cause, visit giving.sg/sgunited.
+        button: Find Out More!
+        url: /stay-engaged/help-others/
+        image: /images/Giving.jpg
+        alt:   SEHelpOthers
+    - infopic:
+        title: Get Help
+        subtitle: Wondering where you can go to get some help?
+        description: Need some help or even just needing someone to talk to during this time?
+        button: Find Out More!
+        url: /stay-engaged/get-help/
+        image: /images/gethelp.jpg
+        alt: SEGetHelp
     - infopic:
         title: Thrive
         subtitle: Home and not sure what you can do?
@@ -46,22 +62,6 @@ sections:
         url: /stay-engaged/connect/
         image: /images/connect.jpg
         alt:   SEConnect
-    - infopic:
-        title: Help Others
-        subtitle: Home and not sure how you can extend a helping hand?
-        description: Staying home during this time does not mean that we can't help each other and the community! If you want to share your Solidarity payout for a good cause, visit giving.sg/sgunited.
-        button: Find Out More!
-        url: /stay-engaged/help-others/
-        image: /images/Giving.jpg
-        alt:   SEHelpOthers
-    - infopic:
-        title: Get Help
-        subtitle: Wondering where you can go to get some help?
-        description: Need some help or even just needing someone to talk to during this time?
-        button: Find Out More!
-        url: /stay-engaged/get-help/
-        image: /images/gethelp.jpg
-        alt: SEGetHelp
     - infopic:
         title: Online Platforms & Content
         subtitle: 
