@@ -37,6 +37,8 @@ Even as we stay at home during this time, it does not mean that we can't thrive!
 
 |---|:---|
 |Hawkers United 2020|If you’re already running out of ideas of what to eat when you stay in, check out [Hawkers United 2020](https://www.facebook.com/groups/268960887438286/learning_content/). This Facebook group is a platform for hawkers all around the island to advertise their food and delivery/takeaway options. Start prepping your hawker meal plan today as you #stayhomeforSG, and support local and small home businesses too!|
+|Making Singaporean Kuehs at Home|A 3-episode series on how to make [Kueh Dadar](https://www.facebook.com/meatmen.sg/videos/228897158199741/), [Chwee Kueh](https://www.facebook.com/meatmen.sg/videos/252609819203373/) and [Urad Dal Vada](https://www.facebook.com/meatmen.sg/videos/244314646641573/) in the comfort of your homes!|
+|Creating Singapore Cocktais at Home|A 3-episode series on how to make a [Singapore Sling](https://www.facebook.com/meatmen.sg/videos/676142213136352/), [Kaya Toast Cocktail](https://www.facebook.com/meatmen.sg/videos/247352829718256/) or even a [Pei Pa Gao Cocktail](https://www.facebook.com/meatmen.sg/videos/269719034204190/) at home!|
 |Sambal Belacan|Staying at home has inspired many to start cooking. Why not spice up your meals with your very own [homemade Sambal Belacan](https://www.youtube.com/watch?v=r8eCHRrBxJI)? This condiment goes perfectly with many dishes and snacks, from fried rice to keropok! Have a go, make a jar!|
 
 
