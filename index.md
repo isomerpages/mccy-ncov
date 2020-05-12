@@ -70,7 +70,7 @@ sections:
         url: /online-platforms-content/
         image: /images/SUSMalt.png/
         alt: Social Media
-  - resources:
+    - resources:
         title: Stories
         subtitle: How we stood and will stand by one another
         button: View More
