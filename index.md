@@ -3,7 +3,7 @@ layout: homepage
 title: "SG United"
 description: Stay at home for Singapore, together!
 permalink: /
-notification: "ADVISORY: We have been notified of a scam going around, issuing fines to individuals for violating social distancing measures. The link to the website has SGUnited mentioned. Please help to spread the word that the SGUnited initiative does not issue any such fines. Thank you."
+notification: "ADVISORY: We have been notified of a scam going around, issuing fines to individuals for violating social distancing measures. The link to the website has SG United mentioned. Please help to spread the word that the SG United initiative does not issue any such fines. Thank you."
 sections:
     - hero:
         title: "Stay home for Singapore, together!"
@@ -31,22 +31,6 @@ sections:
         button:
         url:
     - infopic:
-        title: Thrive
-        subtitle: Home and not sure what you can do?
-        description: Staying home during this time does not mean that we can't thrive!
-        button: Find Out How!
-        url: /stay-engaged/thrive/
-        image: /images/thrive.jpg
-        alt: SEThrive
-    - infopic:
-        title: Connect
-        subtitle: Wondering how you can keep up with others at home?
-        description:  Staying home during this time does not mean that we can't stay connected!
-        button: Find Out How!
-        url: /stay-engaged/connect/
-        image: /images/connect.jpg
-        alt:   SEConnect
-    - infopic:
         title: Help Others
         subtitle: Home and not sure how you can extend a helping hand?
         description: Staying home during this time does not mean that we can't help each other and the community! If you want to share your Solidarity payout for a good cause, visit giving.sg/sgunited.
@@ -62,6 +46,22 @@ sections:
         url: /stay-engaged/get-help/
         image: /images/gethelp.jpg
         alt: SEGetHelp
+    - infopic:
+        title: Thrive
+        subtitle: Home and not sure what you can do?
+        description: Staying home during this time does not mean that we can't thrive!
+        button: Find Out How!
+        url: /stay-engaged/thrive/
+        image: /images/thrive.jpg
+        alt: SEThrive
+    - infopic:
+        title: Connect
+        subtitle: Wondering how you can keep up with others at home?
+        description:  Staying home during this time does not mean that we can't stay connected!
+        button: Find Out How!
+        url: /stay-engaged/connect/
+        image: /images/connect.jpg
+        alt:   SEConnect
     - infopic:
         title: Online Platforms & Content
         subtitle: 
