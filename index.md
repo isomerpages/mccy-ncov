@@ -6,23 +6,23 @@ permalink: /
 notification: "ADVISORY: We have been notified of a scam going around, issuing fines to individuals for violating social distancing measures. The link to the website has SG United mentioned. Please help to spread the word that the SG United initiative does not issue any such fines. Thank you."
 sections:
     - hero:
-        title: "Stay home for Singapore, together!"
-        subtitle: "Find out how we can stay engaged while being at home"
-        background: /images/Banner-3.jpg
+        title: "Stay Strong, Singapore"
+        subtitle: "Together, we can overcome this challenge"
+        background: /images/Banner-4.jpg
         url: /stay-engaged/
-        button: Stay Engaged!
+        button: Stay Strong!
         key_highlights:
-            - title: Volunteer
-              description: to help
+            - title: Help by Volunteering
+              description: 
               url: "https://www.giving.sg/sgunited-volunteers" 
-            - title: Support
-              description: on-going community initiatives 
+            - title: Help by Donating to Support the Vulnerable
+              description:
               url: /community-efforts/
-            - title: Donate
-              description: to support the vulnerable
+            - title: Thank and Support the Community
+              description:
               url: /donate/                           
-            - title: Stay Engaged
-              description: thrive, connect, help, get help
+            - title: Encourage and Get Help
+              description: 
               url: /stay-engaged/
     - infobar:
         title:
@@ -31,20 +31,20 @@ sections:
         button:
         url:
     - infopic:
-        title: Help Others
-        subtitle: Home and not sure how you can extend a helping hand?
-        description: Staying home during this time does not mean that we can't help each other and the community! If you want to share your Solidarity payout for a good cause, visit giving.sg/sgunited.
+        title: Stay Strong, Singapore
+        subtitle: Home and Strong!
+        description: Fly the National Flag from your homes on 1 June!
         button: Find Out More!
         url: /stay-engaged/help-others/
-        image: /images/Giving.jpg
+        image: /images/Banner-4.jpg
         alt:   SEHelpOthers
     - infopic:
-        title: Get Help
-        subtitle: Wondering where you can go to get some help?
-        description: Need some help or even just needing someone to talk to during this time?
+        title: Say 'Thank You!'
+        subtitle: To those who have worked hard and given selflessly
+        description: Say thank you to all workers and fellow Singaporeans via our Virtual Appreciation Board
         button: Find Out More!
         url: /stay-engaged/get-help/
-        image: /images/gethelp.jpg
+        image: /images/Banner-2.JPG
         alt: SEGetHelp
     - infopic:
         title: Thrive
