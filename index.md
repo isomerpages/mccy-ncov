@@ -20,13 +20,13 @@ sections:
               url: /community-efforts/
             - title: Thank and Support the Community
               description:
-              url: /donate/                           
+              url: /donate/               
             - title: Encourage Others and Get Help
               description:
               url: /stay-engaged/
     - infobar:
         title:
-        subtitle: ""COVID-19 is this generation’s challenge. The virus is a tough enemy – invisible, but formidable. It is now our turn to prove that we are worthy of our forebears, and up to the challenge before us. I have every confidence that we will prove more than equal to the task." - PM Lee Hsien Loong, 1 May 2020"
+        subtitle: "COVID-19 is this generation’s challenge. The virus is a tough enemy – invisible, but formidable. It is now our turn to prove that we are worthy of our forebears, and up to the challenge before us. I have every confidence that we will prove more than equal to the task. - PM Lee Hsien Loong, 1 May 2020"
         description: 
         button:
         url:
