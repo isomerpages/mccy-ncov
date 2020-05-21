@@ -13,16 +13,16 @@ sections:
         button: Stay Strong!
         key_highlights:
             - title: Help by Volunteering
-              description: 
+              description:
               url: "https://www.giving.sg/sgunited-volunteers" 
             - title: Help by Donating to Support the Vulnerable
-              description: 
+              description:
               url: /community-efforts/
             - title: Thank and Support the Community
               description:
               url: /donate/                           
             - title: Encourage Others and Get Help
-              description: 
+              description:
               url: /stay-engaged/
     - infobar:
         title:
