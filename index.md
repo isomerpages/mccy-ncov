@@ -10,19 +10,19 @@ sections:
         subtitle: "Find out how we can stay engaged while being at home"
         background: /images/Banner-3.jpg
         url: /stay-engaged/
-        button: Stay Engaged!
+        button: Stay Strong!
         key_highlights:
-            - title: Volunteer
-              description: to help
+            - title: Help by Volunteering
+              description: 
               url: "https://www.giving.sg/sgunited-volunteers" 
-            - title: Support
-              description: on-going community initiatives 
+            - title: Help by Donating to Support the Vulnerable
+              description: 
               url: /community-efforts/
-            - title: Donate
-              description: to support the vulnerable
+            - title: Thank and Support the Community
+              description: 
               url: /donate/                           
-            - title: Stay Engaged
-              description: thrive, connect, help, get help
+            - title: Encourage Others and Get Help
+              description: 
               url: /stay-engaged/
     - infobar:
         title:
@@ -31,25 +31,25 @@ sections:
         button:
         url:
     - infopic:
-        title: Help Others
-        subtitle: Home and not sure how you can extend a helping hand?
-        description: Staying home during this time does not mean that we can't help each other and the community! If you want to share your Solidarity payout for a good cause, visit giving.sg/sgunited.
+        title: Activation 1
+        subtitle: From 1 June onwards
+        description: Activation 1
         button: Find Out More!
         url: /stay-engaged/help-others/
         image: /images/Giving.jpg
         alt:   SEHelpOthers
     - infopic:
-        title: Get Help
-        subtitle: Wondering where you can go to get some help?
-        description: Need some help or even just needing someone to talk to during this time?
+        title: Activation 2
+        subtitle: From 1 June onwards
+        description: Activation 2
         button: Find Out More!
         url: /stay-engaged/get-help/
         image: /images/gethelp.jpg
         alt: SEGetHelp
     - infopic:
-        title: Thrive
-        subtitle: Home and not sure what you can do?
-        description: Staying home during this time does not mean that we can't thrive!
+        title: Activation 3
+        subtitle: From 1 June onwards
+        description: Activation 3
         button: Find Out How!
         url: /stay-engaged/thrive/
         image: /images/thrive.jpg
