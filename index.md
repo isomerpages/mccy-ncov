@@ -6,23 +6,23 @@ permalink: /
 notification: "ADVISORY: We have been notified of a scam going around, issuing fines to individuals for violating social distancing measures. The link to the website has SG United mentioned. Please help to spread the word that the SG United initiative does not issue any such fines. Thank you."
 sections:
     - hero:
-        title: "Stay Strong for Singapore!"
-        subtitle: "Find out how we can stay strong"
-        background: /images/Banner.jpg
+        title: "Stay home for Singapore, together!"
+        subtitle: "Find out how we can stay engaged while being at home"
+        background: /images/Banner-3.jpg
         url: /stay-engaged/
-        button: Stay Strong!
+        button: Stay Engaged!
         key_highlights:
-            - title: Help by Volunteering
-              description: 
+            - title: Volunteer
+              description: to help
               url: "https://www.giving.sg/sgunited-volunteers" 
-            - title: Help by Donating to Support the Vulnerable
-              description: 
+            - title: Support
+              description: on-going community initiatives 
               url: /community-efforts/
-            - title: Thank and Support the Community
-              description: 
+            - title: Donate
+              description: to support the vulnerable
               url: /donate/                           
-            - title: Encourage Others and Get Help
-              description: 
+            - title: Stay Engaged
+              description: thrive, connect, help, get help
               url: /stay-engaged/
     - infobar:
         title:
@@ -31,25 +31,25 @@ sections:
         button:
         url:
     - infopic:
-        title: Activation 1
-        subtitle: From 1 June onwards
-        description: Activation 1
+        title: Help Others
+        subtitle: Home and not sure how you can extend a helping hand?
+        description: Staying home during this time does not mean that we can't help each other and the community! If you want to share your Solidarity payout for a good cause, visit giving.sg/sgunited.
         button: Find Out More!
         url: /stay-engaged/help-others/
         image: /images/Giving.jpg
         alt:   SEHelpOthers
     - infopic:
-        title: Activation 2
-        subtitle: From 1 June onwards
-        description: Activation 2
+        title: Get Help
+        subtitle: Wondering where you can go to get some help?
+        description: Need some help or even just needing someone to talk to during this time?
         button: Find Out More!
         url: /stay-engaged/get-help/
         image: /images/gethelp.jpg
         alt: SEGetHelp
     - infopic:
-        title: Activation 3
-        subtitle: From 1 June onwards
-        description: Activation 3
+        title: Thrive
+        subtitle: Home and not sure what you can do?
+        description: Staying home during this time does not mean that we can't thrive!
         button: Find Out How!
         url: /stay-engaged/thrive/
         image: /images/thrive.jpg
