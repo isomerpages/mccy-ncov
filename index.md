@@ -10,7 +10,7 @@ sections:
         subtitle: "Together, we can overcome this challenge"
         background: /images/Banner-4.jpg
         url: /stay-engaged/
-        button: Stay Engaged!
+        button: Stay Strong!
         key_highlights:
             - title: Stay Safe
               description: Keep Engaged at Home & Be Safe when Out
