@@ -9,16 +9,14 @@ logo: /images/SGUnitedSGT2.jpg
 links:
   - title: Volunteer
     url: "https://www.giving.sg/sgunited-volunteers"
-  - title: Support
-    url: /community-efforts/
   - title: Donate
     url: /donate/
-  - title: Stay Engaged
-    url: /stay-engaged/ 
-  - title: Share
+  - title: Download
     url: /online-platforms-content/ 
-  - title: Stories
+  - title: Stories & Content
     url: /stories/
+  - title: Contact
+    url: "mailto:sgunited@mccy.gov.sg"
   - title: GOV.SG
     url: "https://www.gov.sg/features/covid-19"
 
