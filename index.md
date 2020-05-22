@@ -1,29 +1,32 @@
 ---
 layout: homepage
 title: "SG United"
-description: Stay Strong, Singapore
+description: Stay at home for Singapore, together!
 permalink: /
 notification: "ADVISORY: We have been notified of a scam going around, issuing fines to individuals for violating social distancing measures. The link to the website has SG United mentioned. Please help to spread the word that the SG United initiative does not issue any such fines. Thank you."
 sections:
     - hero:
-        title: "Stay Strong, Singapore"
-        subtitle: "Together, we can overcome this challenge"
-        background: /images/Banner-4.jpg
+        title: "Stay home for Singapore, together!"
+        subtitle: "Find out how we can stay engaged while being at home"
+        background: /images/Banner-3.jpg
         url: /stay-engaged/
-        button: Stay Strong!
+        button: Stay Engaged!
         key_highlights:
-            - title: Stay Safe
-              description: Keep Engaged at Home and Be Safe when Out
+            - title: Volunteer
+              description: to help
               url: "https://www.giving.sg/sgunited-volunteers" 
-            - title: Stay Strong
-              description: Encourage Others and Seek Help
+            - title: Support
+              description: on-going community initiatives 
               url: /community-efforts/
-            - title: Stay United
-              description: Help by Volunteering & Donating; Thank and Support the Community
+            - title: Donate
+              description: to support the vulnerable
               url: /donate/                           
+            - title: Stay Engaged
+              description: thrive, connect, help, get help
+              url: /stay-engaged/
     - infobar:
         title:
-        subtitle: "COVID-19 is this generation’s challenge. The virus is a tough enemy – invisible, but formidable. It is now our turn to prove that we are worthy of our forebears, and up to the challenge before us. I have every confidence that we will prove more than equal to the task. - PM Lee Hsien Loong, 1 May 2020"
+        subtitle: "“The worst of times can bring out the best in our people. How we respond to it, how our nation comes together, will show much about our values as a people, and the principles we hold dear…. These four weeks of circuit breaking will feel unusual and unnatural. The challenge is to help ourselves and others stay home and do so purposefully and positively.” - DPM Heng Swee Keat, Solidarity Budget Speech, 7 Apr 2020"
         description: 
         button:
         url:
