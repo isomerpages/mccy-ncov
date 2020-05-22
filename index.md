@@ -13,7 +13,7 @@ sections:
         button: Stay Strong!
         key_highlights:
             - title: Stay Safe
-              description: Keep Engaged at home and Be Safe when Out
+              description: Keep Engaged at Home and Be Safe when Out
               url: "https://www.giving.sg/sgunited-volunteers" 
             - title: Stay Strong
               description: Encourage Others and Seek Help
