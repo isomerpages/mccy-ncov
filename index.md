@@ -19,7 +19,7 @@ sections:
               description: Encourage Others & Seek Help
               url: /community-efforts/
             - title: Stay United
-              description: Help by Volunteering & Donating; Thank and Support the Community
+              description: Volunteer, Donate, or Thank Our Community
               url: /donate/                           
     - infobar:
         title:
