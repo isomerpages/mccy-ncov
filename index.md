@@ -7,20 +7,20 @@ notification: "ADVISORY: We have been notified of a scam going around, issuing f
 sections:
     - hero:
         title: "Stay Strong, Singapore"
-        subtitle: "Together, we can overcome this challenge"
+        subtitle: "Let’s Stay Safe, Stay Strong and Stay United. Together we can overcome COVID-19, and emerge stronger"
         background: /images/Banner-6.jpg
-        url: /stay-engaged/
+        url: /stay-strong/
         button: Stay Strong!
         key_highlights:
             - title: Stay Safe
               description: Keep Engaged at Home & Be Safe when Out
-              url: "https://www.giving.sg/sgunited-volunteers" 
+              url: /stay-safe/
             - title: Stay Strong
               description: Stay Connected & Seek Help
-              url: /community-efforts/
+              url: /stay-strong/
             - title: Stay United
               description: Volunteer, Donate, or Thank Our Community
-              url: /donate/                           
+              url: /stay-united/                           
     - infobar:
         title:
         subtitle: "Moving forward with Fortitude, as we stay United as one people, remain Resilient in the face of adversity, and stand in Solidarity with one another We will overcome. - DPM Heng Swee Keat, 26 May 2020 "
