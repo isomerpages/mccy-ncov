@@ -8,7 +8,7 @@ sections:
     - hero:
         title: "Stay Strong, Singapore"
         subtitle: "Together, we can overcome this challenge"
-        background: /images/Banner-5.jpg
+        background: /images/Banner-6.jpg
         url: /stay-engaged/
         button: Stay Strong!
         key_highlights:
