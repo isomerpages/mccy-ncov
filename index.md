@@ -7,7 +7,7 @@ notification: "ADVISORY: We have been notified of a scam going around, issuing f
 sections:
     - hero:
         title: "Stay Strong, Singapore"
-        subtitle: "Let’s Stay Safe, Strong and United. Together we can overcome and emerge stronger"
+        subtitle: "Together we can overcome and emerge stronger"
         background: /images/Banner-6.jpg
         url: /stay-strong/
         button: Stay Strong!
