@@ -30,35 +30,35 @@ sections:
     - infopic:
         title: Share!
         subtitle: Why not share with others what we have been blessed with?
-        description: 
+        description: Help with COVID-19-related causes like The Courage Fund orThe Invictus Fund
         button: Find Out More!
         url: /stay-engaged/help-others/
         image: /images/Giving.jpg
-        alt:   SEHelpOthers
+        alt: Share
     - infopic:
         title: Encourage!
         subtitle: Why not encourage each other as we get through this tough time?
-        description: 
+        description: Post a message or story on social media to encourage others to stay strong
         button: Find Out More!
         url: /stay-engaged/get-help/
         image: /images/gethelp.jpg
-        alt: SEGetHelp
+        alt: Encourage
     - infopic:
         title: Thank!
         subtitle: Why not say 'Thank You' to those who have worked hard for us?
-        description: 
+        description: Leave a note of thanks on SG United digital appreciation board  
         button: Find Out How!
         url: /stay-engaged/thrive/
         image: /images/thrive.jpg
-        alt: SEThrive
+        alt: Thanks
     - infopic:
         title: Inspire/Majulah!
         subtitle: Why not fly the our National Flag as a show of solidarity?
-        description:  
+        description:  Display out flag as one united people
         button: Find Out How!
         url: /stay-engaged/connect/
         image: /images/Banner-4.jpg
-        alt:   SEConnect
+        alt:   Inspire
     - infopic:
         title: Online Platforms & Content
         subtitle: 
