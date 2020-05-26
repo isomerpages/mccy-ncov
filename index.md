@@ -23,7 +23,7 @@ sections:
               url: /donate/                           
     - infobar:
         title:
-        subtitle: "COVID-19 is this generation’s challenge. The virus is a tough enemy – invisible, but formidable. It is now our turn to prove that we are worthy of our forebears, and up to the challenge before us. I have every confidence that we will prove more than equal to the task. - PM Lee Hsien Loong, 1 May 2020"
+        subtitle: ""Moving forward with Fortitude, as we stay United as one people, remain Resilient in the face of adversity, and stand in Solidarity with one another We will overcome." Heng Swee Keat, Deputy Prime Minister, 26 May 2020"
         description: 
         button:
         url:
