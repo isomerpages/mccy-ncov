@@ -28,36 +28,36 @@ sections:
         button:
         url:
     - infopic:
-        title: Help Others
-        subtitle: Home and not sure how you can extend a helping hand?
-        description: Staying home during this time does not mean that we can't help each other and the community! If you want to share your Solidarity payout for a good cause, visit giving.sg/sgunited.
+        title: Share!
+        subtitle: Why not share with others what we have been blessed with?
+        description: 
         button: Find Out More!
         url: /stay-engaged/help-others/
         image: /images/Giving.jpg
         alt:   SEHelpOthers
     - infopic:
-        title: Get Help
-        subtitle: Wondering where you can go to get some help?
-        description: Need some help or even just needing someone to talk to during this time?
+        title: Encourage!
+        subtitle: Why not encourage each other as we get through this tough time?
+        description: 
         button: Find Out More!
         url: /stay-engaged/get-help/
         image: /images/gethelp.jpg
         alt: SEGetHelp
     - infopic:
-        title: Thrive
-        subtitle: Home and not sure what you can do?
-        description: Staying home during this time does not mean that we can't thrive!
+        title: Thank!
+        subtitle: Why not say 'Thank You' to those who have worked hard for us?
+        description: 
         button: Find Out How!
         url: /stay-engaged/thrive/
         image: /images/thrive.jpg
         alt: SEThrive
     - infopic:
-        title: Connect
-        subtitle: Wondering how you can keep up with others at home?
-        description:  Staying home during this time does not mean that we can't stay connected!
+        title: Inspire/Majulah!
+        subtitle: Why not fly the our National Flag as a show of solidarity?
+        description:  
         button: Find Out How!
         url: /stay-engaged/connect/
-        image: /images/connect.jpg
+        image: /images/Banner-4.jpg
         alt:   SEConnect
     - infopic:
         title: Online Platforms & Content
