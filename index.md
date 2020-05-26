@@ -16,7 +16,7 @@ sections:
               description: Keep Engaged at Home & Be Safe when Out
               url: "https://www.giving.sg/sgunited-volunteers" 
             - title: Stay Strong
-              description: Encourage Others & Seek Help
+              description: Stay Connected & Seek Help
               url: /community-efforts/
             - title: Stay United
               description: Volunteer, Donate, or Thank Our Community
