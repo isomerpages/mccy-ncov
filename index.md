@@ -23,7 +23,7 @@ sections:
               url: /stay-united/                           
     - infobar:
         title:
-        subtitle: "Moving forward with Fortitude, as we stay United as one people, remain Resilient in the face of adversity, and stand in Solidarity with one another We will overcome. - DPM Heng Swee Keat, 26 May 2020 "
+        subtitle: "Moving forward with Fortitude, as we stay United as one people, remain Resilient in the face of adversity, and stand in Solidarity with one another. We will overcome. - DPM Heng Swee Keat, 26 May 2020 "
         description: 
         button:
         url:
