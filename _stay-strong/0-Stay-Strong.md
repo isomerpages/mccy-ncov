@@ -1,6 +1,6 @@
 ---
 title: Stay Strong, Singapore
-permalink: /stay-strong/singapore
+permalink: /stay-strong/
 ---
 
 ### Stay Strong, Singapore
