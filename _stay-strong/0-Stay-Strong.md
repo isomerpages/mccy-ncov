@@ -5,7 +5,7 @@ permalink: /stay-strong/singapore
 
 ### Stay Strong, Singapore
 
-As we reach a critical point in the battle against COVID-19, it is important for us as Singaporeans to play our part in the fight. Each of us will need to take individual and collective precautions to help safeguard one another and save lives. As part of the ìcircuit breakerî measures put in place, all of us are strongly encouraged to stay at home; but this does not mean that we cannot stay active and engaged. 
+As we reach a critical point in the battle against COVID-19, it is important for us as Singaporeans to play our part in the fight. Each of us will need to take individual and collective precautions to help safeguard one another and save lives. As part of the ‚Äúcircuit breaker‚Äù measures put in place, all of us are strongly encouraged to stay at home; but this does not mean that we cannot stay active and engaged. 
 
 Below are some ways that you can remain connected to the community, help others and get help if you need. You can find more resources and links under each sub-section!
 
@@ -18,7 +18,7 @@ Singapore can pull through this only if we do it together! **#staystrongSG**
 |**We Go Digital**|Life doesn't have to go on hold when you can [Go Digital](https://www.imda.gov.sg/WeGoDigital)! Use the self-help resources to help you buy online, pay online and learn online!|
 |A List|[Enjoy arts and culture](https://www.a-list.sg) anytime, anywhere while our physical spaces take a brief interlude. #SGCultureAnywhere|
 |Art at Your Fingertips|Love art and can't go out? Find [the arts at your fingertips](https://www.straitstimes.com/lifestyle/arts/the-arts-at-your-fingertips) here!|
-|Box Office Fitness Circuit Breaker Challenge|Staying in doesnít mean you canít stay in shape! Why not try to complete this [month-long workout plan](https://www.instagram.com/tv/B-qlrT1nBUA/?utm_source=ig_web_copy_link) challenge that includes a mix of HIIT, strength, cardio and recovery exercises?|
+|Box Office Fitness Circuit Breaker Challenge|Staying in doesn‚Äôt mean you can‚Äôt stay in shape! Why not try to complete this [month-long workout plan](https://www.instagram.com/tv/B-qlrT1nBUA/?utm_source=ig_web_copy_link) challenge that includes a mix of HIIT, strength, cardio and recovery exercises?|
 
 [Find more resources](/stay-engaged/thrive)
 
