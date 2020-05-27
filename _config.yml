@@ -21,7 +21,7 @@ colors:
 collections:
   left-nav-one:
     output: true
-  stay-engaged:
+  stay-strong:
     output: true 
 resources_name: stories
 google_analytics: UA-158922520-1
