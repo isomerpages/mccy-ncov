@@ -30,7 +30,7 @@ sections:
     - infopic:
         title: Share!
         subtitle: Why not share with others what we have been blessed with?
-        description: Help with COVID-19-related causes like The Courage Fund orThe Invictus Fund
+        description: Help with COVID-19-related causes like The Courage Fund or The Invictus Fund
         button: Find Out More!
         url: /stay-engaged/help-others/
         image: /images/Giving.jpg
