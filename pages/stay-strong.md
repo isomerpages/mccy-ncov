@@ -1,4 +1,4 @@
 ---
 title: Stay Strong
-permalink: /stay-strong/
+permalink: /stay-strong-1/
 ---
