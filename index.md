@@ -9,7 +9,7 @@ sections:
         title: "Stay Strong, Singapore"
         subtitle: "Together we can overcome COVID-19, and emerge stronger!"
         background: /images/Banner-6.jpg
-        url: /stay-strong/singapore
+        url: /stay-strong/
         button: Stay Strong!
         key_highlights:
             - title: Stay Safe
@@ -17,7 +17,7 @@ sections:
               url: /stay-safe/
             - title: Stay Strong
               description: Stay Connected & Seek Help
-              url: /stay-strong/singapore
+              url: /stay-strong/
             - title: Stay United
               description: Volunteer, Donate, or Thank Our Community
               url: /stay-united/                           
