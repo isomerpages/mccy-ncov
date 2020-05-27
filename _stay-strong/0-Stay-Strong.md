@@ -1,5 +1,5 @@
 ---
-title: Stay Strong, Singapore
+title: "Stay Strong, Singapore"
 permalink: /stay-strong/
 ---
 
