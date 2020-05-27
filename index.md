@@ -59,14 +59,6 @@ sections:
         url: /stay-engaged/connect/
         image: /images/Banner-4.jpg
         alt:   Inspire
-    - infopic:
-        title: Online Platforms & Content
-        subtitle: 
-        description: Keep Up-to-Date on Community Initiatives, Opportunities and Content
-        button: Explore
-        url: /online-platforms-content/
-        image: /images/SUSMalt.png/
-        alt: Social Media
     - resources:
         title: Stories
         subtitle: How we stood and will stand by one another
