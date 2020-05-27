@@ -24,7 +24,7 @@ collections:
   stay-strong:
     output: true
   stay-engaged:
-    output: true
+    output: true 
 resources_name: stories
 google_analytics: UA-158922520-1
 google-tag-manager: GTM-PX7B6PZ
