@@ -21,8 +21,6 @@ colors:
 collections:
   left-nav-one:
     output: true
-  stay-strong:
-    output: true
   stay-engaged:
     output: true 
 resources_name: stories
