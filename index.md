@@ -7,9 +7,9 @@ notification: "ADVISORY: We have been notified of a scam going around, issuing f
 sections:
     - hero:
         title: "Stay Strong, Singapore"
-        subtitle: "Together we can overcome and emerge stronger"
+        subtitle: "Together we can overcome COVID-19, and emerge stronger!"
         background: /images/Banner-6.jpg
-        url: /stay-strong/
+        url: /stay-strong/singapore
         button: Stay Strong!
         key_highlights:
             - title: Stay Safe
@@ -17,7 +17,7 @@ sections:
               url: /stay-safe/
             - title: Stay Strong
               description: Stay Connected & Seek Help
-              url: /stay-strong/
+              url: /stay-strong/singapore
             - title: Stay United
               description: Volunteer, Donate, or Thank Our Community
               url: /stay-united/                           
