@@ -60,7 +60,7 @@ sections:
         image: /images/thank.jpg
         alt: Thanks
     - infopic:
-        title: Inspire/Majulah!
+        title: Majulah!
         subtitle: Why not fly the our National Flag as a show of solidarity?
         description:  Display out flag as one united people
         button: Find Out How!
