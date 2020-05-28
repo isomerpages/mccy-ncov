@@ -8,6 +8,8 @@ permalink: /stay-united/
 Pending link to SGU Digital Appreciation Board 
 
 ### Donate and Give  
+
+|---|:---|
 |Giving.SG|A central giving page has been set up on [Giving.SG](https://www.giving.sg/sgunited) to enable people and organisations to easily find and contribute to charities’ efforts to address the needs of communities affected by the COVID-19 outbreak. Additionally, if you wish to make a donation or donation-in-kind to support our migrant workers, visit [Giving.SG](https://www.giving.sg/search?q=migrant%20workers%20center) or [CityofGood.SG](https://cityofgood.sg/sgunited/) for the list of in-kind community needs you can contribute to.|
 |The Courage Fund|Help those in need by donating to [The Courage Fund](https://www.comchest.sg/TheCouragefund) or contributing via [Giving.sg](https://www.giving.sg/community-chest/thecouragefund).|
 |The Invictus Fund|Just as generous donations to The Courage Fund have provided relief to frontline workers and families affected by COVID-19, our social service agencies also need support to enable them to continue providing critical social services to vulnerable individuals, families and communities. To do this, the National Council of Social Service (NCSS) has set up [The Invictus Fund](https://www.giving.sg/community-chest/TheInvictusFund), to channel donations to social service agencies that deliver critical services to vulnerable groups in our community.|
@@ -19,6 +21,8 @@ Pending link to SGU Digital Appreciation Board
 |Self-care Packs for Our Healthcare Frontliners|Hush TeaBar started a project to provide self-care packs for our healthcare frontliners. Visit [Give.Asia](https://give.asia/campaign/sgunited#/) to find out how you can support this initiative and benefit more frontliners.|
 
 ### Volunteer, from Your Home!
+
+|---|:---|
 |Keep Our Seniors Safe At Home|The Silver Generation Office (SGO) is reaching out to seniors in need to support them during COVID-19. To help these seniors stay home and stay safe, SGO is calling for volunteers who can check in on their well-being regularly and to help them to buy essential items. [Volunteer now!](https://www.volunteer.sg/agency/opportunity/details?id=5e7fe522-477d-ea11-a9e4-b23905f5d176&load=yes)|
 |SG Assist|Be a COVID-19 Warrior today! Download the SG Assist app and find out how you can volunteer to help our seniors and vulnerable community during this time. Click on either link for your device type: [Apple Devices](https://apps.apple.com/sg/app/sgassist/id1486291146) or [Android Devices](https://play.google.com/store/apps/details?id=com.sgassist&hl=en_SG&fbclid=IwAR0OYG0Jen5-YZOCTL_wUYGNvi-C2gmZ_0F93FML-z_L_46FXQffDLz6hj0).|
 |Community Befriending Programme - Tele-befriending|The Community Befriending Programme (CBP) is a befriending programme for isolated elderly living by themselves in the community. The programme re-engages the elderly with community and links them to services which they may require. This aims to affirm the elderly's identity and increase their confidence through sharing and recounting of their experiences. In view of the COVID-19 situation, volunteers are required to help make phone calls remotely to [seniors](https://www.giving.sg/volunteer-event?event_activity_id=37342305) or [Malay-speaking seniors](https://www.giving.sg/volunteer-event?event_activity_id=35591564)|
@@ -34,6 +38,8 @@ Pending link to SGU Digital Appreciation Board
 
 
 ### Other Resources
+
+|---|:---|
 |Go Where|For a comprehensive list of go-to government websites to fight against COVID-19, visit [GoWhere](https://www.gowhere.gov.sg/).|
 |Masks For All SG|As a group of volunteers aiming to educate and support vulnerable groups such as the seniors, needy families & migrant workers, [MasksforallSG](https://www.facebook.com/MasksforallSG) is a Community-driven National Movement to empower all in Singapore to Make, Share and Wear a reusable mask. Why not check them out today?|
 |Masks Sewn With Love|Wondering how you can help the community during this time? Visit [Masks Sewn With Love](https://www.facebook.com/groups/MasksSewnWithLove/?ref=share), a community-based project to sew reusable cloth masks for those in need.|
