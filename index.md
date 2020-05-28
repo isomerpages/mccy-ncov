@@ -3,7 +3,7 @@ layout: homepage
 title: "SG United"
 description: Stay Strong, Singapore
 permalink: /
-notification: "ADVISORY: We have been notified of a scam going around, issuing fines to individuals for violating social distancing measures. The link to the website has SG United mentioned. Please help to spread the word that the SG United initiative does not issue any such fines. Thank you."
+notification:
 sections:
     - hero:
         title: "Stay Strong, Singapore"
