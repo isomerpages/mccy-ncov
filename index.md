@@ -44,12 +44,12 @@ sections:
         image: /images/gethelp.jpg
         alt: Encourage
     - infopic:
-        title: Thank!
-        subtitle: Why not say 'Thank You' to those who have worked hard for us?
-        description: Leave a note of thanks on SG United digital appreciation board  
-        button: Find Out How!
-        url: /stay-engaged/thrive/
-        image: /images/thrive.jpg
+        title: THANK YOU, SINGAPORE
+        subtitle: Share Your Words of Appreciation
+        description: Let’s say thank you to our everyday heroes who have come forward to help Singapore fight COVID-19, including our frontline staff, essential workers and fellow Singaporeans in our community.
+        button: SHARE YOUR APPRECIATION!
+        url: "https://sgunited-appreciation.gov.sg"
+        image: /images/thank.jpg
         alt: Thanks
     - infopic:
         title: Inspire/Majulah!
