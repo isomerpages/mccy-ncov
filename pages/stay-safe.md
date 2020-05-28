@@ -53,4 +53,5 @@ permalink: /stay-safe/
 |---|:---|
 |Safe Distance @ Parks|Visit [Safe Distance @ Parks](https://safedistparks.nparks.gov.sg) for more information on the visitorship of some of our major parks and green spaces.|
 |Space Out|Visit [Space Out](https://www.spaceout.gov.sg) for more information on which mores are less crowded during different times of the day, before heading out to buy essential goods and services.|
-Download TraceTogether to protect ourselves, loved ones and our community! [Link to SGU Download page] 
+|TraceTogether|Download the TraceTogether app to support nationwide efforts to reduce the spread of COVID-19. Let's work together as a nation to combat the situation! Click on either link for your device type: [Apple Devices](https://apps.apple.com/sg/app/tracetogether/id1498276074) or [Android Devices](https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace&hl=en)|
+
