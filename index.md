@@ -27,7 +27,7 @@ sections:
         description: 
         button:
         url:
-     - infopic:
+    - infopic:
         title: Stronger As One
         subtitle: Join Us on 1 Jun 2020, 7:30pm, on Mediacorp TV Channels, meWATCH, Social Media and Gov.SG Facebook
         description: There's still a long road even after transiting into Phase 1 post-circuit breaker. Hear stories of how we've grown stronger as one as we ride through this crisis together.
