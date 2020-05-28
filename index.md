@@ -44,7 +44,7 @@ sections:
         image: /images/gethelp.jpg
         alt: Encourage
     - infopic:
-        title: THANK YOU, SINGAPORE
+        title: Thank You, Singapore
         subtitle: Share Your Words of Appreciation
         description: Let’s say thank you to our everyday heroes who have come forward to help Singapore fight COVID-19, including our frontline staff, essential workers and fellow Singaporeans in our community.
         button: SHARE YOUR APPRECIATION!
