@@ -27,6 +27,14 @@ sections:
         description: 
         button:
         url:
+     - infopic:
+        title: Stronger As One
+        subtitle: Join Us on 1 Jun 2020, 7:30pm, on Mediacorp TV Channels, meWATCH, Social Media and Gov.SG Facebook
+        description: There's still a long road even after transiting into Phase 1 post-circuit breaker. Hear stories of how we've grown stronger as one as we ride through this crisis together.
+        button: 
+        url: 
+        image: /images/mediacorp1jun.jpg
+        alt: Share
     - infopic:
         title: Share!
         subtitle: Why not share with others what we have been blessed with?
@@ -38,9 +46,9 @@ sections:
     - infopic:
         title: Encourage!
         subtitle: Why not encourage each other as we get through this tough time?
-        description: Post a message or story on social media to encourage others to stay strong
-        button: Find Out More!
-        url: /stay-engaged/get-help/
+        description: As we enter into Phase 1 post Circuit Breaker, let us encourage our families, friends and communities to stay strong. Post a message or story on social media to encourage others!
+        button: Find Out How!
+        url: 
         image: /images/gethelp.jpg
         alt: Encourage
     - infopic:
@@ -56,7 +64,7 @@ sections:
         subtitle: Why not fly the our National Flag as a show of solidarity?
         description:  Display out flag as one united people
         button: Find Out How!
-        url: /stay-engaged/connect/
+        url: "https://www.nhb.gov.sg/what-we-do/our-work/community-engagement/education/resources/national-symbols/national-flag"
         image: /images/Banner-4.jpg
         alt:   Inspire
     - resources:
