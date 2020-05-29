@@ -1,6 +1,6 @@
 ---
 title: Stay United
-permalink: /stay-united/
+permalink: /stay-united-1/
 ---
 
 ### THANK OUR COMMUNITY 
