@@ -7,7 +7,7 @@ permalink: /stay-strong/
 
 Circuit Breaker was challenging, but we worked hard together to bring community transmission down. Singaporeans must continue to Stay Strong by taking care of our personal well-being, as well as support the well-being of those around us. Together, we can get through these unprecedented times, and emerge an stronger and more caring community. 
 
-Below are some ways that you can connect with others and get help. You can find more resources and links under the Support Resources tab.!
+Below are some ways that you can connect with others and get help. You can find more resources and links under the Support Resources tab!
 
 
 #### Mental Wellness and Socio-Emotional Support 
