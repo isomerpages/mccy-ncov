@@ -49,7 +49,7 @@ sections:
         description: As we enter into Phase 1 post Circuit Breaker, let us encourage our families, friends and communities to stay strong. Post a message or story on social media to encourage others!
         button: Find Out More (Coming Soon!)
         url: 
-        image: /images/gethelp.jpg
+        image: /images/encourage.jpg
         alt: Encourage
     - infopic:
         title: Thank!
