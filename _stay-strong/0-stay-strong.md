@@ -12,6 +12,8 @@ Below are some ways that you can connect with others and get help. You can find 
 Singapore can pull through this only if we do it together!
 
 #### Mental Wellness and Socio-Emotional Support 
+
+|---|:---|
 |National Care Hotline|Call the National Care Hotline (**6202-6868**) for emotional support - be it stress over finances or marital and family tensions. Trained officers will be able to link you up with social service agencies and specialised services if needed.|
 |Helplines|[Call these helplines](https://go.gov.sg/helplines) if you need emotional or psychological support, don’t hesitate to reach out if you are feeling weighed down by issues.|
 |#CopingwithCOVID19|A [Self-Care Series](https://www.cgh.com.sg/centres-services/tracs/Pages/Coping%20With%20COVID-19.aspx) developed by Changi General Hospital has resources to provide individuals with resilience building activities and strategies that can be practiced during this difficult period. Stay strong, Stay well!|
@@ -23,6 +25,8 @@ Singapore can pull through this only if we do it together!
 |Digital Peace Kit|Roses for Peace share with us a [Digital Peace Kit](https://www.facebook.com/RosesOfPeace/posts/2329345003835612) on ways to find, seek and spread peace while we stay home during this period.|
 
 #### Game for a Challenge?
+
+|---|:---|
 |#Startwith60 Challenge|Are you ready to challenge yourself? Team up with Active Health and level up in the [60-second daily challenge](https://campaign.activehealth.sg/startwith60?utm_campaign=circuit-breaker&utm_source=sgunited-connect&utm_medium=textlink). Get ready to play and feel better than ever before!|
 
 
