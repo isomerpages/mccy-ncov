@@ -8,6 +8,8 @@ permalink: /stay-strong/support-resources
 Even as we continue to stay strong during this time, it does not mean that we can't get help when in need! Here is a list of some resources that you can use during this time.
 
 #### COVID-Related Support
+
+|---|:---|
 |COVID-19 Support Grant|Application details for the [COVID-19 Support Grant](https://www.singaporebudget.gov.sg/docs/default-source/budget_2020/download/pdf/supplementary_annexb2.pdf) to support individuals who have lost their jobs as a result of the COVID-19 outbreak. The scheme will be open for application from May 2020 to Sep 2020.|
 |Temporary Relief Fund|Apply for the Temporary Relief Fund [online](https://form.gov.sg/#!/5e85469de009ee0011e262b9) or in-person at your [nearest Community Centre](https://www.facebook.com/PAFrenz/videos/532405494344492/?vh=e).|
 |Flu Go Where|Need to visit the doctor? Find a Public Health Preparedness Clinic near you at [FluGoWhere](https://www.flugowhere.gov.sg).|
@@ -15,6 +17,8 @@ Even as we continue to stay strong during this time, it does not mean that we ca
 |Singapore COVID-19 Symptom Checker|Use the [Singapore COVID-19 Symptom Checker](https://www.sgcovidcheck.com) to decide what your next steps should be, based on the symptoms you are experiencing.|
 
 #### Upskill and Upgrade Yourself
+
+|---|:---|
 |Career Guidance & Advice|[Register your contact details](https://go.gov.sg/sgunited-ccform) to receive job search tips, career advice or connect with officers from WSG’s Careers Connect to start your career journey.|
 |SGUnited Jobs Virtual Career Fair|A series of [virtual career fairs](https://vcf.mycareersfuture.sg/vcf?utm_source=mccy&utm_medium=digital&utm_campaign=sgunited) featuring a variety of curated jobs with immediate vacancies. Ideal for those who are looking for work quickly.|
 |MyCareersFuture.sg|Look for potential jobs on [MyCareersFuture.sg](https://www.mycareersfuture.sg/?utm_source=mccy&utm_medium=digital&utm_campaign=sgunited) if you are looking for something long term. Also includes SGUnited Jobs listings in addition to the positions available in the curated SGUnited Jobs Virtual Career Fair.|
@@ -26,6 +30,8 @@ Even as we continue to stay strong during this time, it does not mean that we ca
 |Social Service Office|Find a [Social Service Office (SSO)](https://www.msf.gov.sg/dfcs/sso/default.aspx) near you.|
 
 #### Others
+
+|---|:---|
 |CDAC|Visit [CDAC](https://www.cdac.org.sg/get-assistance/)’s webpage to find out more about the various assistance schemes.|
 |Eurasian Association|Visit [Eurasian Association](http://www.eurasians.org.sg/family-support/)’s Family Support Service webpage to find out more.|
 |MENDAKI|Visit [MENDAKI](http://www.mendaki.org.sg/assistance-landing/) and [M3](https://www.m3.sg/) webpage to find out more about the various assistance schemes.|
