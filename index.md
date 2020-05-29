@@ -30,7 +30,7 @@ sections:
     - infopic:
         title: Stronger As One
         subtitle: Join Us on 1 Jun 2020, 7:30pm, on Mediacorp TV Channels, meWATCH, Social Media and Gov.SG Facebook
-        description: There's still a long road even after transiting into Phase 1 post-circuit breaker. Hear stories of how we've grown stronger as one as we ride through this crisis together.
+        description: There's still a long road even after transiting into Phase 1 post-circuit breaker. Hear stories of how we've grown stronger as one as we ride through this crisis together. Sing along with Joanna Dong and the Singapore Symphony Choruses as they perform 'We Will Get There'.
         button: 
         url: 
         image: /images/mediacorp1jun.jpg
@@ -40,7 +40,7 @@ sections:
         subtitle: Why not share with others what we have been blessed with?
         description: Help with COVID-19-related causes like The Courage Fund or The Invictus Fund
         button: Find Out More!
-        url: /stay-engaged/help-others/
+        url: "https://www.giving.sg/community-chest/TheInvictusFund"
         image: /images/Giving.jpg
         alt: Share
     - infopic:
