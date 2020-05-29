@@ -3,7 +3,7 @@ title: Start An Initiative
 permalink: /stay-united/initiatives
 ---
 
-### Start Your Own Initiative
+### Start Your Own Initiative 
 Have an idea for a community initiative? Share it with us, **[through this form](https://go.gov.sg/sgunitedform)** and we will be in touch with you soon to find out more. 
 
 If you are looking for resources for your initiative, do consider applying for the following funds: 
