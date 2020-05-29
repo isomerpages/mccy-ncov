@@ -61,7 +61,7 @@ sections:
         alt: Thanks
     - infopic:
         title: Inspire!
-        subtitle: Why not fly our our National Flag as a show of solidarity?
+        subtitle: Why not fly our National Flag as a show of solidarity?
         description:  Display our flag as one united people
         button: Find Out How!
         url: "https://www.nhb.gov.sg/what-we-do/our-work/community-engagement/education/resources/national-symbols/national-flag"
