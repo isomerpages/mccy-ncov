@@ -19,7 +19,7 @@ colors:
       color: '#e61a3a'
 
 collections:
-  left-nav-one:
+  stay-united:
     output: true
   stay-strong:
     output: true
