@@ -7,9 +7,8 @@ permalink: /stay-strong/
 
 We have just passed a critical point in the battle against COVID-19, with each of us playing our part in the fight. We will need to continue taking individual and collective precautions to help safeguard one another and save lives. Even as the Circuit Breaker period has passed, all of us are strongly encouraged to stay at home; but this does not mean that we cannot stay active and engaged. 
 
-Below are some ways that you can connect with others and get help. You can find more resources and links under each sub-section!
+Below are some ways that you can connect with others and get help. You can find more resources and links under the Support Resources tab.!
 
-Singapore can pull through this only if we do it together!
 
 #### Mental Wellness and Socio-Emotional Support 
 
