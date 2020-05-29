@@ -53,8 +53,8 @@ sections:
         alt: Encourage
     - infopic:
         title: Thank!
-        subtitle: Share Your Words of Appreciation! (Coming Soon!)
-        description: 
+        subtitle: 
+        description: Share Your Words of Appreciation! (Coming Soon!)
         button: 
         url: "https://sgunited-appreciation.gov.sg"
         image: /images/thank.jpg
