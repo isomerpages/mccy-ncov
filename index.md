@@ -38,31 +38,31 @@ sections:
     - infopic:
         title: Share!
         subtitle: Why not share with others what we have been blessed with?
-        description: Help with COVID-19-related causes like The Courage Fund or The Invictus Fund
+        description: Help with COVID-19-related causes like The Courage Fund today.
         button: Find Out More!
-        url: "https://www.giving.sg/community-chest/TheInvictusFund"
+        url: "https://www.giving.sg/community-chest/thecouragefund"
         image: /images/Giving.jpg
         alt: Share
     - infopic:
         title: Encourage!
         subtitle: Why not encourage each other as we get through this tough time?
         description: As we enter into Phase 1 post Circuit Breaker, let us encourage our families, friends and communities to stay strong. Post a message or story on social media to encourage others!
-        button: Find Out How!
+        button: Find Out More (Coming Soon!)
         url: 
         image: /images/gethelp.jpg
         alt: Encourage
     - infopic:
-        title: Thank You, Singapore
-        subtitle: Share Your Words of Appreciation
-        description: Let’s say thank you to our everyday heroes who have come forward to help Singapore fight COVID-19, including our frontline staff, essential workers and fellow Singaporeans in our community.
-        button: SHARE YOUR APPRECIATION!
+        title: Thank!
+        subtitle: Share Your Words of Appreciation! (Coming Soon!)
+        description: 
+        button: 
         url: "https://sgunited-appreciation.gov.sg"
         image: /images/thank.jpg
         alt: Thanks
     - infopic:
-        title: Majulah!
-        subtitle: Why not fly the our National Flag as a show of solidarity?
-        description:  Display out flag as one united people
+        title: Inspire!
+        subtitle: Why not fly our our National Flag as a show of solidarity?
+        description:  Display our flag as one united people
         button: Find Out How!
         url: "https://www.nhb.gov.sg/what-we-do/our-work/community-engagement/education/resources/national-symbols/national-flag"
         image: /images/Banner-4.jpg
