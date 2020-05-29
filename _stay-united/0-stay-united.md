@@ -5,7 +5,7 @@ permalink: /stay-united/
 
 ### THANK OUR COMMUNITY
 
-Let’s say ['Thank you' to our everyday heroes](https://sgunited-appreciation.gov.sg) who have come forward to help Singapore fight COVID-19, including our frontline staff, essential workers and fellow Singaporeans in our community.
+Let’s say 'Thank you' to our everyday heroes who have come forward to help Singapore fight COVID-19, including our frontline staff, essential workers and fellow Singaporeans in our community. **(Coming soon!)**
 
 ### Donate and Give  
 
