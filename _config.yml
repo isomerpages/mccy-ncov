@@ -19,15 +19,12 @@ colors:
       color: '#e61a3a'
 
 collections:
-  left-nav-one:
+  stay-united:
     output: true
-  left-nav-two:
-    output: true
-  stay-engaged:
+  stay-strong:
     output: true
 resources_name: stories
 google_analytics: UA-158922520-1
-google-tag-manager: GTM-PX7B6PZ
 shareicon: /images/sgunitedshare.jpg
 
 ##################################################################################################################

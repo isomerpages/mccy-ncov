@@ -14,7 +14,7 @@ locations:
         time: 8.30am - 6.00pm
         description: Closed on Public Holidays
 contacts:
-  - title: General Enquiries & Feedback
+  - title: General Enquiries, Offers & Requests
     content:
     - email: sgunited@mccy.gov.sg
 ---

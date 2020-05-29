@@ -1,75 +1,72 @@
 ---
 layout: homepage
 title: "SG United"
-description: Stay at home for Singapore, together!
+description: Stay Strong, Singapore
 permalink: /
-notification: "ADVISORY: We have been notified of a scam going around, issuing fines to individuals for violating social distancing measures. The link to the website has SG United mentioned. Please help to spread the word that the SG United initiative does not issue any such fines. Thank you."
+notification:
 sections:
     - hero:
-        title: "Stay home for Singapore, together!"
-        subtitle: "Find out how we can stay engaged while being at home"
-        background: /images/Banner-3.jpg
-        url: /stay-engaged/
-        button: Stay Engaged!
+        title: "Stay Strong, Singapore"
+        subtitle: "Together we can overcome COVID-19, and emerge stronger"
+        background: /images/Banner-6.jpg
+        url: /stay-strong/
+        button: Stay Strong!
         key_highlights:
-            - title: Volunteer
-              description: to help
-              url: "https://www.giving.sg/sgunited-volunteers" 
-            - title: Support
-              description: on-going community initiatives 
-              url: /community-efforts/
-            - title: Donate
-              description: to support the vulnerable
-              url: /donate/                           
-            - title: Stay Engaged
-              description: thrive, connect, help, get help
-              url: /stay-engaged/
+            - title: Stay Safe
+              description: Keep Engaged at Home & Be Safe when Out
+              url: /stay-safe/
+            - title: Stay Strong
+              description: Stay Connected & Seek Help
+              url: /stay-strong/
+            - title: Stay United
+              description: Volunteer, Donate, or Thank Our Community
+              url: /stay-united/                           
     - infobar:
         title:
-        subtitle: "“The worst of times can bring out the best in our people. How we respond to it, how our nation comes together, will show much about our values as a people, and the principles we hold dear…. These four weeks of circuit breaking will feel unusual and unnatural. The challenge is to help ourselves and others stay home and do so purposefully and positively.” - DPM Heng Swee Keat, Solidarity Budget Speech, 7 Apr 2020"
+        subtitle: "Moving forward with Fortitude, as we stay United as one people, remain Resilient in the face of adversity, and stand in Solidarity with one another. We will overcome. - DPM Heng Swee Keat, 26 May 2020 "
         description: 
         button:
         url:
     - infopic:
-        title: Help Others
-        subtitle: Home and not sure how you can extend a helping hand?
-        description: Staying home during this time does not mean that we can't help each other and the community! If you want to share your Solidarity payout for a good cause, visit giving.sg/sgunited.
+        title: Stronger As One
+        subtitle: Join Us on 1 Jun 2020, 7:30pm, on Mediacorp TV Channels, meWATCH, Social Media and Gov.SG Facebook
+        description: There's still a long road even after transiting into Phase 1 post-circuit breaker. Hear stories of how we've grown stronger as one as we ride through this crisis together. Sing along with Joanna Dong and the Singapore Symphony Choruses as they perform 'We Will Get There'.
+        button: 
+        url: 
+        image: /images/mediacorp1jun.jpg
+        alt: Share
+    - infopic:
+        title: Share!
+        subtitle: Why not share with others what we have been blessed with?
+        description: Help with COVID-19-related causes like The Courage Fund today.
         button: Find Out More!
-        url: /stay-engaged/help-others/
+        url: "https://www.giving.sg/community-chest/thecouragefund"
         image: /images/Giving.jpg
-        alt:   SEHelpOthers
+        alt: Share
     - infopic:
-        title: Get Help
-        subtitle: Wondering where you can go to get some help?
-        description: Need some help or even just needing someone to talk to during this time?
-        button: Find Out More!
-        url: /stay-engaged/get-help/
-        image: /images/gethelp.jpg
-        alt: SEGetHelp
+        title: Encourage!
+        subtitle: Why not encourage each other as we get through this tough time?
+        description: As we enter into Phase 1 post Circuit Breaker, let us encourage our families, friends and communities to stay strong. Post a message or story on social media to encourage others!
+        button: Find Out More (Coming Soon!)
+        url: 
+        image: /images/encourage.jpg
+        alt: Encourage
     - infopic:
-        title: Thrive
-        subtitle: Home and not sure what you can do?
-        description: Staying home during this time does not mean that we can't thrive!
-        button: Find Out How!
-        url: /stay-engaged/thrive/
-        image: /images/thrive.jpg
-        alt: SEThrive
-    - infopic:
-        title: Connect
-        subtitle: Wondering how you can keep up with others at home?
-        description:  Staying home during this time does not mean that we can't stay connected!
-        button: Find Out How!
-        url: /stay-engaged/connect/
-        image: /images/connect.jpg
-        alt:   SEConnect
-    - infopic:
-        title: Online Platforms & Content
+        title: Thank!
         subtitle: 
-        description: Keep Up-to-Date on Community Initiatives, Opportunities and Content
-        button: Explore
-        url: /online-platforms-content/
-        image: /images/SUSMalt.png/
-        alt: Social Media
+        description: Share Your Words of Appreciation! (Coming Soon!)
+        button: 
+        url: "https://sgunited-appreciation.gov.sg"
+        image: /images/thank.jpg
+        alt: Thanks
+    - infopic:
+        title: Inspire!
+        subtitle: Why not fly our National Flag to show solidarity?
+        description:  Display our flag as one united people
+        button: Find Out More!
+        url: "https://www.nhb.gov.sg/what-we-do/our-work/community-engagement/education/resources/national-symbols/national-flag"
+        image: /images/Banner-4.jpg
+        alt:   Inspire
     - resources:
         title: Stories
         subtitle: How we stood and will stand by one another
