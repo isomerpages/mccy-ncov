@@ -15,8 +15,8 @@ Consider donating to the following funds to support a meaningful cause:
 
 If you would like **support our Migrant Workers**, you may wish to consider:
 
--- **[Donating](https://www.giving.sg/search?q=migrant%20workers%20center)** to charities fundraising to help migrant workers: or
--- **[Offer](https://cityofgood.sg/sgunited)** in-kind items to migrant workers.
+  - **[Donating](https://www.giving.sg/search?q=migrant%20workers%20center)** to charities fundraising to help migrant workers: or
+  - **[Offer](https://cityofgood.sg/sgunited)** in-kind items to migrant workers.
 
 **[Giving.SG](https://www.giving.sg/sgunited)** has also set up a central giving page to enable people and organisations to easily find and contribute to charities’ efforts to address the needs of communities affected by the COVID-19 outbreak.
 
