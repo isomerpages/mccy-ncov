@@ -5,7 +5,7 @@ permalink: /stay-strong/
 
 ### Stay Strong, Singapore
 
-We have just passed a critical point in the battle against COVID-19, with each of us playing our part in the fight. We will need to continue taking individual and collective precautions to help safeguard one another and save lives. Even as the Circuit Breaker period has passed, all of us are strongly encouraged to stay at home; but this does not mean that we cannot stay active and engaged. 
+Circuit Breaker was challenging, but we worked hard together to bring community transmission down. Singaporeans must continue to Stay Strong by taking care of our personal well-being, as well as support the well-being of those around us. Together, we can get through these unprecedented times, and emerge an stronger and more caring community. 
 
 Below are some ways that you can connect with others and get help. You can find more resources and links under the Support Resources tab.!
 
