@@ -3,20 +3,20 @@ title: Donate
 permalink: /donate/
 ---
 
-### Interested to Support Our Migrant Workers?
-You can consider doing the following:
-
-* **[Donate](https://www.giving.sg/search?q=migrant%20workers%20center)** to charities fundraising to help migrant workers. 
-* **[Offer](https://cityofgood.sg/sgunited)** in-kind items to migrant workers.
-
-### To Help those Affected by COVID-19 
-You can consider donating to the following funds:
+### Help those Affected by COVID-19 
+Consider donating to the following funds to support a meaningful cause:
 
 [![The Courage Fund](/images/TCF.jpeg)](https://www.giving.sg/community-chest/thecouragefund)
 - **[The Courage Fund](https://www.giving.sg/community-chest/thecouragefund)** was first established in 2003 when Singapore was hit by the SARS outbreak. Fellow Singaporeans donated generously to the Fund to support those who were affected by the outbreak. In this same spirit of uniting the community to support one another through difficult times, Community Chest is rallying the community to provide relief and support to those affected by the current COVID-19 situation
 
-[![The Sayang Sayang Fund](/images/TSSF.jpeg)](https://www.giving.sg/community-foundation-of-singapore/sayang_sayang_fund)
 - **[The Sayang Sayang Fund](https://www.giving.sg/community-foundation-of-singapore/sayang_sayang_fund)** has supported staff in public healthcare institutions and other healthcare professionals, like home care nurses. The Fund now aims to support the urgent and critical needs of the vulnerable communities, such as low-income families and seniors, who have been adversely hit by the COVID-19 outbreak.  Your generous contribution will mean a lot to them!
+
+-**[The Invictus Fund](https://www.giving.sg/community-chest/TheInvictusFund)** - Support social agencies to continue to deliver critical services to the vulnerable individuals, families and communities during COVID-19. With your support, the social service agencies can maintain their operations, adopt technology and other business continuity initiatives to continue serving our community, and emerge stronger during this period.
+
+If you would like **support our Migrant Workers**, you may wish to consider:
+
+* **[Donating](https://www.giving.sg/search?q=migrant%20workers%20center)** to charities fundraising to help migrant workers: or
+* **[Offer](https://cityofgood.sg/sgunited)** in-kind items to migrant workers.
 
 **[Giving.SG](https://www.giving.sg/sgunited)** has also set up a central giving page to enable people and organisations to easily find and contribute to charities’ efforts to address the needs of communities affected by the COVID-19 outbreak.
 
