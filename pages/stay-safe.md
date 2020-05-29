@@ -3,12 +3,14 @@ title: Stay Safe
 permalink: /stay-safe/
 ---
 
+![[Phase 1](/images/p1.jpg)](https://www.moh.gov.sg/covid-19/resources)
+
 ### KEEP ENGAGED AT HOME 
 
 |---|:---|
 |**Active and Healthy Lifestyle**|[Visit](https://circle.myactivesg.com/circuit-breaker) to explore more activities and resources for you and your loved ones!|
 |**Family-friendly Activities**|[Visit](https://www.familiesforlife.sg/unite-at-an-event/Pages/FFL-ShareTheCare.aspx) to explore more activities and resources for you and your loved ones!|
-|We Go Digital|Life doesn't have to go on hold when you can [Go Digital](https://www.imda.gov.sg/WeGoDigital)! Use the self-help resources to help you buy online, pay online and learn online!|
+|**We Go Digital**|Life doesn't have to go on hold when you can [Go Digital](https://www.imda.gov.sg/WeGoDigital)! Use the self-help resources to help you buy online, pay online and learn online!|
 
 #### Stay Young and Active!
 
