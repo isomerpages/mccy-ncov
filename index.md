@@ -46,17 +46,17 @@ sections:
     - infopic:
         title: Encourage!
         subtitle: Why not encourage each other as we get through this tough time?
-        description: As we enter into Phase 1 post Circuit Breaker, let us encourage our families, friends and communities to stay strong. Post a message or story on social media to encourage others!
-        button: Find Out More (Coming Soon!)
-        url: 
-        image: /images/encourage.jpg
+        description: We're facing unprecedented times. Yet, it is times like this that the human spirit thrives. Join us by sharing stories and moments to encourage others through Happiness Initiative's campaign.
+        button: Find Out More!
+        url: "https://happinessinitiative.sg/stay-strong-sg/"
+        image: /images/HI.png
         alt: Encourage
     - infopic:
         title: Thank!
-        subtitle: 
-        description: Share Your Words of Appreciation! (Coming Soon!)
-        button: 
-        url: "https://sgunited-appreciation.gov.sg"
+        subtitle: Share Your Words of Appreciation! (Coming Soon!)
+        description: Why not check this out in the meantime?
+        button: Find Out More!
+        url: "https://healthcareheroes.sg/"
         image: /images/thank.jpg
         alt: Thanks
     - infopic:
