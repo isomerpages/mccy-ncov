@@ -47,9 +47,9 @@ sections:
         title: Encourage!
         subtitle: Why not encourage each other as we get through this tough time?
         description: As we enter into Phase 1 post Circuit Breaker, let us encourage our families, friends and communities to stay strong. Post a message or story on social media to encourage others!
-        button: Find Out More (Coming Soon!)
-        url: 
-        image: /images/encourage.jpg
+        button: Find Out More!
+        url: "https://happinessinitiative.sg/stay-strong-sg/"
+        image: /images/HI.jpg
         alt: Encourage
     - infopic:
         title: Thank!
