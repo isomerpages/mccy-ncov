@@ -55,7 +55,7 @@ sections:
         title: Thank!
         subtitle: Share Your Words of Appreciation! (Coming Soon!)
         description: Why not check this out in the meantime?
-        button: 
+        button: Find Out More!
         url: "https://healthcareheroes.sg/"
         image: /images/thank.jpg
         alt: Thanks
