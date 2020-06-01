@@ -53,10 +53,10 @@ sections:
         alt: Encourage
     - infopic:
         title: Thank!
-        subtitle: Share Your Words of Appreciation! (Coming Soon!)
-        description: Why not check this out in the meantime?
-        button: Find Out More!
-        url: "https://healthcareheroes.sg/"
+        subtitle: Share Your Words of Appreciation!
+        description: Let’s say thank you to our everyday heroes who have come forward to help Singapore fight COVID-19, including our frontline staff, essential workers and fellow Singaporeans in our community.
+        button: SHARE YOUR APPRECIATION!
+        url: "https://www.sgunited-appreciate.gov.sg"
         image: /images/thank.jpg
         alt: Thanks
     - infopic:
