@@ -28,14 +28,6 @@ sections:
         button:
         url:
     - infopic:
-        title: Stronger As One
-        subtitle: Join Us on 1 Jun 2020, 7:30pm, on Mediacorp TV Channels, meWATCH, Social Media and Gov.SG Facebook
-        description: There's still a long road even after transiting into Phase 1 post-circuit breaker. Hear stories of how we've grown stronger as one as we ride through this crisis together. Sing along with Joanna Dong and the Singapore Symphony Choruses as they perform 'We Will Get There'.
-        button: Watch it with us!
-        url: "https://facebook.com/events/s/stronger-as-one/259686918716986/?ti=icl"
-        image: /images/mediacorp1jun.jpg
-        alt: Share
-    - infopic:
         title: Share!
         subtitle: Why not share with others what we have been blessed with?
         description: Help with COVID-19-related causes like The Courage Fund today.
