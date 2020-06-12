@@ -9,6 +9,8 @@ Circuit Breaker was challenging, but we worked hard together to bring community 
 
 Below are some ways that you can connect with others and get help. You can find more resources and links under the Support Resources tab!
 
+|---|:---|
+|**Talk Of The Town**|COVID-19 is a health and economic crisis that has greatly impacted our lives and livelihoods. The road to recovery will be long and difficult. We will need to make sacrifices, adapt and seize opportunities—to emerge stronger together. There are **[Government schemes and support measures](https://www.gov.sg/features/talk-of-the-town)** to help ease the load as we deal with the challenges arising from this crisis and prepare for the future.|
 
 #### Mental Wellness and Socio-Emotional Support 
 
