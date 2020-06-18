@@ -27,7 +27,7 @@ sections:
         description: 
         button:
         url:
-     - infopic:
+    - infopic:
         title: Gardening with Edibles!
         subtitle: Growing Our City in Nature
         description: Join us in our journey to transform Singapore into a City in Nature and support the ’30 by 30’ goal. Sign up to receive a seed pack to grow edibles and nurture a love for gardening today!
