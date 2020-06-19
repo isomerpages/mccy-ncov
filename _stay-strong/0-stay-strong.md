@@ -31,6 +31,6 @@ Below are some ways that you can connect with others and get help. You can find 
 
 |---|:---|
 |#Startwith60 Challenge|Are you ready to challenge yourself? Team up with Active Health and level up in the [60-second daily challenge](https://campaign.activehealth.sg/startwith60?utm_campaign=circuit-breaker&utm_source=sgunited-connect&utm_medium=textlink). Get ready to play and feel better than ever before!|
-
+|Grow a Seed|Join us in our journey to transform Singapore into a City in Nature and support the ’30 by 30’ goal. [Sign up to receive a seed pack](https://go.gov.sg/seed-pack-registration) to grow edibles and nurture a love for gardening today!|
 
 
