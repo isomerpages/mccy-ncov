@@ -5,7 +5,13 @@ permalink: /stay-safe/
 
 [![Phase 1](/images/p1.jpg/)](https://www.moh.gov.sg/covid-19/resources)
 
-### KEEP ENGAGED AT HOME 
+### Public Services
+
+|---|:---|
+|**Contact-free Temperature Self-check Kiosks**|The Ministry of Culture, Community and Youth (MCCY), the Land Transport Authority (LTA), and the Defence Science and Technology Agency (DSTA), supported Public Transport Operators – SBS Transit Ltd, SMRT Corporation Ltd, Tower Transit Singapore and Go-Ahead Singapore to deploy contact-free temperature
+self-check kiosks at 70 public transport locations island-wide by 3Q 2020, for a period of one year. This SG United initiative encourages the public to Stay Safe - through vigilant monitoring of their health and regular temperature-taking. Attached are the [Media Release](/media/Media Release on Temperature Kiosks - 24062020.pdf/) and link to the [Public Feedback Form](https://go.gov.sg/tempselfcheck).|
+
+#### KEEP ENGAGED AT HOME 
 
 |---|:---|
 |**Active and Healthy Lifestyle**|[Visit](https://circle.myactivesg.com/circuit-breaker) to explore more activities and resources for you and your loved ones!|
