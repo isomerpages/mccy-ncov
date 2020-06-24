@@ -8,7 +8,7 @@ permalink: /stay-safe/
 ### Public Services
 
 |---|:---|
-|**Contact-free Temperature Self-check Kiosks**|The Ministry of Culture, Community and Youth (MCCY), the Land Transport Authority (LTA), and the Defence Science and Technology Agency (DSTA), supported Public Transport Operators – SBS Transit Ltd, SMRT Corporation Ltd, Tower Transit Singapore and Go-Ahead Singapore to deploy contact-free temperature self-check kiosks at 70 public transport locations island-wide by 3Q 2020, for a period of one year. This SG United initiative encourages the public to Stay Safe - through vigilant monitoring of their health and regular temperature-taking. Attached are the [Media Release](/media/Media-Release-on-Temperature-Kiosks-24062020.pdf) and link to the [Public Feedback Form](https://go.gov.sg/tempselfcheck).|
+|**Contact–Free Temperature Self-Check Kiosks Deployed at Public Transport Locations Islandwide**|As part of SG United - MCCY, the Land Transport Authority (LTA), and the Defence Science and Technology Agency (DSTA) supported Public Transport Operators to deploy contact-free temperature self-check kiosks at public transport locations island-wide. Attached are the [Media Release](/media/Temperature-Self-check-Kiosk-Media-Release-24062020.pdf), a list of [Frequently Asked Questions(FAQs)](/media/Annex-FAQs-on-Contact-Free-Temperature-Self-check Kiosks-24062020.pdf) and link to the [Public Feedback Form](https://go.gov.sg/tempselfcheck).|
 
 #### Keep Engaged at Home 
 
