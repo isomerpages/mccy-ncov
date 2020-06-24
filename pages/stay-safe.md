@@ -3,14 +3,19 @@ title: Stay Safe
 permalink: /stay-safe/
 ---
 
-[![Phase 1](/images/p1.jpg/)](https://www.moh.gov.sg/covid-19/resources)
+[![Phase 2-3](/images/Phase2-3.jpg/)](https://www.moh.gov.sg/covid-19/resources)
 
-### KEEP ENGAGED AT HOME 
+### Public Services
 
 |---|:---|
-|**Active and Healthy Lifestyle**|[Visit](https://circle.myactivesg.com/circuit-breaker) to explore more activities and resources for you and your loved ones!|
-|**Family-friendly Activities**|[Visit](https://www.familiesforlife.sg/unite-at-an-event/Pages/FFL-ShareTheCare.aspx) to explore more activities and resources for you and your loved ones!|
-|**We Go Digital**|Life doesn't have to go on hold when you can [Go Digital](https://www.imda.gov.sg/WeGoDigital)! Use the self-help resources to help you buy online, pay online and learn online!|
+|**Contact–Free Temperature Self-Check Kiosks Deployed at Public Transport Locations Islandwide**|As part of SG United - MCCY, the Land Transport Authority (LTA), and the Defence Science and Technology Agency (DSTA) supported Public Transport Operators to deploy contact-free temperature self-check kiosks at public transport locations island-wide. Attached are the [Media Release](/media/Temperature-Self-check-Kiosk-Media-Release-24062020.pdf), a list of [Frequently Asked Questions(FAQs)](/media/Annex-FAQs-on-Contact-Free-Temperature-Self-check-Kiosks-24062020.pdf) and link to the [Public Feedback Form](https://go.gov.sg/tempselfcheck).|
+
+#### Keep Engaged at Home 
+
+|---|:---|
+|Active and Healthy Lifestyle|[Visit](https://circle.myactivesg.com/circuit-breaker) to explore more activities and resources for you and your loved ones!|
+|Family-friendly Activities|[Visit](https://www.familiesforlife.sg/unite-at-an-event/Pages/FFL-ShareTheCare.aspx) to explore more activities and resources for you and your loved ones!|
+|We Go Digital|Life doesn't have to go on hold when you can [Go Digital](https://www.imda.gov.sg/WeGoDigital)! Use the self-help resources to help you buy online, pay online and learn online!|
 
 #### Stay Young and Active!
 
