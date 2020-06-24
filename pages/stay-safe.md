@@ -3,7 +3,7 @@ title: Stay Safe
 permalink: /stay-safe/
 ---
 
-[![Phase 1](/images/p1.jpg/)](https://www.moh.gov.sg/covid-19/resources)
+[![Phase 2-3](/images/Phase2-3.jpg/)](https://www.moh.gov.sg/covid-19/resources)
 
 ### Public Services
 
