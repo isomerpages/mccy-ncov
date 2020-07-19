@@ -33,7 +33,7 @@ sections:
         description: Take a leap of faith, commit to a pledge and contribute to a shared future. You can make the difference!
         button: Find Out More!
         url: "https://pledge.life.gov.sg"
-        image: /images/pledge.jpg
+        image: /images/pledge.JPG
         alt: Pledge
     - infopic:
         title: Gardening with Edibles!
