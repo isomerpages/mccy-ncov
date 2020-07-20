@@ -200,6 +200,16 @@ $desktop: 960px + (2 * $gap) !default;
 	background: $primary;  /* Fallback for old browsers */
    	background: -webkit-linear-gradient(to right,$primary,$secondary);  /* Chrome 10-25, Safari 5.1-6 */
    	background: linear-gradient(to right,$primary,$secondary);
+	.col {
+	border-left:1px solid darken($primary,10%);
+	@include touch(){
+	border-top:1px solid darken($primary,10%);
+		}
+	&:hover{
+		background-color: darken($primary,10%);
+		}
+	}
+}
 
 
 // Navbar
