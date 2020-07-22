@@ -10,7 +10,7 @@ permalink: /stay-safe/
 |---|:---|
 |**Contact–Free Temperature Self-Check Kiosks Deployed at Public Transport Locations Islandwide**|As part of SG United - MCCY, the Land Transport Authority (LTA), and the Defence Science and Technology Agency (DSTA) supported Public Transport Operators to deploy contact-free temperature self-check kiosks at public transport locations island-wide. Attached are the [Media Release](/media/Temperature-Self-check-Kiosk-Media-Release-24062020.pdf), a list of [Frequently Asked Questions(FAQs)](/media/Annex-FAQs-on-Contact-Free-Temperature-Self-check-Kiosks-24062020.pdf) and link to the [Public Feedback Form](https://go.gov.sg/tempselfcheck).|
 
-#### Keep Engaged at Home 
+### Keep Engaged at Home 
 
 |---|:---|
 |Active and Healthy Lifestyle|[Visit](https://circle.myactivesg.com/circuit-breaker) to explore more activities and resources for you and your loved ones!|
@@ -52,7 +52,7 @@ permalink: /stay-safe/
 |Pre-school Home-based Learning Activities|Visit [ECDA’s webpage](https://www.go.gov.sg/preschoolhbl) and [Kidzmatters](https://kidzmatters.com) for home-based activity resources, interactive lessons for preschoolers, and parent guides.|
 |Go Digital|Help seniors in your home to [Go Digital](https://www.imsilver.imda.gov.sg )! |
 |PA Virtual CC|A series of free [‘live’ 30 minute classes](https://www.facebook.com/pg/pacourses/videos/) on social media platforms that caters to affected PA courses and activities. It encourages participants to remaining active and pursue their passion of learning. Participants can remain virtually connected during the live stream and share their comments with fellow viewers.|
-|NSA e-Nuggets Series|A series of free live talks on topics relating to active ageing conducted every Tuesday and Friday at 2pm on [C3A’s Facebook page](https://www.facebook.com/councilforthirdage/), as part of C3A’s ongoing efforts to promote e-learning. In each 45-minute talk, seniors can stay engaged and participate in e-learning, with topics ranging from IT, health & wellness, arts & more! You can also share your thoughts and even post questions via the Facebook comments during the Q&A segment.|
+|NSA e-Nuggets Series|A series of free live talks on topics relating to active ageing conducted every Tuesday at 2pm on [C3A’s Facebook page](https://www.facebook.com/councilforthirdage/), as part of C3A’s ongoing efforts to promote e-learning. In each 45-minute talk, seniors can stay engaged and participate in e-learning, with topics ranging from IT, health & wellness, arts & more! You can also share your thoughts and even post questions via the Facebook comments during the Q&A segment.|
 |Stay Home, Stay Active|[‘Stay Home, Stay Active’](https://www.c3a.org.sg/microsite/index.html) is an initiative to help seniors and their loved ones stay physically and mentally engaged while they stay at home. This platform offers curated content covering a variety of online learning resources as well as the latest updates on COVID-19.|
 
 ### BE SAFE WHEN OUT 
