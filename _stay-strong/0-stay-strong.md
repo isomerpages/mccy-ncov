@@ -1,38 +1,68 @@
 ---
-title: "Stay Strong, Singapore"
+title: "Brave The New"
 permalink: /stay-strong/
 ---
 
-### Stay Strong, Singapore
+![BTN](/images/stay-strong/Banners-01.jpg)
+  
+During this COVID-19 period, our lives have been profoundly changed. As we adapt to a new normal, it is natural for us to feel stressed or anxious. Others around us may also be feeling the same way too.
 
-Circuit Breaker was challenging, but we worked hard together to bring community transmission down. Singaporeans must continue to Stay Strong by taking care of our personal well-being, as well as support the well-being of those around us. Together, we can get through these unprecedented times, and emerge an stronger and more caring community. 
+We can take active steps to manage our emotions. We can also do our part to support others who are feeling stressed or anxious. Together, we can get through these unprecedented times, and emerge as a stronger and more caring community.
 
-Below are some ways that you can connect with others and get help. You can find more resources and links under the Support Resources tab!
+Together, we can Brave the New.
 
-#### Government Services
+### WE CAN BRAVE THE NEW  
 
-|---|:---|
-|**Talk Of The Town**|COVID-19 is a health and economic crisis that has greatly impacted our lives and livelihoods. The road to recovery will be long and difficult. We will need to make sacrifices, adapt and seize opportunities—to emerge stronger together. There are **[Government schemes and support measures](https://www.gov.sg/features/talk-of-the-town)** to help ease the load as we deal with the challenges arising from this crisis and prepare for the future.|
+Here are some ways to help us care for our personal well-being as well as those around us.
 
-#### Mental Wellness and Socio-Emotional Support 
+### TAKING CARE OF OURSELVES
 
-|---|:---|
-|National Care Hotline|Call the National Care Hotline (**6202-6868**) for emotional support - be it stress over finances or marital and family tensions. Trained officers will be able to link you up with social service agencies and specialised services if needed.|
-|Helplines|[Call these helplines](https://go.gov.sg/helplines) if you need emotional or psychological support, don’t hesitate to reach out if you are feeling weighed down by issues.|
-|Stay Well to Stay Strong|Thinking positively can make a big difference to our mental and emotional health.  When we embrace what we face in a more positive light, we can manage any challenging situation. [Check out tips and resources](https://www.healthhub.sg/programmes/170/StayWell#sleep-better) that can help us stay positive, care for ourselves and for others around us.|
-|Mindline.sg|A [one-stop repository for resources and tools](https://www.mindline.sg/) to improve well-being, including a self-assessment tool to provide direction to available resources|
-|#CopingwithCOVID19|A [Self-Care Series](https://www.cgh.com.sg/centres-services/tracs/Pages/Coping%20With%20COVID-19.aspx) developed by Changi General Hospital has resources to provide individuals with resilience building activities and strategies that can be practiced during this difficult period. Stay strong, Stay well!|
-|COVID-19 Mental Health Resources|The COVID-19 pandemic can take an emotional toll. [Learn to manage your mental wellbeing](https://www.stayprepared.sg/mymentalhealth) and if you need support, this website shows how and where to seek help. |
-|Beyond The Label Helpbot, Belle|[Chat with Belle](https://www.ncss.gov.sg/Our-Initiatives/Beyond-The-Label/BTLColumnData/Belle,-Beyond-the-Label-Helpbot ) to connect with resources and helplines for mental health-related advice.|
-|Cabin Fever 101: Are you Feeling it?|Feeling alone and sad, and not being able to cope with these feelings can lead to “cabin fever”. [Find out how to combat Cabin Fever](https://www.gov.sg/article/cabin-fever-101-are-you-feeling -it ).|
-|Social & Emotional Learning (SEL) Resources|The Circuit Breaker period can be tough, with children feeling disappointed about missing out on family trips and local tours, and bored because they have to stay at home. These [SEL Holiday Care Packs](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sel-resources-for-parents) were specially prepared to help students stay positive, stay healthy, and stay safe online. They also contain suggestions on how they can make the best use of the break through Values In Action@Home, family bonding activities and Arts activities.|
-|Smol Tok|COVID-19 is disrupting the way we live, work, play, rest, and communicate. With the circuit breaker in effect, take time to reflect on all the changes that you and your team are experiencing. [Smol Tok](https://www.starknicked.com/new-normal) contains 60 cards to help groups and teams acclimatise and adapt to the New Normal. It's designed to be played in small groups of 4-6 players, just before or after a teleconference.|
-|Digital Peace Kit|Roses for Peace share with us a [Digital Peace Kit](https://www.facebook.com/RosesOfPeace/posts/2329345003835612) on ways to find, seek and spread peace while we stay home during this period.|
+#### Understanding How We Feel
 
-#### Game for a Challenge?
+Being aware of our feelings is an important first step in helping us manage our anxieties and take action to change the way we feel. We can spend some time to do a self-check in to assess how we are feeling and why we are feeling this way.
 
-|---|:---|
-|#Startwith60 Challenge|Are you ready to challenge yourself? Team up with Active Health and level up in the [60-second daily challenge](https://campaign.activehealth.sg/startwith60?utm_campaign=circuit-breaker&utm_source=sgunited-connect&utm_medium=textlink). Get ready to play and feel better than ever before!|
-|Grow a Seed|Join us in our journey to transform Singapore into a City in Nature and support the ’30 by 30’ goal. [Sign up to receive a seed pack](https://go.gov.sg/seed-pack-registration) to grow edibles and nurture a love for gardening today!|
+Buttons:
+<Mindline.sg Self Assessment>
+<Feelings Tracker>
 
+#### Staying Calm
+
+Body copy:
+The next step we can take is to stay calm. After all, these are extraordinary times and it takes time to process and accept the new normal. Mindful exercises can help us focus on the present instead of all the negative things that can possibly happen. Some exercises we can practise include progressive relaxation, deep breathing and mindfulness.
+
+Buttons:
+Relaxation Audio Clips
+
+#### Changing Our Mindset
+
+Once we are in a calmer state of mind, we can then try to change the way we view the situation. We can also look for new opportunities to make the best of the situation. Here are some tips that we can adopt to change our mindset:
+
+Segment 1:
+Displace anxious thoughts
+Instead of focusing on the uncertainties and negatives, we can try to engage in things that we find enjoyable, such as hobbies and personal interests. This can help displace our anxious thoughts and prevent us from heading into a downward spiral.
+
+Segment 2:
+Be positive
+Being positive doesn’t mean we avoid our negative feelings. Instead, we can put things into perspective and focus on what we have. For example, while we may be worried about the possibility of losing our jobs, we can also choose to think optimistically and seize new opportunities presented by the situation, such as picking up new skills during our downtime to upgrade ourselves and increase our employability.
+
+Buttons:
+<My Positivity Guide>
+<Tips to be more positive in life> 
+
+Segment 3
+Be flexible and open to new possibilities
+Often, we feel frustrated when we run into challenges that seem insurmountable or are beyond our control. However, as daunting as it may seem, we can turn these challenges into opportunities if we are flexible and open to alternatives. The key is to identify what we can do instead of focusing on the loss. For example, if we find it challenging to find a job in our current field, we can grasp the opportunity to move into a different industry.
+
+Buttons:
+<Land your next job with a flexible mindset>
+
+#### Keeping Our Bodies Healthy
+
+Body copy:
+Staying physically well is also an essential part of combating stress and anxiety. By having a balanced diet, sleeping well and exercising regularly, we can maintain a healthy lifestyle that supports our mental well-being. 
+
+Buttons:
+<Eating well with a balanced diet> 
+<Keeping physically active> 
+<Spotify playlist for sleep>
 
