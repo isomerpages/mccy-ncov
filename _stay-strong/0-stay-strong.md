@@ -21,7 +21,7 @@ Here are some ways to help us care for our personal well-being as well as those 
 
 Being aware of our feelings is an important first step in helping us manage our anxieties and take action to change the way we feel. We can spend some time to do a self-check in to assess how we are feeling and why we are feeling this way.
 
-[Mindline.sg Self-Assessment](](https://www.mindline.sg/){:target="_blank" .yellow-rounded-button}
+[Mindline.sg Self-Assessment](https://www.mindline.sg/){:target="_blank" .yellow-rounded-button}
 
 ![BTN](/images/stay-strong/Banners-05.jpg)
 
