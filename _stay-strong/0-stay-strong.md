@@ -29,8 +29,7 @@ Being aware of our feelings is an important first step in helping us manage our 
 
 The next step we can take is to stay calm. After all, these are extraordinary times and it takes time to process and accept the new normal. Mindful exercises can help us focus on the present instead of all the negative things that can possibly happen. Some exercises we can practise include progressive relaxation, deep breathing and mindfulness.
 
-Buttons:
-Relaxation Audio Clips
+[Relaxation Audio Clips](https://www.healthhub.sg/programmes/170/StayWell#sleep-better-2){:target="_blank" .green-rounded-button}
 
 ![BTN](/images/stay-strong/Banners-06.jpg)
 
