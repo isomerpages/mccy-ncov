@@ -47,7 +47,9 @@ Once we are in a calmer state of mind, we can then try to change the way we view
 Staying physically well is also an essential part of combating stress and anxiety. By having a balanced diet, sleeping well and exercising regularly, we can maintain a healthy lifestyle that supports our mental well-being. 
 
 [Eating well with a balanced diet](https://www.healthhub.sg/programmes/170/StayWell#eat-well){:target="_blank" .green-rounded-button}
+
 [Keeping physically active](https://www.healthhub.sg/programmes/170/StayWell#stay-active){:target="_blank" .green-rounded-button}
+
 [Spotify playlist for sleep](https://open.spotify.com/playlist/23lVA8jLlZZndUtfubMjbs?si=qAqSCsWlQNGUj0ZS2LN5PA){:target="_blank" .green-rounded-button}
 
 
