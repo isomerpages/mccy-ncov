@@ -23,6 +23,8 @@ Being aware of our feelings is an important first step in helping us manage our 
 
 [Mindline.sg Self-Assessment](https://www.mindline.sg/){:target="_blank" .green-rounded-button}
 
+[Feelings Tracker](https://www.healthhub.sg/sites/assets/Assets/Programs/stay-well/phase-3/pdfs/Stay_Positive/Feelings_Tracker.PDF){:target="_blank" .green-rounded-button}
+
 ![BTN](/images/stay-strong/Banners-05.jpg)
 
 The next step we can take is to stay calm. After all, these are extraordinary times and it takes time to process and accept the new normal. Mindful exercises can help us focus on the present instead of all the negative things that can possibly happen. Some exercises we can practise include progressive relaxation, deep breathing and mindfulness.
@@ -59,11 +61,11 @@ Staying physically well is also an essential part of combating stress and anxiet
 
 Beyond taking care of ourselves, we can also reach out to support others who may be experiencing feelings of anxiety or stress. The simple act of expressing concern can make all the difference to them. 
 
-[Ways to look out for your loved ones](https://open.spotify.com/playlist/23lVA8jLlZZndUtfubMjbs?si=qAqSCsWlQNGUj0ZS2LN5PA){:target="_blank" .yellow-rounded-button}
+[Ways to look out for your loved ones](https://www.healthhub.sg/sites/assets/Assets/Programs/stay-well/phase-3/pdfs/Stay_Positive/9_Ways_To_Look_Out_For_Your_Loved_Ones.pdf){:target="_blank" .yellow-rounded-button}
 
-[Ideas to check in on others](https://open.spotify.com/playlist/23lVA8jLlZZndUtfubMjbs?si=qAqSCsWlQNGUj0ZS2LN5PA){:target="_blank" .yellow-rounded-button}
+[Ideas to check in on others](https://www.healthhub.sg/sites/assets/Assets/Programs/stay-well/phase-3/pdfs/Stay_Positive/14_Days_Of_JustCheckingIn.pdf){:target="_blank" .yellow-rounded-button}
 
-[Being there for your loved ones](https://open.spotify.com/playlist/23lVA8jLlZZndUtfubMjbs?si=qAqSCsWlQNGUj0ZS2LN5PA){:target="_blank" .yellow-rounded-button}
+[Being there for your loved ones](https://www.healthhub.sg/sites/assets/Assets/Programs/stay-well/phase-3/pdfs/Stay_Positive/3_Simple_Ways_To_Be_There_For_Your_Loved_Ones.pdf){:target="_blank" .yellow-rounded-button}
 
 ![BTN](/images/stay-strong/Banners-10.jpg)
 
@@ -77,4 +79,4 @@ In the same way someone who is feeling unwell would need extra help and support,
 
 [National Care Hotline – 6202 6868](http://www.ccs.org.sg/care-hotline){:target="_blank" .yellow-rounded-button}
 
-[Belle, Beyond The Label Helpbot](https://open.spotify.com/playlist/23lVA8jLlZZndUtfubMjbs?si=qAqSCsWlQNGUj0ZS2LN5PA){:target="_blank" .yellow-rounded-button}
+[Belle, Beyond The Label Helpbot](https://www.ncss.gov.sg/Our-Initiatives/Beyond-The-Label/BTLColumnData/Belle,-Beyond-the-Label-Helpbot){:target="_blank" .yellow-rounded-button}
