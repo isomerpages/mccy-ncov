@@ -25,7 +25,6 @@ Being aware of our feelings is an important first step in helping us manage our 
 
 ![BTN](/images/stay-strong/Banners-05.jpg)
 
-Body copy:
 The next step we can take is to stay calm. After all, these are extraordinary times and it takes time to process and accept the new normal. Mindful exercises can help us focus on the present instead of all the negative things that can possibly happen. Some exercises we can practise include progressive relaxation, deep breathing and mindfulness.
 
 Buttons:
@@ -35,13 +34,13 @@ Relaxation Audio Clips
 
 Once we are in a calmer state of mind, we can then try to change the way we view the situation. We can also look for new opportunities to make the best of the situation. Here are some tips that we can adopt to change our mindset:
 
-|---|:---|
+|---|---|
 |Displace anxious thoughts|Instead of focusing on the uncertainties and negatives, we can try to engage in things that we find enjoyable, such as hobbies and personal interests. This can help displace our anxious thoughts and prevent us from heading into a downward spiral.|
-|Be positive|Being positive doesn’t mean we avoid our negative feelings. Instead, we can put things into perspective and focus on what we have. For example, while we may be worried about the possibility of losing our jobs, we can also choose to think optimistically and seize new opportunities presented by the situation, such as picking up new skills during our downtime to upgrade ourselves and increase our employability.
-[My Positivity Guide](https://www.healthhub.sg/sites/assets/Assets/Programs/stay-well/phase-3/pdfs/Stay_Positive/My_Positivity_Guide.pdf){:target="_blank" .green-rounded-button}
-[Tips to be more positive in life](https://www.healthhub.sg/live-healthy/428/its-the-little-things){:target="_blank" .green-rounded-button}|
-|Be flexible and open to new possibilities|Often, we feel frustrated when we run into challenges that seem insurmountable or are beyond our control. However, as daunting as it may seem, we can turn these challenges into opportunities if we are flexible and open to alternatives. The key is to identify what we can do instead of focusing on the loss. For example, if we find it challenging to find a job in our current field, we can grasp the opportunity to move into a different industry.
-[Land your next job with a flexible midset](https://content.mycareersfuture.sg/careercoaching/article/a-right-mindset-gets-you-closer-to-your-next-job/){:target="_blank" .green-rounded-button}|
+|Be positive|Being positive doesn’t mean we avoid our negative feelings. Instead, we can put things into perspective and focus on what we have. For example, while we may be worried about the possibility of losing our jobs, we can also choose to think optimistically and seize new opportunities presented by the situation, such as picking up new skills during our downtime to upgrade ourselves and increase our employability.|
+||[My Positivity Guide](https://www.healthhub.sg/sites/assets/Assets/Programs/stay-well/phase-3/pdfs/Stay_Positive/My_Positivity_Guide.pdf){:target="_blank" .green-rounded-button}|
+||[Tips to be more positive in life](https://www.healthhub.sg/live-healthy/428/its-the-little-things){:target="_blank" .green-rounded-button}|
+|Be flexible and open to new possibilities|Often, we feel frustrated when we run into challenges that seem insurmountable or are beyond our control. However, as daunting as it may seem, we can turn these challenges into opportunities if we are flexible and open to alternatives. The key is to identify what we can do instead of focusing on the loss. For example, if we find it challenging to find a job in our current field, we can grasp the opportunity to move into a different industry.|
+||[Land your next job with a flexible midset](https://content.mycareersfuture.sg/careercoaching/article/a-right-mindset-gets-you-closer-to-your-next-job/){:target="_blank" .green-rounded-button}|
 
 ![BTN](/images/stay-strong/Banners-07.jpg)
 
