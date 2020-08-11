@@ -35,7 +35,7 @@ Relaxation Audio Clips
 
 Once we are in a calmer state of mind, we can then try to change the way we view the situation. We can also look for new opportunities to make the best of the situation. Here are some tips that we can adopt to change our mindset:
 
-|:---|:---|
+|---|:---|
 |Displace anxious thoughts|Instead of focusing on the uncertainties and negatives, we can try to engage in things that we find enjoyable, such as hobbies and personal interests. This can help displace our anxious thoughts and prevent us from heading into a downward spiral.|
 |Be positive|Being positive doesn’t mean we avoid our negative feelings. Instead, we can put things into perspective and focus on what we have. For example, while we may be worried about the possibility of losing our jobs, we can also choose to think optimistically and seize new opportunities presented by the situation, such as picking up new skills during our downtime to upgrade ourselves and increase our employability.
 <My Positivity Guide>
