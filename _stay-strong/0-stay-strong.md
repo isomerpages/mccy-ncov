@@ -58,9 +58,7 @@ Staying physically well is also an essential part of combating stress and anxiet
 Beyond taking care of ourselves, we can also reach out to support others who may be experiencing feelings of anxiety or stress. The simple act of expressing concern can make all the difference to them. 
 
 [Ways to look out for your loved ones](https://www.healthhub.sg/sites/assets/Assets/Programs/stay-well/phase-3/pdfs/Stay_Positive/9_Ways_To_Look_Out_For_Your_Loved_Ones.pdf){:target="_blank" .yellow-rounded-button}
-
 [Ideas to check in on others](https://www.healthhub.sg/sites/assets/Assets/Programs/stay-well/phase-3/pdfs/Stay_Positive/14_Days_Of_JustCheckingIn.pdf){:target="_blank" .yellow-rounded-button}
-
 [Being there for your loved ones](https://www.healthhub.sg/sites/assets/Assets/Programs/stay-well/phase-3/pdfs/Stay_Positive/3_Simple_Ways_To_Be_There_For_Your_Loved_Ones.pdf){:target="_blank" .yellow-rounded-button}
 
 ![BTN](/images/stay-strong/Banners-10.jpg)
