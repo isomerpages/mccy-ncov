@@ -11,13 +11,13 @@ We can take active steps to manage our emotions. We can also do our part to supp
 
 Together, we can Brave the New.
 
-### WE CAN BRAVE THE NEW  
+![BTN](/images/stay-strong/Banners-02.jpg)
 
 Here are some ways to help us care for our personal well-being as well as those around us.
 
-### TAKING CARE OF OURSELVES
+![BTN](/images/stay-strong/Banners-03.jpg)
 
-#### Understanding How We Feel
+![BTN](/images/stay-strong/Banners-04.jpg)
 
 Being aware of our feelings is an important first step in helping us manage our anxieties and take action to change the way we feel. We can spend some time to do a self-check in to assess how we are feeling and why we are feeling this way.
 
@@ -25,7 +25,7 @@ Buttons:
 <Mindline.sg Self Assessment>
 <Feelings Tracker>
 
-#### Staying Calm
+![BTN](/images/stay-strong/Banners-05.jpg)
 
 Body copy:
 The next step we can take is to stay calm. After all, these are extraordinary times and it takes time to process and accept the new normal. Mindful exercises can help us focus on the present instead of all the negative things that can possibly happen. Some exercises we can practise include progressive relaxation, deep breathing and mindfulness.
@@ -33,7 +33,7 @@ The next step we can take is to stay calm. After all, these are extraordinary ti
 Buttons:
 Relaxation Audio Clips
 
-#### Changing Our Mindset
+![BTN](/images/stay-strong/Banners-06.jpg)
 
 Once we are in a calmer state of mind, we can then try to change the way we view the situation. We can also look for new opportunities to make the best of the situation. Here are some tips that we can adopt to change our mindset:
 
@@ -56,9 +56,8 @@ Often, we feel frustrated when we run into challenges that seem insurmountable o
 Buttons:
 <Land your next job with a flexible mindset>
 
-#### Keeping Our Bodies Healthy
+![BTN](/images/stay-strong/Banners-07.jpg)
 
-Body copy:
 Staying physically well is also an essential part of combating stress and anxiety. By having a balanced diet, sleeping well and exercising regularly, we can maintain a healthy lifestyle that supports our mental well-being. 
 
 Buttons:
@@ -66,3 +65,10 @@ Buttons:
 <Keeping physically active> 
 <Spotify playlist for sleep>
 
+![BTN](/images/stay-strong/Banners-08.jpg)
+
+![BTN](/images/stay-strong/Banners-09.jpg)
+
+![BTN](/images/stay-strong/Banners-10.jpg)
+
+![BTN](/images/stay-strong/Banners-11.jpg)
