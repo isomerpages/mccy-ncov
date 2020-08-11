@@ -21,7 +21,7 @@ Here are some ways to help us care for our personal well-being as well as those 
 
 Being aware of our feelings is an important first step in helping us manage our anxieties and take action to change the way we feel. We can spend some time to do a self-check in to assess how we are feeling and why we are feeling this way.
 
-[Mindline.sg Self-Assessment](https://www.mindline.sg/){:target="_blank" .yellow-rounded-button}
+[Mindline.sg Self-Assessment](https://www.mindline.sg/){:target="_blank" .green-rounded-button}
 
 ![BTN](/images/stay-strong/Banners-05.jpg)
 
@@ -38,12 +38,10 @@ Once we are in a calmer state of mind, we can then try to change the way we view
 |---|:---|
 |Displace anxious thoughts|Instead of focusing on the uncertainties and negatives, we can try to engage in things that we find enjoyable, such as hobbies and personal interests. This can help displace our anxious thoughts and prevent us from heading into a downward spiral.|
 |Be positive|Being positive doesn’t mean we avoid our negative feelings. Instead, we can put things into perspective and focus on what we have. For example, while we may be worried about the possibility of losing our jobs, we can also choose to think optimistically and seize new opportunities presented by the situation, such as picking up new skills during our downtime to upgrade ourselves and increase our employability.
-<My Positivity Guide>
-<Tips to be more positive in life> |
+[My Positivity Guide](https://www.healthhub.sg/sites/assets/Assets/Programs/stay-well/phase-3/pdfs/Stay_Positive/My_Positivity_Guide.pdf){:target="_blank" .green-rounded-button}
+[Tips to be more positive in life](https://www.healthhub.sg/live-healthy/428/its-the-little-things){:target="_blank" .green-rounded-button}|
 |Be flexible and open to new possibilities|Often, we feel frustrated when we run into challenges that seem insurmountable or are beyond our control. However, as daunting as it may seem, we can turn these challenges into opportunities if we are flexible and open to alternatives. The key is to identify what we can do instead of focusing on the loss. For example, if we find it challenging to find a job in our current field, we can grasp the opportunity to move into a different industry.
-
-Buttons:
-<Land your next job with a flexible mindset>|
+[Land your next job with a flexible midset](https://content.mycareersfuture.sg/careercoaching/article/a-right-mindset-gets-you-closer-to-your-next-job/){:target="_blank" .green-rounded-button}|
 
 ![BTN](/images/stay-strong/Banners-07.jpg)
 
