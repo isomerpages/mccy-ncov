@@ -6,11 +6,11 @@ permalink: /
 notification:
 sections:
     - hero:
-        title: "Stay Strong, Singapore"
-        subtitle: "Together we can overcome COVID-19, and emerge stronger"
-        background: /images/Banner-6.jpg
+        title: "Together, We Can Brave The New"
+        subtitle: "It’s okay to feel stressed or anxious as we adapt to the new normal amidst COVID-19. Together, we can take steps to better care for our mental well-being, and also lend support to those around us who feel the same way."
+        background: /images/Banner-7.jpg
         url: /stay-strong/
-        button: Stay Strong!
+        button: Let’s Brave The New
         key_highlights:
             - title: Stay Safe
               description: Keep Engaged at Home & Be Safe when Out

@@ -161,7 +161,40 @@ $desktop: 960px + (2 * $gap) !default;
 	  	}
 	}
 }
+	 
+// Stay Strong Button
+	  
+.green-rounded-button {
+  background-color: #C4DA92;
+  padding: 0.5rem 1.5rem;
+  border-radius: 50px;
+  font-weight: bold;
+  text-decoration: none !important;
+  color: #484848 !important;
+  display: inline-block;
+}
 
+.green-rounded-button:hover{
+  background-color: #B2C685;
+
+}
+
+.yellow-rounded-button {
+  background-color: #F8DF6C;
+  padding: 0.5rem 1.5rem;
+  border-radius: 50px;
+  font-weight: bold;
+  text-decoration: none !important;
+  color: #484848 !important;
+  display: inline-block;
+
+}
+
+.yellow-rounded-button:hover{
+  background-color: #ECD268;
+
+}
+  
 // Bottom navigation bar
 .bottom-navigation {
 	a {
