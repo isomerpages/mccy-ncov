@@ -25,6 +25,7 @@ collections:
     output: true
 resources_name: stories
 google_analytics: UA-158922520-1
+facebook-pixel: 406755930015071
 shareicon: /images/sgunitedshare.jpg
 
 ##################################################################################################################
