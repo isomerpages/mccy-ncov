@@ -5,8 +5,8 @@
 @charset "utf-8";
 
 // Agency brand colors
-$primary: #b4367d;
-$secondary: #f25e5a;
+$primary: #e61a3a;
+$secondary: #d81937;
 $secondary-hover: lighten($secondary, 10%);
 
 {%- for media-color in site.colors.media-colors -%}
@@ -161,7 +161,7 @@ $desktop: 960px + (2 * $gap) !default;
 	  	}
 	}
 }
-	 
+
 // Stay Strong Button
 	  
 .green-rounded-button {
@@ -194,7 +194,7 @@ $desktop: 960px + (2 * $gap) !default;
   background-color: #ECD268;
 
 }
-  
+
 // Bottom navigation bar
 .bottom-navigation {
 	a {
@@ -230,20 +230,17 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Homepage
 #key-highlights{
-	background: $primary;  /* Fallback for old browsers */
-   	background: -webkit-linear-gradient(to right,$primary,$secondary);  /* Chrome 10-25, Safari 5.1-6 */
-   	background: linear-gradient(to right,$primary,$secondary);
+	background-color: $primary;
 	.col {
-	border-left:1px solid darken($primary,10%);
-	@include touch(){
-	border-top:1px solid darken($primary,10%);
+		border-left:1px solid darken($primary,10%);
+		@include touch(){
+			border-top:1px solid darken($primary,10%);
 		}
-	&:hover{
-		background-color: darken($primary,10%);
+		&:hover{
+			background-color: darken($primary,10%);
 		}
 	}
 }
-
 
 // Navbar
 .navbar{

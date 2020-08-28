@@ -28,14 +28,6 @@ sections:
         button:
         url:
     - infopic:
-        title: Commit
-        subtitle: The "Our Heart for Singapore" project aims to inspire Singaporeans to take action and support meaningful causes.
-        description: Take a leap of faith, commit to a pledge and contribute to a shared future. You can make the difference!
-        button: Find Out More!
-        url: "https://pledge.life.gov.sg"
-        image: /images/pledge.JPG
-        alt: Pledge
-    - infopic:
         title: Gardening with Edibles!
         subtitle: Growing Our City in Nature
         description: Join us in our journey to transform Singapore into a City in Nature and support the ’30 by 30’ goal. Sign up to receive a seed pack to grow edibles and nurture a love for gardening today!
