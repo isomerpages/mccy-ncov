@@ -27,7 +27,7 @@ COVID-19 has greatly affected our jobs and livelihood.
 
 If you have lost your job as a result of COVID-19, the **[COVID-19 Support Grant](https://www.singaporebudget.gov.sg/docs/default-source/budget_2020/download/pdf/supplementary_annexb2.pdf)** provides financial assistance while you look for a new job or attend training. Successful applicants will receive a monthly cash grant of $800, for three months.
 
-You can also visit the **[WSG portal](https://www.ssg-wsg.gov.sg/)** to access a whole range of SGUnited Jobs and Skills programmes, including tips for **[coping with job loss](https://content.mycareersfuture.sg/careercoaching/career-tags/job-loss/)**. 
+You can also visit the **[WSG portal]( https://www.wsg.gov.sg/SGUnited.html/?utm_source=mccy&utm_medium=digital&utm_campaign=sgunited)** to access a whole range of SGUnited Jobs and Skills programmes, including tips for **[coping with job loss](https://content.mycareersfuture.gov.sg/careercoaching/career-tags/job-loss/?utm_source=mccy&utm_medium=digital&utm_campaign=sgunited)**. 
 
 Entering the workforce soon? Visit **[GradGoWhere.sg](https://gradgowhere.sg/)** for career-related information and resources geared towards graduating students and fresh graduates who are entering the job market during the COVID-19 situation.
 
