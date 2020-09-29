@@ -59,14 +59,6 @@ sections:
         url: "https://www.sgunited-appreciate.gov.sg"
         image: /images/thank.jpg
         alt: Thanks
-    - infopic:
-        title: Inspire!
-        subtitle: Why not fly our National Flag to show solidarity?
-        description:  Display our flag as one united people
-        button: Find Out More!
-        url: "https://www.nhb.gov.sg/what-we-do/our-work/community-engagement/education/resources/national-symbols/national-flag"
-        image: /images/Banner-4.jpg
-        alt:   Inspire
     - resources:
         title: Stories
         subtitle: How we stood and will stand by one another
