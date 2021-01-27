@@ -3,7 +3,7 @@ layout: homepage
 title: "SG United"
 description: Stay Strong, Singapore
 permalink: /
-notification: We have received reports of a phishing scam offering SG United Jobs to members of the public in exchange for personal information. Job offers and information are available on the <a target="_blank" href="https://www.wsg.gov.sg/sgunited/">SG United Jobs Portal</a>.
+notification: We have received reports of a phishing scam offering SG United Jobs to members of the public in exchange for personal information. Job offers and information are available on the <a target="_blank" href="https://www.wsg.gov.sg/sgunited">SG United Jobs Portal</a>.
 sections:
     - hero:
         title: "Together, We Can Brave The New"
