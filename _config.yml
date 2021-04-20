@@ -18,11 +18,6 @@ colors:
     - title: media-color-five
       color: '#e61a3a'
 
-collections:
-  stay-united:
-    output: true
-  stay-strong:
-    output: true
 resources_name: stories
 google_analytics: UA-158922520-1
 facebook-pixel: 406755930015071
@@ -46,10 +41,13 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+description: test test
+
+staging: https://mccy-ncov-staging.netlify.com
+prod: https://mccy-ncov-prod.netlify.com
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
-
+  - jekyll-remote-theme

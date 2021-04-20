@@ -1,0 +1,6 @@
+collections:
+  stay-strong:
+    output: true
+    order:
+      - brave-the-new.md
+      - additional-support-resources.md
