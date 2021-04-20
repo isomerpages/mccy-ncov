@@ -1,0 +1,6 @@
+collections:
+  stay-united:
+    output: true
+    order:
+      - stay-united.md
+      - start-an-initiative.md
