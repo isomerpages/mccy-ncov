@@ -4,8 +4,8 @@ title: SG United
 description: Stay Strong, Singapore
 permalink: /
 notification: We're moving! From 20 Sep 2021,  we can be found at <a
-  target="_blank" href="https://www.sg">Our SG </a>. From volunteering to
-  partnering activities to starting your own ground-up SG Together community
+  target="_blank" href="https://www.sg">Our SG (www.sg) </a>. From volunteering
+  to partnering activities to starting your own ground-up SG Together community
   initiative, there is something for everyone. Hope to see you soon!
 sections:
   - hero:
