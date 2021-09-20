@@ -1,14 +1,7 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/SGUnitedSGT2.jpg
-
 links:
   - title: Volunteer
-    url: "https://www.giving.sg/sgunited-volunteers"
+    url: https://www.giving.sg/sgunited-volunteers
   - title: Donate
     url: /donate/
   - title: Download
@@ -17,8 +10,5 @@ links:
     url: /stay-strong/
   - title: Stories & Content
     url: /stories/
-  - title: Contact
-    url: /contact-us/
   - title: GOV.SG
-    url: "https://www.gov.sg/features/covid-19"
-
+    url: https://www.gov.sg/features/covid-19
