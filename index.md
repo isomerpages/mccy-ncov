@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: SG United
-description: Stay Strong, Singapore
+description: ""
 permalink: /
 notification: We're moving! From 20 Sep 2021,  more information on Covid-19 can
   be found at can be found at <a target="_blank"
