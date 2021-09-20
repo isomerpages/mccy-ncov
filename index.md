@@ -3,10 +3,12 @@ layout: homepage
 title: SG United
 description: Stay Strong, Singapore
 permalink: /
-notification: We're moving! From 20 Sep 2021,  we can be found at <a
-  target="_blank" href="https://www.sg">Our SG (www.sg) </a>. From volunteering
-  to partnering activities to starting your own ground-up SG Together community
-  initiative, there is something for everyone. Hope to see you soon!
+notification: We're moving! From 20 Sep 2021,  more information on Covid-19 can
+  be found at can be found at <a target="_blank"
+  href="https://www.singaporetogether.gov.sg/">SG Together </a>. From
+  volunteering to partnering activities to starting your own ground-up SG
+  Together community initiative, there is something for everyone. Hope to see
+  you soon!
 sections:
   - hero:
       title: Together, We Can Brave The New
