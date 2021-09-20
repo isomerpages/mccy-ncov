@@ -1,48 +1,52 @@
 title: SG United
-url: "https://www.sgunited.gov.sg" 
+url: https://www.sgunited.gov.sg
 favicon: /images/SGUnited.ico
-
-# Site colors
 colors:
-  primary-color: '#e61a3a'
-  secondary-color: '#4372d6'
+  primary-color: "#e61a3a"
+  secondary-color: "#4372d6"
   media-colors:
     - title: media-color-one
-      color: '#e61a3a'
+      color: "#e61a3a"
     - title: media-color-two
-      color: '#4372d6'
+      color: "#4372d6"
     - title: media-color-three
-      color: '#e61a3a'
+      color: "#e61a3a"
     - title: media-color-four
-      color: '#e61a3a'
+      color: "#e61a3a"
     - title: media-color-five
-      color: '#e61a3a'
-
+      color: "#e61a3a"
 resources_name: stories
 google_analytics: UA-158922520-1
 facebook-pixel: 406755930015071
 shareicon: /images/sgunitedshare.jpg
-
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
 permalink: none
 baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
       path: ""
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-description: test test
-
+description: ""
 staging: https://mccy-ncov-staging.netlify.com
 prod: https://mccy-ncov-prod.netlify.com
 plugins:
