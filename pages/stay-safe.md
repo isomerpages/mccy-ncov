@@ -2,7 +2,6 @@
 title: Stay Safe
 permalink: /stay-safe/
 ---
-
 [![Phase 2-3](/images/Phase2-3.jpg/)](https://www.moh.gov.sg/covid-19/resources)
 
 ### Public Services
@@ -22,7 +21,6 @@ permalink: /stay-safe/
 |---|:---|
 |Mehgowhere.sg|A youth-centric microsite that aims to help youths understand the situation, assuage their concerns and rally them to do their part, all while having some fun at home. With daily content, useful resources and more, [MehGoWhere](https://www.mehgowhere.sg) is designed to empower youths to take on the challenges of the COVID-19 outbreak.|
 |CR8 Studio SG|[CR8 Studio SG](https://www.facebook.com/groups/cr8studiosg/?ref=share) is a digital video channel to help creative freelancers channel their expertise into producing live stream content to engage youth during COVID-19. CR8 Studio SG launched their first video on 20 April and will be bringing you video content from fitness & wellness, social media trends, live local music acts and even stand-up comedy from some of Singapore’s creatives such as Fukkah Fuzz, Shigga Shay, Cheryl Tay and Sandra Riley Tang.|
-|National Youth Council|Find out what Youths in Singapore are doing in response to COVID-19 on [National Youth Council](https://www.facebook.com/nycsg/) and [Youth.sg](https://www.facebook.com/youthdotsg/).|
 |ActiveSG (Circle)|Check out [ActiveSG Circle](https://circle.myactivesg.com/circuit-breaker?utm_campaign=circuit-breaker&utm_source=sgunited-thrive&utm_medium=textlink) for inspiration on what to do during the circuit breaker period and beyond.|
 |AIC Wellness Programme|The AIC Wellness Programme engages seniors through the provision of meaningful activities to enhance their wellbeing and quality of life. Click [here](https://www.aic.sg/care-services/AIC%20Wellness%20Programme) to find an array of resources for a wide spectrum of seniors.|
 |Stay Well to Stay Strong|Visit [HealthHub](https://www.healthhub.sg/staywell) today to kickstart your healthy habits with good hygiene practices, an active lifestyle, a balanced diet and sufficient sleep.|
@@ -61,4 +59,3 @@ permalink: /stay-safe/
 |Safe Distance @ Parks|Visit [Safe Distance @ Parks](https://safedistparks.nparks.gov.sg) for more information on the visitorship of some of our major parks and green spaces.|
 |Space Out|Visit [Space Out](https://www.spaceout.gov.sg) for more information on which mores are less crowded during different times of the day, before heading out to buy essential goods and services.|
 |TraceTogether|Download the TraceTogether app to support nationwide efforts to reduce the spread of COVID-19. Let's work together as a nation to combat the situation! Click on either link for your device type: [Apple Devices](https://apps.apple.com/sg/app/tracetogether/id1498276074) or [Android Devices](https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace&hl=en)|
-
